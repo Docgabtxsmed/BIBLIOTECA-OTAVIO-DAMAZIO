@@ -1,0 +1,517 @@
+{
+  "id": "rafael-azevedo",
+  "meta": {
+    "title": "RAFAEL AZEVEDO.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "RAFAEL"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "citorredutoras-com-hipec",
+      "title": "CITORREDUTORAS COM HIPEC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Rafael Azevedo - ME3"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores: Dr. Murilo Nascimento, Dra. Alynne Rodas"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "CITORREDUÇÃO COM QUIMIOTERAPIA HIPERTÉRMICA (HIPEC)"
+        },
+        {
+          "type": "text",
+          "value": "● Tratamento local de metástases peritoniais"
+        },
+        {
+          "type": "text",
+          "value": "● Citorredução: extensas ressecções"
+        },
+        {
+          "type": "text",
+          "value": "● HIPEC: hipertensão abdominal, hipertermia, citotoxicidade"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o---monitoriza--o-hemodin-mica",
+      "title": "INTRODUÇÃO - Monitorização hemodinâmica",
+      "content": [
+        {
+          "type": "text",
+          "value": "Fonte: Adaptado de KOUZ K, SCHEEREN TWL, DE BACKER D, SAUGEL B. Pulse Wave Analysis to"
+        },
+        {
+          "type": "text",
+          "value": "Estimate Cardiac Output. Anesthesiology. 2021 Jan 1;134(1):119-126. doi: 10.1097/ALN.0000000000003553. PMID: 32914174.30."
+        }
+      ]
+    },
+    {
+      "id": "hip-tese",
+      "title": "HIPÓTESE:",
+      "content": [
+        {
+          "type": "text",
+          "value": "Os sistemas de monitorização hemodinâmica LiDCO e VolumeView"
+        },
+        {
+          "type": "text",
+          "value": "apresentam concordância para os dados de DC, IC, VS, IVS, RVS e IRVS."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral",
+      "title": "Objetivo geral:",
+      "content": [
+        {
+          "type": "text",
+          "value": "Avaliar a concordância entre as variáveis hemodinâmicas obtidas através dos aparelhos"
+        },
+        {
+          "type": "text",
+          "value": "VolumeView (Edwards Lifesciences) e LiDCO (Masimo)."
+        }
+      ]
+    },
+    {
+      "id": "objetivos-espec-ficos",
+      "title": "Objetivos específicos:",
+      "content": [
+        {
+          "type": "text",
+          "value": "a) Avaliar a concordância dos valores de débito cardíaco (DC);"
+        },
+        {
+          "type": "text",
+          "value": "b) Avaliar a concordância dos valores de índice cardíaco (IC);"
+        },
+        {
+          "type": "text",
+          "value": "c) Avaliar a concordância dos valores de volume sistólico (VS)"
+        },
+        {
+          "type": "text",
+          "value": "d) Avaliar a concordância dos valores de volume sistólico indexado (IVS);"
+        },
+        {
+          "type": "text",
+          "value": "e) Avaliar a concordância dos valores de índice de resistência vascular sistêmica (RVS) e"
+        },
+        {
+          "type": "text",
+          "value": "f) Avaliar a concordância dos valores de índice de resistência vascular sistêmica indexada (IRVS)."
+        }
+      ]
+    },
+    {
+      "id": "m-todo",
+      "title": "MÉTODO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tipo do estudo: exploratório observacional prospectivo de concordância entre métodos de"
+        },
+        {
+          "type": "text",
+          "value": "monitorização hemodinâmica (VolumeView vs. LiDCO) em pacientes submetidos a cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "citorredutora com HIPEC"
+        },
+        {
+          "type": "text",
+          "value": "Local: Hospital Universitário Oswaldo Cruz (HUOC), em Recife - Pernambuco"
+        },
+        {
+          "type": "text",
+          "value": "População: pacientes de idade maior que 18 anos, de ambos os sexos, submetidos a"
+        },
+        {
+          "type": "text",
+          "value": "citorredução com HIPEC entre abril de 2024 e março de 2025"
+        },
+        {
+          "type": "text",
+          "value": "Análise estatística e cálculo amostral: método de Bland-Altman"
+        }
+      ]
+    },
+    {
+      "id": "m-todo",
+      "title": "MÉTODO",
+      "content": [
+        {
+          "type": "text",
+          "value": "● Tratamento de Outliers: medições cuja diferença entre os métodos estivesse fora do intervalo de"
+        },
+        {
+          "type": "text",
+          "value": "1,5 vezes o intervalo interquartil (IQR)"
+        },
+        {
+          "type": "text",
+          "value": "● Análise de Concordância: Utilizou-se o método de Bland-Altman. Foi calculado o viés (diferença"
+        },
+        {
+          "type": "text",
+          "value": "média) e os limites de concordância (LoA: viés ± 1,96 desvios padrão), com seus respectivos"
+        },
+        {
+          "type": "text",
+          "value": "intervalos de confiança de 95% (IC 95%)."
+        },
+        {
+          "type": "text",
+          "value": "● Análise do Viés e Correlação: O teste t de uma amostra foi usado para determinar a significância"
+        },
+        {
+          "type": "text",
+          "value": "estatística do viés. A correlação linear foi avaliada com o coeficiente de Pearson (r), e sua"
+        },
+        {
+          "type": "text",
+          "value": "significância também foi testada. Adotou-se um nível de significância de p < 0,05."
+        },
+        {
+          "type": "text",
+          "value": "● Erro Percentual: Foi calculado para quantificar a discordância em relação à média das medições."
+        }
+      ]
+    },
+    {
+      "id": "m-todo",
+      "title": "MÉTODO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Critérios de exclusão"
+        },
+        {
+          "type": "text",
+          "value": "● Não concordância em participar do estudo e assinar o TCLE;"
+        },
+        {
+          "type": "text",
+          "value": "● Idade menor do que 18 anos;"
+        },
+        {
+          "type": "text",
+          "value": "● Distúrbio da coagulação, variação anatômica ou qualquer outra condição que impeça a cateterização de uma"
+        },
+        {
+          "type": "text",
+          "value": "artéria femoral e uma veia central;"
+        },
+        {
+          "type": "text",
+          "value": "● Presença de fibrilação ou flutter atrial no momento do procedimento cirúrgico;"
+        },
+        {
+          "type": "text",
+          "value": "● Presença de marca-passo;"
+        }
+      ]
+    },
+    {
+      "id": "t-cnica-anest-sica",
+      "title": "TÉCNICA ANESTÉSICA:",
+      "content": [
+        {
+          "type": "text",
+          "value": "● Monitorização básica (cardioscopia, PNI, oximetria, temperatura) + BIS"
+        },
+        {
+          "type": "text",
+          "value": "● Peridural torácica: dose única de ropivacaína 0,2% 10-20 ml, morfina 1,0-2,0 mg e sulfentanil 10"
+        },
+        {
+          "type": "text",
+          "value": "mcg"
+        },
+        {
+          "type": "text",
+          "value": "● Indução anestésica e IOT > propofol TCI, fentanil 3,0 mg/kg, lidocaína 1,0-2,0 mg/kg e rocurônio"
+        },
+        {
+          "type": "text",
+          "value": "1,2 mg/kg."
+        },
+        {
+          "type": "text",
+          "value": "● Cateterizadas a artéria femoral, uma artéria radial e uma veia central"
+        }
+      ]
+    },
+    {
+      "id": "m-todo",
+      "title": "MÉTODO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Calibração do DC no sistema VolumeView, foram administrados 15 mL de solução salina nos seguintes"
+        },
+        {
+          "type": "text",
+          "value": "tempos:"
+        },
+        {
+          "type": "text",
+          "value": "1. No início do procedimento;"
+        },
+        {
+          "type": "text",
+          "value": "2. 30 minutos antes do início da HIPEC;"
+        },
+        {
+          "type": "text",
+          "value": "3. 30 minutos após o início da HIPEC;"
+        },
+        {
+          "type": "text",
+          "value": "4. 60 minutos após o início da HIPEC;"
+        },
+        {
+          "type": "text",
+          "value": "5. 90 minutos após o início da HIPEC:"
+        },
+        {
+          "type": "text",
+          "value": "6. 30 minutos após o fim da HIPEC e"
+        },
+        {
+          "type": "text",
+          "value": "7. 10 minutos antes do fim da cirurgia."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 1: Características antropométricas e Resultados"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgicas da amostra avaliada"
+        },
+        {
+          "type": "text",
+          "value": "Idade - Média ± dp (em anos) 51 ± 11,1"
+        },
+        {
+          "type": "text",
+          "value": "Sexo"
+        },
+        {
+          "type": "text",
+          "value": "Masculino 2 (33%)"
+        },
+        {
+          "type": "text",
+          "value": "Feminino 4 (66%)"
+        },
+        {
+          "type": "text",
+          "value": "IMC - Média ± dp (em kg/m²) 30 ± 3,5"
+        }
+      ]
+    },
+    {
+      "id": "iii",
+      "title": "III 4 (66%)",
+      "content": [
+        {
+          "type": "text",
+          "value": "Fonte: Elaboração própria"
+        },
+        {
+          "type": "text",
+          "value": "Fonte: Elaboração própria"
+        },
+        {
+          "type": "text",
+          "value": "Tabela 3: Métricas de Concordância Hemodinâmica nas Fases Cirúrgicas"
+        },
+        {
+          "type": "text",
+          "value": "Variável Fase Viés Limites de Erro Correlação"
+        },
+        {
+          "type": "text",
+          "value": "Cirúrgica Concordância Percentual de Pearson"
+        },
+        {
+          "type": "text",
+          "value": "(LoA) (PE)"
+        },
+        {
+          "type": "text",
+          "value": "Débito Cardíaco (DC) Total 1,19 -2,09 a 4,46 ~55,7% 0,49"
+        },
+        {
+          "type": "text",
+          "value": "Pré-HIPEC 1,22 -1,35 a 3,79 ~46,5% 0,62"
+        },
+        {
+          "type": "text",
+          "value": "Durante/Pó 1,22 -2,56 a 4,99 ~60% 0,35"
+        },
+        {
+          "type": "text",
+          "value": "s-HIPEC"
+        },
+        {
+          "type": "text",
+          "value": "Volume Sistólico (VS) Total 15,01 -27,65 a 57,67 ~56% 0,24"
+        },
+        {
+          "type": "text",
+          "value": "Pré-HIPEC 15,65 -18,94 a 50,23 ~48.5% 0,49"
+        },
+        {
+          "type": "text",
+          "value": "Durante/Pó 14,12 -36,54 a 64,78 ~61% -0,11"
+        },
+        {
+          "type": "text",
+          "value": "s-HIPEC"
+        },
+        {
+          "type": "text",
+          "value": "Resistência Vascular Total -86,29 -659,69 a 487,11 ~61% 0,66"
+        },
+        {
+          "type": "text",
+          "value": "Sistêmica (RVS)"
+        },
+        {
+          "type": "text",
+          "value": "Fonte: Elaboração própria"
+        },
+        {
+          "type": "text",
+          "value": "Pré-HIPEC -139,01 -661,13 a 383,10 ~52% 0,79"
+        },
+        {
+          "type": "text",
+          "value": "Durante/Pó -28,70 -668,02 a 610,62 ~72% 0,38"
+        },
+        {
+          "type": "text",
+          "value": "s-HIPEC"
+        },
+        {
+          "type": "text",
+          "value": "Fonte: Elaboração própria"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Degradação: A concordância piorou significativamente durante a fase"
+        },
+        {
+          "type": "text",
+          "value": "hipertérmica."
+        },
+        {
+          "type": "text",
+          "value": "Erro no DC: Aumentou de ~46,5% (pré-HIPEC) para ~60% (durante/pós-HIPEC)."
+        },
+        {
+          "type": "text",
+          "value": "Fatores: Alterações térmicas e hemodinâmicas da HIPEC impactam a precisão"
+        },
+        {
+          "type": "text",
+          "value": "das tecnologias."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Não Intercambiáveis: Os métodos não podem substituir um ao outro para"
+        },
+        {
+          "type": "text",
+          "value": "diagnósticos absolutos."
+        },
+        {
+          "type": "text",
+          "value": "Monitorização de Tendência: Apesar do erro absoluto, houve correlação"
+        },
+        {
+          "type": "text",
+          "value": "moderada a forte (r ≈ 0,66 para RVS), permitindo o uso para acompanhar"
+        },
+        {
+          "type": "text",
+          "value": "tendências."
+        },
+        {
+          "type": "text",
+          "value": "Utilidade: Úteis para Terapia Guiada por Objetivos (TGO) baseada em variações"
+        },
+        {
+          "type": "text",
+          "value": "percentuais."
+        },
+        {
+          "type": "text",
+          "value": "Limitações: Amostra reduzida (falta de sensores) e ausência de comparação"
+        },
+        {
+          "type": "text",
+          "value": "com o padrão-ouro (Swan-Ganz)."
+        },
+        {
+          "type": "text",
+          "value": "Conclusão Final: VolumeView e LiDCO não são intercambiáveis para valores"
+        },
+        {
+          "type": "text",
+          "value": "absolutos em cirurgias de citorredução com HIPEC."
+        },
+        {
+          "type": "text",
+          "value": "Recomendação: A escolha deve considerar custo, invasividade e a fase crítica do"
+        },
+        {
+          "type": "text",
+          "value": "procedimento."
+        },
+        {
+          "type": "text",
+          "value": "Obrigado"
+        }
+      ]
+    }
+  ]
+}

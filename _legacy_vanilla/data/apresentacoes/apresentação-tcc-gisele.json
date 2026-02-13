@@ -1,0 +1,1023 @@
+{
+  "id": "apresentação-tcc-gisele",
+  "meta": {
+    "title": "Apresentação TCC Gisele.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Apresentação"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "content",
+      "title": "Conteúdo Extraído",
+      "content": [
+        {
+          "type": "text",
+          "value": "Avaliação de desfechos cirúrgicos"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórios em pacientes pediátricos:"
+        },
+        {
+          "type": "text",
+          "value": "Estudo de coorte prospectivo"
+        },
+        {
+          "type": "text",
+          "value": "Programa de Residência Médica em Anestesiologia 2023-2026"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores: Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Dr. Marcos Vinicius Nunes de Souza"
+        }
+      ]
+    },
+    {
+      "id": "gisele-mariel-de-sousa-vasconcelos",
+      "title": "GISELE MARIEL DE SOUSA VASCONCELOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "ME3 –Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "Recife-PE, 11 de fevereiro de 2026"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Estudos escassos sobre desfechos cirúrgicos pediátricos"
+        },
+        {
+          "type": "text",
+          "value": "• 234 milhões de procedimentos cirúrgicos no mundo → não"
+        },
+        {
+          "type": "text",
+          "value": "contempla de forma específica a população pediátrica"
+        },
+        {
+          "type": "text",
+          "value": "Finks et al., 2011"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Complicações perioperatórias → determinantes da morbimortalidade"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgica"
+        },
+        {
+          "type": "text",
+          "value": "• Incidência, fatores de risco e desfechos → países de alta renda ≠ países de"
+        },
+        {
+          "type": "text",
+          "value": "baixa e média renda"
+        },
+        {
+          "type": "text",
+          "value": "• Países de renda média = 2x mais complicações (infecciosas), 10x mais"
+        },
+        {
+          "type": "text",
+          "value": "mortalidade hospitalar"
+        },
+        {
+          "type": "text",
+          "value": "• Entendimento dos desfechos cirúrgicos é importante para aprimorar a"
+        },
+        {
+          "type": "text",
+          "value": "qualidade do cuidado perioperatório"
+        },
+        {
+          "type": "text",
+          "value": "Torborg et al., 2019; Weinberg et al., 2011; Saito et al., 2013; Habre et al., 2017."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral-objetivos-espec-ficos",
+      "title": "OBJETIVO GERAL OBJETIVOS ESPECÍFICOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Avaliar a incidência de complicações • Perfil demográfico e clínico desses"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias e intra-hospitalares em até pacientes;"
+        },
+        {
+          "type": "text",
+          "value": "30 dias após a cirurgia em pacientes <18"
+        },
+        {
+          "type": "text",
+          "value": "• Caracterizar os procedimentos cirúrgicos"
+        },
+        {
+          "type": "text",
+          "value": "anos submetidos a procedimentos"
+        },
+        {
+          "type": "text",
+          "value": "quanto ao porte, especialidade e caráter"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgicos sob anestesia geral"
+        },
+        {
+          "type": "text",
+          "value": "(eletivo ou urgência/emergência);"
+        },
+        {
+          "type": "text",
+          "value": "• Determinar a incidência e os tipos mais"
+        },
+        {
+          "type": "text",
+          "value": "frequentes de complicações"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias e intra-hospitalares até 30"
+        },
+        {
+          "type": "text",
+          "value": "dias após a cirurgia;"
+        },
+        {
+          "type": "text",
+          "value": "• Determinar a incidência de eventos"
+        },
+        {
+          "type": "text",
+          "value": "adversos intraoperatórios graves;"
+        },
+        {
+          "type": "text",
+          "value": "• Avaliar a associação entre variáveis"
+        },
+        {
+          "type": "text",
+          "value": "clínicas e cirúrgicas (idade, classificação"
+        },
+        {
+          "type": "text",
+          "value": "ASA, porte e caráter da cirurgia) e a"
+        },
+        {
+          "type": "text",
+          "value": "ocorrência de complicações"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias."
+        }
+      ]
+    },
+    {
+      "id": "desenho-do-estudo",
+      "title": "DESENHO DO ESTUDO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Estudo de Coorte prospectivo, observacional"
+        },
+        {
+          "type": "text",
+          "value": "• Braço local do projeto LASOS-Peds, um estudo prospectivo multicêntrico latino-americano que"
+        },
+        {
+          "type": "text",
+          "value": "avalia desfechos cirúrgicos em pacientes pediátricos (NCT05934682)"
+        }
+      ]
+    },
+    {
+      "id": "local-e-per-odo-do-estudo",
+      "title": "LOCAL E PERÍODO DO ESTUDO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Hospital da Restauração Governador Agamenon Magalhães – Recife, PE"
+        },
+        {
+          "type": "text",
+          "value": "• 17/02/2025 – 28/02/2025"
+        }
+      ]
+    },
+    {
+      "id": "considera--es--ticas",
+      "title": "CONSIDERAÇÕES ÉTICAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Anuência do Diretor da instituição"
+        },
+        {
+          "type": "text",
+          "value": "• Aprovado pelo Comitê de Ética em Pesquisa do Hospital da Restauração – PE, sob o parecer nº"
+        }
+      ]
+    },
+    {
+      "id": "caae--------------0",
+      "title": "7.229.467 (CAAE: 82761924.3.3018.5198)",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Dispensado TCLE"
+        }
+      ]
+    },
+    {
+      "id": "crit-rios-de-inclus-o",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Pacientes <18 anos"
+        },
+        {
+          "type": "text",
+          "value": "• Procedimentos cirúrgicos eletivos e não eletivos"
+        },
+        {
+          "type": "text",
+          "value": "• Anestesia geral"
+        },
+        {
+          "type": "text",
+          "value": "• 14 dias consecutivos"
+        }
+      ]
+    },
+    {
+      "id": "crit-rios-de-exclus-o",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Procedimentos radiológicos"
+        },
+        {
+          "type": "text",
+          "value": "• Anestesias que não geral"
+        },
+        {
+          "type": "text",
+          "value": "• Anestesia sem procedimento cirúrgico (ex. RNM)"
+        }
+      ]
+    },
+    {
+      "id": "amostra",
+      "title": "AMOSTRA",
+      "content": [
+        {
+          "type": "text",
+          "value": "• 50 pacientes → sem perda de seguimento"
+        }
+      ]
+    },
+    {
+      "id": "desfecho-prim-rio-desfechos-secund-rios",
+      "title": "DESFECHO PRIMÁRIO DESFECHOS SECUNDÁRIOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Complicações pós-operatórias, • Mortalidade no dia da cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "intra-hospitalares, até 30 dias após"
+        },
+        {
+          "type": "text",
+          "value": "• Mortalidade hospitalar até 30 dias"
+        },
+        {
+          "type": "text",
+          "value": "a cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "após a cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "• Eventos adversos intra-operatórios"
+        },
+        {
+          "type": "text",
+          "value": "graves"
+        },
+        {
+          "type": "text",
+          "value": "• Necessidade de UTI"
+        },
+        {
+          "type": "text",
+          "value": "• Necessidade de reoperação"
+        }
+      ]
+    },
+    {
+      "id": "antropom-tricas-operat-rias",
+      "title": "ANTROPOMÉTRICAS OPERATÓRIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Idade • ASA • Caráter → eletiva,"
+        },
+        {
+          "type": "text",
+          "value": "urgência, emergência"
+        },
+        {
+          "type": "text",
+          "value": "• Comorbidades"
+        },
+        {
+          "type": "text",
+          "value": "• Sexo (cardíacas, respiratórias • Porte → pequeno, médio"
+        },
+        {
+          "type": "text",
+          "value": "crônicas, neurológicas, ou grande"
+        },
+        {
+          "type": "text",
+          "value": "infecciosas, oncológicas • Especialidade cirúrgica"
+        },
+        {
+          "type": "text",
+          "value": "• Peso"
+        },
+        {
+          "type": "text",
+          "value": "e alterações congênitas)"
+        },
+        {
+          "type": "text",
+          "value": "• Indicação primária do"
+        },
+        {
+          "type": "text",
+          "value": "• HB pré-operatória procedimento → doença"
+        },
+        {
+          "type": "text",
+          "value": "• Altura"
+        },
+        {
+          "type": "text",
+          "value": "não transmissível,"
+        },
+        {
+          "type": "text",
+          "value": "• Data de admissão"
+        },
+        {
+          "type": "text",
+          "value": "traumática, infecciosa,"
+        },
+        {
+          "type": "text",
+          "value": "hospitalar"
+        }
+      ]
+    },
+    {
+      "id": "imc",
+      "title": "• IMC",
+      "content": [
+        {
+          "type": "text",
+          "value": "congênita"
+        }
+      ]
+    },
+    {
+      "id": "intraoperat-rias-p-s-operat-rias",
+      "title": "INTRAOPERATÓRIAS PÓS-OPERATÓRIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Checklist de cirurgia segura • Nível de cuidado imediato"
+        },
+        {
+          "type": "text",
+          "value": "(enfermaria, semi-intensiva, UTI)"
+        },
+        {
+          "type": "text",
+          "value": "• Qualificação do profissional"
+        },
+        {
+          "type": "text",
+          "value": "• Complicações infecciosas"
+        },
+        {
+          "type": "text",
+          "value": "• Eventos adversos"
+        },
+        {
+          "type": "text",
+          "value": "intraoperatórios graves • Complicações cardiovasculares"
+        },
+        {
+          "type": "text",
+          "value": "Laringoespasmo, (arritmias, PCR)"
+        },
+        {
+          "type": "text",
+          "value": "broncoespasmo, dificuldade"
+        },
+        {
+          "type": "text",
+          "value": "• Complicações clínicas"
+        },
+        {
+          "type": "text",
+          "value": "de ventilação ou intubação,"
+        },
+        {
+          "type": "text",
+          "value": "(sangramento, LRA)"
+        },
+        {
+          "type": "text",
+          "value": "hipotermia, instabilidade"
+        },
+        {
+          "type": "text",
+          "value": "cardiovascular, aspiração, • Necessidade de reoperação"
+        },
+        {
+          "type": "text",
+          "value": "hipoxemia, anafilaxia, erro de"
+        },
+        {
+          "type": "text",
+          "value": "medicação, hipoglicemia e"
+        },
+        {
+          "type": "text",
+          "value": "parada cardíaca"
+        }
+      ]
+    },
+    {
+      "id": "pneumonia",
+      "title": "PNEUMONIA",
+      "content": [
+        {
+          "type": "text",
+          "value": "Leve • Taquipneia"
+        },
+        {
+          "type": "text",
+          "value": "• Estalos, redução dos sons respiratórios ou respiração brônquica na ausculta"
+        },
+        {
+          "type": "text",
+          "value": "• Tosse ou dificuldade respiratória + 1 ou mais dos seguintes:"
+        },
+        {
+          "type": "text",
+          "value": "Moderada • Tiragem torácica"
+        },
+        {
+          "type": "text",
+          "value": "• Dilatação nasal"
+        },
+        {
+          "type": "text",
+          "value": "• Gemidos"
+        },
+        {
+          "type": "text",
+          "value": "• Tosse ou dificuldade respiratória + 1 ou mais dos seguintes:"
+        },
+        {
+          "type": "text",
+          "value": "• Cianose central"
+        },
+        {
+          "type": "text",
+          "value": "Grave"
+        },
+        {
+          "type": "text",
+          "value": "• Desconforto respiratório grave"
+        },
+        {
+          "type": "text",
+          "value": "• Não conseguir ingerir líquidos"
+        }
+      ]
+    },
+    {
+      "id": "cir-rgico",
+      "title": "CIRÚRGICO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Envolve incisão cirúrgica superficial"
+        },
+        {
+          "type": "text",
+          "value": "Superficial"
+        },
+        {
+          "type": "text",
+          "value": "• Pele e tecidos subcutâneos da incisão"
+        },
+        {
+          "type": "text",
+          "value": "• Envolve partes superficiais e profundas da incisão cirúrgica"
+        },
+        {
+          "type": "text",
+          "value": "Profunda"
+        },
+        {
+          "type": "text",
+          "value": "• Camadas fasciais e musculares"
+        },
+        {
+          "type": "text",
+          "value": "• Envolve qualquer parte do corpo, exceto fáscia ou camadas"
+        },
+        {
+          "type": "text",
+          "value": "Cavidade/órgão/espaço"
+        },
+        {
+          "type": "text",
+          "value": "musculares"
+        }
+      ]
+    },
+    {
+      "id": "coleta-de-dados",
+      "title": "COLETA DE DADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Formulário padronizado do LASOS-Peds"
+        },
+        {
+          "type": "text",
+          "value": "• Plataforma Redcap → acesso com nome de usuário e senha individuais"
+        },
+        {
+          "type": "text",
+          "value": "• Código numérico atribuído a cada participante → só a pesquisadora tinha acesso"
+        },
+        {
+          "type": "text",
+          "value": "• Variáveis categóricas → frequências absolutas e relativas // Variáveis contínuas → média e desvio-padrão"
+        },
+        {
+          "type": "text",
+          "value": "• Associação entre variáveis clínicas e cirúrgicas e a ocorrência de complicações perioperatórias → teste do"
+        },
+        {
+          "type": "text",
+          "value": "qui-quadrado de Pearson ou teste exato de Fisher"
+        },
+        {
+          "type": "text",
+          "value": "• p<0,005 // IC 95%"
+        },
+        {
+          "type": "text",
+          "value": "• Não foram realizadas análises multivariadas ou modelos de regressão logística → tamanho amostral"
+        },
+        {
+          "type": "text",
+          "value": "reduzido e baixo número de eventos para os principais desfechos"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "CARACTERÍSTICAS CIRÚRGICAS E COMPLICAÇÕES PERIOPERATÓRIAS"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "ASSOCIAÇÃO ENTRE VARIÁVEIS CLÍNICAS E CIRÚRGICAS E COMPLICAÇÕES INTRAOPERATÓRIAS"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "ASSOCIAÇÃO ENTRE VARIÁVEIS CLÍNICAS E CIRÚRGICAS E COMPLICAÇÕES PÓS-OPERATÓRIAS"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Incidência relevante de complicações perioperatórias e intra-"
+        },
+        {
+          "type": "text",
+          "value": "hospitalares → 37/74%"
+        },
+        {
+          "type": "text",
+          "value": "• Ocorrência de laringoespasmo apresentou associação"
+        },
+        {
+          "type": "text",
+          "value": "estatisticamente significativa com idade <2 anos"
+        },
+        {
+          "type": "text",
+          "value": "• Maior frequência de instabilidade cardiovascular em cirurgias de"
+        },
+        {
+          "type": "text",
+          "value": "grande porte e em procedimentos realizados em caráter de"
+        },
+        {
+          "type": "text",
+          "value": "urgência"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "APRICOT (Habre et al., 2017)"
+        },
+        {
+          "type": "text",
+          "value": "• Estudo prospectivo observacional que envolveu 261 hospitais da Europa para avaliar"
+        },
+        {
+          "type": "text",
+          "value": "eventos críticos graves em crianças submetidas à anestesia geral"
+        },
+        {
+          "type": "text",
+          "value": "• Os mais jovens (até 1 ano de idade) apresentaram maior incidência de eventos respiratórios"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórios"
+        },
+        {
+          "type": "text",
+          "value": "NECTARINE (Disma N et al., 2021)"
+        },
+        {
+          "type": "text",
+          "value": "• Estudo prospectivo observacional conduzido com neonatos e crianças de 165 centros de 31"
+        },
+        {
+          "type": "text",
+          "value": "países europeus"
+        },
+        {
+          "type": "text",
+          "value": "• Maior incidência de eventos respiratórios perioperatórios em pacientes mais jovens"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Complicações pós-operatórias predominantemente de natureza infecciosa"
+        },
+        {
+          "type": "text",
+          "value": "→ infecção grave de cavidade abdominal (9/18%), pneumonia (6/12%) e"
+        },
+        {
+          "type": "text",
+          "value": "infecção de corrente sanguínea (4/8%)"
+        },
+        {
+          "type": "text",
+          "value": "• Associação entre a ocorrência de infecção de corrente sanguínea e"
+        },
+        {
+          "type": "text",
+          "value": "pneumonia e a necessidade de admissão em UTI"
+        },
+        {
+          "type": "text",
+          "value": "➢Estudo observacional → não é possível estabelecer relação de causalidade entre a"
+        },
+        {
+          "type": "text",
+          "value": "admissão em UTI e o desenvolvimento de infecções"
+        },
+        {
+          "type": "text",
+          "value": "➢Necessidade de UTI = maior gravidade clínica (maior complexidade do"
+        },
+        {
+          "type": "text",
+          "value": "procedimento cirúrgico, complicações infecciosas mais graves)"
+        },
+        {
+          "type": "text",
+          "value": "➢UTI = mais dispositivos invasivos e maior tempo de internação"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "SAPSOS (Torborg et al., 2019)"
+        },
+        {
+          "type": "text",
+          "value": "• Estudo prospectivo observacional conduzido em 43 centros da África Sub-saariana"
+        },
+        {
+          "type": "text",
+          "value": "• Cirurgias de urgência/emergência estão associadas à maior ocorrência de complicações"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias"
+        },
+        {
+          "type": "text",
+          "value": "• Predomínio de complicações infecciosas no pós-operatório pediátrico, em contraste com o"
+        },
+        {
+          "type": "text",
+          "value": "perfil observado em países de alta renda"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Associação entre a necessidade de reoperação e a ocorrência de"
+        },
+        {
+          "type": "text",
+          "value": "parada cardíaca e óbito"
+        },
+        {
+          "type": "text",
+          "value": "Bergh-Eklöf et al., 2024 e Stephens et al., 2024"
+        },
+        {
+          "type": "text",
+          "value": "• Associação entre reoperações e aumento da morbimortalidade"
+        },
+        {
+          "type": "text",
+          "value": "em cirurgia pediátrica, especialmente em contextos de urgência e"
+        },
+        {
+          "type": "text",
+          "value": "em pacientes com infecções graves"
+        }
+      ]
+    },
+    {
+      "id": "limita--es-do-estudo",
+      "title": "LIMITAÇÕES DO ESTUDO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Estudo unicêntrico, com amostra reduzida e curto período de"
+        },
+        {
+          "type": "text",
+          "value": "coleta de dados → pode limitar a generalização dos achados"
+        },
+        {
+          "type": "text",
+          "value": "• Delineamento observacional impede o estabelecimento de"
+        },
+        {
+          "type": "text",
+          "value": "relações de causalidade"
+        },
+        {
+          "type": "text",
+          "value": "• A ausência de análise multivariada impossibilita o controle de"
+        },
+        {
+          "type": "text",
+          "value": "potenciais fatores de confusão"
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "CONCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Informações relevantes sobre o perfil de complicações perioperatórias"
+        },
+        {
+          "type": "text",
+          "value": "em pacientes pediátricos em um hospital terciário de país de baixa e"
+        },
+        {
+          "type": "text",
+          "value": "média renda"
+        },
+        {
+          "type": "text",
+          "value": "• Subsídios para a prática clínica ao identificar cenários de maior risco"
+        },
+        {
+          "type": "text",
+          "value": "perioperatório"
+        },
+        {
+          "type": "text",
+          "value": "• Importância da estratificação de risco e da vigilância anestésica e"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgica mais rigorosa em grupos pediátricos vulneráveis"
+        },
+        {
+          "type": "text",
+          "value": "• Estudos futuros, preferencialmente multicêntricos e com amostras"
+        },
+        {
+          "type": "text",
+          "value": "maiores"
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias",
+      "title": "REFERÊNCIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "1. Haynes AB, Weiser TG, Berry WR, Lipsitz SR, Breizat AH, Dellinger EP, et al. A surgical safety checklist to reduce morbidity and mortality in a global"
+        },
+        {
+          "type": "text",
+          "value": "population. N Engl J Med. 2009;360(5):491–499. doi:10.1056/NEJMsa0810119."
+        },
+        {
+          "type": "text",
+          "value": "2. Iversen LH, Ingeholm P, Gögenur I, Laurberg S. Major reduction in 30-day mortality after elective colorectal cancer surgery: a nationwide population-"
+        },
+        {
+          "type": "text",
+          "value": "based study in Denmark 2001–2011. Ann Surg Oncol. 2014;21(7):2267–2273. doi:10.1245/s10434-014-3625-3."
+        },
+        {
+          "type": "text",
+          "value": "3. Weiser TG, Regenbogen SE, Thompson KD, Haynes AB, Lipsitz SR, Berry WR, et al. An estimation of the global volume of surgery: a modelling strategy"
+        },
+        {
+          "type": "text",
+          "value": "based on available data. Lancet. 2008;372(9633):139–144. doi:10.1016/S0140-6736(08)60878-8."
+        },
+        {
+          "type": "text",
+          "value": "4. Finks JF, Osborne NH, Birkmeyer JD. Trends in hospital volume and operative mortality for high-risk surgery. N Engl J Med. 2011;364(22):2128–2137."
+        },
+        {
+          "type": "text",
+          "value": "doi:10.1056/NEJMsa1010705."
+        },
+        {
+          "type": "text",
+          "value": "5. Ameh EA, Dogo PM, Nmadu PT. Emergency neonatal surgery in a developing country. Pediatr Surg Int. 2001;17(5–6):448–451."
+        },
+        {
+          "type": "text",
+          "value": "doi:10.1007/s003830100582."
+        },
+        {
+          "type": "text",
+          "value": "6. Torborg A, Cronje L, Thomas J, Smith A, Madaree A, Rodseth RN, et al. South African Paediatric Surgical Outcomes Study (SAPSOS): a 14-day"
+        },
+        {
+          "type": "text",
+          "value": "prospective, observational cohort study of paediatric surgical patients. Br J Anaesth. 2019;122(2):224–232. doi:10.1016/j.bja.2018.10.009."
+        },
+        {
+          "type": "text",
+          "value": "7. Weinberg AC, Huang L, Jiang H, et al. Perioperative risk factors for major complications in pediatric surgery: a study in surgical risk assessment for"
+        },
+        {
+          "type": "text",
+          "value": "children. J Am Coll Surg. 2011;212(5):768–778. doi:10.1016/j.jamcollsurg.2011.01.057."
+        },
+        {
+          "type": "text",
+          "value": "8. Saito JM, Chen LE, Hall BL, et al. Risk-adjusted hospital outcomes for children's surgery. Pediatrics. 2013;132(3):e677–e688. doi:10.1542/peds.2012-"
+        },
+        {
+          "type": "text",
+          "value": "3691."
+        },
+        {
+          "type": "text",
+          "value": "9. Habre W, Disma N, Virag K, et al. Incidence of severe critical events in paediatric anaesthesia (APRICOT): a prospective multicentre observational"
+        },
+        {
+          "type": "text",
+          "value": "study in 261 hospitals in Europe. Lancet Respir Med. 2017;5(5):412–425. doi:10.1016/S2213-2600(17)30116-9."
+        },
+        {
+          "type": "text",
+          "value": "10. Disma N, Veyckemans F, Virag K, Hansen TG, Becke K, Harlet P, et al. Morbidity and mortality after anaesthesia in early life: results of the European"
+        },
+        {
+          "type": "text",
+          "value": "prospective multicentre observational study, neonate and children audit of anaesthesia practice in Europe (NECTARINE). Br J Anaesth."
+        },
+        {
+          "type": "text",
+          "value": "2021;126(6):1157-1172. doi:10.1016/j.bja.2021.02.016."
+        },
+        {
+          "type": "text",
+          "value": "11. Bergh-Eklöf B, Stattin K, Modiri AR, et al. Distribution and outcomes of paediatric anaesthesia services in Sweden: an epidemiological study. Br J"
+        },
+        {
+          "type": "text",
+          "value": "Anaesth. 2024;133(4):804–809. doi:10.1016/j.bja.2024.07.007."
+        },
+        {
+          "type": "text",
+          "value": "12. Stephens CQ, Butler MW, Samad L, et al. Children's surgery and the emergency, critical, and operative care resolution: immediate actions to"
+        },
+        {
+          "type": "text",
+          "value": "eliminate disparities in surgery, anesthesia, and perioperative care for all children. Paediatr Anaesth. 2024;34(9):831–834. doi:10.1111/pan.14943"
+        }
+      ]
+    }
+  ]
+}

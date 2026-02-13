@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação - Yasmin Ferber</title>
+    <link rel="stylesheet" href="../../assets/css/global.css">
+    <link rel="stylesheet" href="../../assets/css/apresentacoes.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container header-content">
+            <a href="../../index.html" class="logo">CET <span>OTÁVIO DAMÁZIO</span> 2026</a>
+            <div class="nav-buttons">
+                <a href="../hub.html?id=yasmin" class="btn btn-secondary">Voltar ao Hub</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="hero-section" class="hero" style="background-size: cover; background-position: center; padding: 6rem 0;">
+        <div class="container"></div>
+    </section>
+
+    <nav id="presentation-nav" class="container presentation-nav"></nav>
+    
+    <main id="main-content" class="container presentation-container"></main>
+
+    <footer style="background-color: var(--color-primary); color: white; padding: 2rem 0; text-align: center;">
+        <div class="container">
+            <p>&copy; 2026 CET Otávio Damázio. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="../../assets/js/apresentacoes.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            loadPresentation('../../data/apresentacoes/yasmin-ferber.json');
+        });
+    </script>
+</body>
+</html>

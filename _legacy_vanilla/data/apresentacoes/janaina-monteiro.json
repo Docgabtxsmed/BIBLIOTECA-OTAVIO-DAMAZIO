@@ -1,0 +1,761 @@
+{
+  "id": "janaina-monteiro",
+  "meta": {
+    "title": "Uso de PEEP individualizada em cirurgia robótica: Revisão Sistemática e Meta-análise",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Janaína Gomes Ratis Monteiro"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "sistem-tica-e-meta-an-lise",
+      "title": "SISTEMÁTICA E META-ANÁLISE",
+      "content": [
+        {
+          "type": "text",
+          "value": "Janaína Gomes Ratis Monteiro"
+        },
+        {
+          "type": "text",
+          "value": "ME3 – Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores:"
+        },
+        {
+          "type": "text",
+          "value": "Dr. Murilo Robson Fabrício do Nascimento"
+        },
+        {
+          "type": "text",
+          "value": "Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Recife, 11 de Fevereiro de 2026."
+        }
+      ]
+    },
+    {
+      "id": "contexto",
+      "title": "CONTEXTO",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Cirurgia Robótica"
+        },
+        {
+          "type": "text",
+          "value": "• Maior precisão"
+        },
+        {
+          "type": "text",
+          "value": "• Melhor visualização do campo"
+        },
+        {
+          "type": "text",
+          "value": "operatório"
+        },
+        {
+          "type": "text",
+          "value": "• Menor invasividade"
+        },
+        {
+          "type": "text",
+          "value": "♦ Desafio Anestésico"
+        }
+      ]
+    },
+    {
+      "id": "peep",
+      "title": "♦ PEEP",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Prevenção de atelectasia"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora na oxigenação"
+        },
+        {
+          "type": "text",
+          "value": "Chiumello D, Coppola S, Fratti I, Leone M, Pastene B. Ventilation strategy during urological and gynaecological robotic-assisted surgery: a narrative review. Br J Anaesth. 2023 Oct;131(4):764-774. doi:"
+        },
+        {
+          "type": "text",
+          "value": "10.1016/j.bja.2023.06.066. Epub 2023 Aug 3. PMID: 37541952."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral",
+      "title": "♦ Objetivo geral",
+      "content": [
+        {
+          "type": "text",
+          "value": "Analisar os efeitos perioperatórios da utilização de estratégias de PEEP individualizada, em"
+        },
+        {
+          "type": "text",
+          "value": "comparação a estratégias convencionais de PEEP fixa, sobre variáveis respiratórias em"
+        },
+        {
+          "type": "text",
+          "value": "pacientes adultos submetidos à cirurgia robótica sob anestesia geral."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-espec-fico",
+      "title": "♦ Objetivo específico",
+      "content": [
+        {
+          "type": "text",
+          "value": "•"
+        },
+        {
+          "type": "text",
+          "value": "Comparar as diferentes estratégias de titulação individualizada da PEEP utilizadas nos"
+        },
+        {
+          "type": "text",
+          "value": "estudos incluídos, considerando os métodos empregados para sua determinação."
+        },
+        {
+          "type": "text",
+          "value": "•"
+        },
+        {
+          "type": "text",
+          "value": "Comparar os valores de PEEP obtidos por titulação individualizada com os valores de PEEP"
+        },
+        {
+          "type": "text",
+          "value": "utilizados nas estratégias de PEEP fixa durante cirurgia robótica."
+        },
+        {
+          "type": "text",
+          "value": "•"
+        },
+        {
+          "type": "text",
+          "value": "Analisar o efeito da PEEP individualizada sobre a mecânica respiratória intraoperatória,"
+        },
+        {
+          "type": "text",
+          "value": "incluindo parâmetros como complacência pulmonar e driving pressure, em comparação à"
+        },
+        {
+          "type": "text",
+          "value": "PEEP fixa."
+        },
+        {
+          "type": "text",
+          "value": "•"
+        },
+        {
+          "type": "text",
+          "value": "Comparar a troca gasosa intraoperatória, avaliada por parâmetros como PaO₂/FiO₂, PaCO₂,"
+        },
+        {
+          "type": "text",
+          "value": "entre estratégias de PEEP individualizada e PEEP convencional durante cirurgia robótica."
+        },
+        {
+          "type": "text",
+          "value": "•"
+        },
+        {
+          "type": "text",
+          "value": "Analisar a influência da PEEP individualizada sobre desfechos pulmonares pós-operatórios,"
+        },
+        {
+          "type": "text",
+          "value": "em comparação com estratégias de PEEP fixa."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Revisão Sistemática com Meta-análise"
+        },
+        {
+          "type": "text",
+          "value": "• Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)"
+        },
+        {
+          "type": "text",
+          "value": "• Registrada na base PROSPERO em dezembro de 2025, sob o número de registro"
+        }
+      ]
+    },
+    {
+      "id": "crd--0",
+      "title": "CRD420251268384",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Estratégia de Busca"
+        },
+        {
+          "type": "text",
+          "value": "• PubMed/MEDLINE, Embase e Cochrane Library"
+        },
+        {
+          "type": "text",
+          "value": "• Estudos publicados até 19 de março de 2025."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Estratégia de Busca"
+        },
+        {
+          "type": "text",
+          "value": "((Robotic Surgical Procedures) OR (Robotic-Assisted Surgery) OR"
+        },
+        {
+          "type": "text",
+          "value": "(Robotics)) AND ((Positive End-Expiratory Pressure) OR (PEEP) OR"
+        },
+        {
+          "type": "text",
+          "value": "(Lung Protective Ventilation) OR (Pulmonary Ventilation)) AND"
+        },
+        {
+          "type": "text",
+          "value": "((Pulmonary Atelectasis) OR (Postoperative Complications) OR"
+        },
+        {
+          "type": "text",
+          "value": "(Respiratory Mechanics) OR (Lung Compliance) OR (Respiratory"
+        },
+        {
+          "type": "text",
+          "value": "Function Tests) OR (Lung Injury)) AND (clinical trial)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Seleção dos estudos"
+        },
+        {
+          "type": "text",
+          "value": "♦ Análise Estatística"
+        },
+        {
+          "type": "text",
+          "value": "• Dois revisores independentes"
+        },
+        {
+          "type": "text",
+          "value": "• Software R, pacote Meta"
+        },
+        {
+          "type": "text",
+          "value": "• Diferença de média (DM)"
+        },
+        {
+          "type": "text",
+          "value": "♦ Extração de dados"
+        },
+        {
+          "type": "text",
+          "value": "• Intervalo de confiança 95%"
+        },
+        {
+          "type": "text",
+          "value": "• Pesquisadora principal"
+        },
+        {
+          "type": "text",
+          "value": "• Índice de heterogeneidade I2"
+        },
+        {
+          "type": "text",
+          "value": "• Formulário padronizado"
+        },
+        {
+          "type": "text",
+          "value": "♦ Avaliação de Risco de Viés"
+        },
+        {
+          "type": "text",
+          "value": "• RoB 2"
+        }
+      ]
+    },
+    {
+      "id": "caracter-sticas-dos-estudos",
+      "title": "CARACTERÍSTICAS DOS ESTUDOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Ano de Publicação"
+        },
+        {
+          "type": "text",
+          "value": "• 2020 a 2023"
+        },
+        {
+          "type": "text",
+          "value": "♦ Características da Cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "• Cirurgia robótica pélvica"
+        },
+        {
+          "type": "text",
+          "value": "• Trendelemburg ~ variação de angulação"
+        },
+        {
+          "type": "text",
+          "value": "• Variação da pressão do pneumoperitônio (8,45 e 15 mmHg)"
+        },
+        {
+          "type": "text",
+          "value": "♦ Classificação ASA"
+        },
+        {
+          "type": "text",
+          "value": "• I e II"
+        },
+        {
+          "type": "text",
+          "value": "Identificador do Estudo Estratégia de Titulação de PEEP Manobra de Recrutamento (MR)"
+        },
+        {
+          "type": "text",
+          "value": "Em ambos os grupos antes da titulação de PEEP e"
+        },
+        {
+          "type": "text",
+          "value": "Li_2023 Minimização de driving pressure"
+        },
+        {
+          "type": "text",
+          "value": "a cada hora."
+        },
+        {
+          "type": "text",
+          "value": "Blecha_2023 PEEP decremental com otimização da complacência Realizada 01 vez apenas no grupo intervenção"
+        },
+        {
+          "type": "text",
+          "value": "MR+ Titulação de PEEP + MR antes da divisão de"
+        },
+        {
+          "type": "text",
+          "value": "Ma_2023 Tomografia de impedância elétrica"
+        },
+        {
+          "type": "text",
+          "value": "grupos"
+        },
+        {
+          "type": "text",
+          "value": "Minimizar a fração inspiratória de oxigênio (FiO ) Realizada em ambos os grupos em dois"
+        },
+        {
+          "type": "text",
+          "value": "Gao_2023 2"
+        },
+        {
+          "type": "text",
+          "value": "guiada por oximetria de pulso momentos."
+        },
+        {
+          "type": "text",
+          "value": "Realizada apenas no grupo intervenção: após"
+        },
+        {
+          "type": "text",
+          "value": "Kim_2023 Minimização de driving pressure instalação do pneumoperitônio e após titulação de"
+        }
+      ]
+    },
+    {
+      "id": "peep",
+      "title": "PEEP.",
+      "content": [
+        {
+          "type": "text",
+          "value": "Titulação da PEEP visando uma driving pressure"
+        },
+        {
+          "type": "text",
+          "value": "mínima (PEEP ΔP) e titulação da PEEP guiada pela Realizada em ambos os grupos antes da"
+        },
+        {
+          "type": "text",
+          "value": "Boesing_2023"
+        },
+        {
+          "type": "text",
+          "value": "pressão esofágica (PEEP Poeso) visando uma pressão randomização"
+        },
+        {
+          "type": "text",
+          "value": "transpulmonar expiratória final (PTP) de 0 cmH O."
+        },
+        {
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "type": "text",
+          "value": "Yoon_2021 PEEP decremental otimizando a complacência dinâmica Realizada em ambos os grupos a cada hora."
+        },
+        {
+          "type": "text",
+          "value": "Girrbach_2020 Tomografia de impedância elétrica Apenas no grupo intervenção em 4 momentos"
+        },
+        {
+          "type": "text",
+          "value": "titulação da PEEP guiada pela pressão esofágica (PEEP"
+        },
+        {
+          "type": "text",
+          "value": "Realizada em ambos os grupos antes da"
+        },
+        {
+          "type": "text",
+          "value": "Cammarota_2020 Poeso). Realizada em diversos momentos após"
+        },
+        {
+          "type": "text",
+          "value": "randomização"
+        },
+        {
+          "type": "text",
+          "value": "pneumoperitônio."
+        }
+      ]
+    },
+    {
+      "id": "risco-de-vi-s",
+      "title": "RISCO DE VIÉS",
+      "content": [
+        {
+          "type": "text",
+          "value": "PEEP Individualizada"
+        },
+        {
+          "type": "text",
+          "value": "PaO₂/FiO₂ pré-extubação"
+        },
+        {
+          "type": "text",
+          "value": "PaO₂/FiO₂ pós-extubação"
+        },
+        {
+          "type": "text",
+          "value": "PaCO₂ pré-extubação"
+        },
+        {
+          "type": "text",
+          "value": "Driving-Pressure"
+        },
+        {
+          "type": "text",
+          "value": "Complacência Pulmonar Dinâmica (Cdyn)"
+        },
+        {
+          "type": "text",
+          "value": "Desfechos pulmonares pós-operatórios"
+        },
+        {
+          "type": "text",
+          "value": "♦ Função Pulmonar"
+        },
+        {
+          "type": "text",
+          "value": "• Blecha et al. (2023): melhora do índice de Tiffeneau e FEF25–75 por até 48h"
+        },
+        {
+          "type": "text",
+          "value": "♦ Hipoxemia e oxigenação pós-operatória"
+        },
+        {
+          "type": "text",
+          "value": "• Gao et al. (2023): Redução da hipoxemia"
+        },
+        {
+          "type": "text",
+          "value": "• Girrbach et al. (2020): não observaram eventos hipóxicos"
+        },
+        {
+          "type": "text",
+          "value": "♦ Complicações Pulmonares Pós-operatórias (PPCs)"
+        },
+        {
+          "type": "text",
+          "value": "• Kim et al. (2023), Yoon et al. (2021), Ma et al. (2023): incidência semelhante"
+        },
+        {
+          "type": "text",
+          "value": "♦ Atelectasia"
+        },
+        {
+          "type": "text",
+          "value": "• Yoon et al. (2021), Gao et al. (2023), Ma et al. (2023), Cammarota et al. (2020):"
+        },
+        {
+          "type": "text",
+          "value": "comprometimento pulmonar menor"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Desenho"
+        },
+        {
+          "type": "text",
+          "value": "• 21 RCT | 3 RCT PEEPi | 112 pacientes"
+        },
+        {
+          "type": "text",
+          "value": "♦ PEEP individualizada"
+        },
+        {
+          "type": "text",
+          "value": "• Tomografia por impedância elétrica; pressão"
+        },
+        {
+          "type": "text",
+          "value": "esofágica"
+        },
+        {
+          "type": "text",
+          "value": "♦ Troca Gasosa"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora da PaO /FiO"
+        },
+        {
+          "type": "text",
+          "value": "2 2"
+        },
+        {
+          "type": "text",
+          "value": "♦ Mecânica Pulmonar"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora da Driving Pressure"
+        }
+      ]
+    },
+    {
+      "id": "na",
+      "title": "• NA",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Desenho"
+        },
+        {
+          "type": "text",
+          "value": "• 10 RCT | 1.117 pacientes"
+        },
+        {
+          "type": "text",
+          "value": "♦ PEEP individualizada"
+        }
+      ]
+    },
+    {
+      "id": "excluiu-m-todos-dependentes-de-outros",
+      "title": "• Excluiu métodos dependentes de outros",
+      "content": [
+        {
+          "type": "text",
+          "value": "dispositivos"
+        },
+        {
+          "type": "text",
+          "value": "• PEEP 8-14 cm H O"
+        },
+        {
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "type": "text",
+          "value": "♦ Troca Gasosa"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora da PaO /FiO"
+        },
+        {
+          "type": "text",
+          "value": "2 2"
+        },
+        {
+          "type": "text",
+          "value": "♦ Mecânica Pulmonar"
+        }
+      ]
+    },
+    {
+      "id": "ppc",
+      "title": "♦ PPC",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Redução na incidência de PPC em 7 DPO"
+        },
+        {
+          "type": "text",
+          "value": "• Redução de hipoxemia"
+        },
+        {
+          "type": "text",
+          "value": "• Não melhorou atelectasia"
+        },
+        {
+          "type": "text",
+          "value": "♦ Desenho"
+        },
+        {
+          "type": "text",
+          "value": "• 14 RCT | 1.121 pacientes"
+        },
+        {
+          "type": "text",
+          "value": "♦ PEEP individualizada"
+        },
+        {
+          "type": "text",
+          "value": "• PEEP 13,2 cm H O"
+        },
+        {
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "type": "text",
+          "value": "♦ Troca Gasosa"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora da PaO /FiO"
+        },
+        {
+          "type": "text",
+          "value": "2 2"
+        },
+        {
+          "type": "text",
+          "value": "♦ Mecânica Pulmonar"
+        },
+        {
+          "type": "text",
+          "value": "• Redução DP e melhora da complacência"
+        }
+      ]
+    },
+    {
+      "id": "ppc",
+      "title": "♦ PPC",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Redução na incidência de PPC"
+        }
+      ]
+    },
+    {
+      "id": "considera--es-finais",
+      "title": "CONSIDERAÇÕES FINAIS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ PEEP individualizada melhora parâmetros fisiológicos intraoperatórios"
+        },
+        {
+          "type": "text",
+          "value": "♦ Valores significativamente maiores que a PEEP fixa tradicional"
+        },
+        {
+          "type": "text",
+          "value": "♦ Limitações: Heterogeneidade e amostras relativamente pequenas"
+        },
+        {
+          "type": "text",
+          "value": "♦ Benefício clínico pós-op ainda incerto"
+        },
+        {
+          "type": "text",
+          "value": "♦ Evidência apoia individualizar, não “fixar um"
+        },
+        {
+          "type": "text",
+          "value": "número mágico”"
+        }
+      ]
+    },
+    {
+      "id": "sistem-tica-e-meta-an-lise",
+      "title": "SISTEMÁTICA E META-ANÁLISE",
+      "content": [
+        {
+          "type": "text",
+          "value": "Janaína Gomes Ratis Monteiro"
+        },
+        {
+          "type": "text",
+          "value": "ME3 – Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores:"
+        },
+        {
+          "type": "text",
+          "value": "Dr. Murilo Robson Fabrício do Nascimento"
+        },
+        {
+          "type": "text",
+          "value": "Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Recife, 11 de Fevereiro de 2026."
+        },
+        {
+          "type": "text",
+          "value": "Muito Obrigada!"
+        }
+      ]
+    }
+  ]
+}

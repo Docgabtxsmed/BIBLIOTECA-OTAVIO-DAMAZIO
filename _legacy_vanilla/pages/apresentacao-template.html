@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação TCC - CET Otávio Damázio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/apresentacoes.css">
+</head>
+<body>
+    <div id="presentation-content">
+        <!-- O conteúdo será carregado dinamicamente -->
+        <div class="loading-container">
+            <div class="loader"></div>
+            <p>Carregando apresentação...</p>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="../assets/js/apresentacoes.js"></script>
+    <script src="../assets/js/autores-data.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get('id');
+
+            if (!id) {
+                document.getElementById('presentation-content').innerHTML = '<div class="container"><p>Erro: Identificador da apresentação não fornecido.</p></div>';
+                return;
+            }
+
+            // Find author in localized data
+            const author = window.autoresData.find(a => a.id === id);
+            
+            if (author && author.json_apresentacao) {
+                // Estrutura esperada pelo apresentacoes.js:
+                document.getElementById('presentation-content').innerHTML = `
+                    <section class="hero-presentation" id="hero-section">
+                        <div class="container hero-content">
+                            <!-- Inserido por renderHero -->
+                        </div>
+                    </section>
+                    <nav class="presentation-nav" id="presentation-nav">
+                        <!-- Inserido por renderNav -->
+                    </nav>
+                    <main class="presentation-main" id="main-content">
+                        <!-- Inserido por renderSections -->
+                    </main>
+                `;
+
+                loadPresentation(author.json_apresentacao);
+            } else {
+                 document.getElementById('presentation-content').innerHTML = '<div class="container"><p>Erro: Apresentação não encontrada.</p></div>';
+            }
+        });
+    </script>
+</body>
+</html>

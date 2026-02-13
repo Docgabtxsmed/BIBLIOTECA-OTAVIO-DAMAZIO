@@ -1,0 +1,531 @@
+{
+  "id": "apresentação-tcc---thiago",
+  "meta": {
+    "title": "Apresentação TCC - Thiago.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Apresentação"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "content",
+      "title": "Conteúdo Extraído",
+      "content": [
+        {
+          "type": "text",
+          "value": "AVALIAÇÃO DA CETONEMIA DE PACIENTES EM JEJUM PROGRAMADOS"
+        }
+      ]
+    },
+    {
+      "id": "para-cirurgia-ortop-dica-eletiva",
+      "title": "PARA CIRURGIA ORTOPÉDICA ELETIVA",
+      "content": [
+        {
+          "type": "text",
+          "value": "Thiago Guerra Seixas Barbosa"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores:"
+        },
+        {
+          "type": "text",
+          "value": "➔ Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "➔ Dr. Kevin Alves Rafael"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "➢A Hipercetonemia, a cetose e a cetoacidose de jejum ocorrem quando a ingestão calórica é"
+        },
+        {
+          "type": "text",
+          "value": "insuficiente para atender às demandas metabólicas."
+        },
+        {
+          "type": "text",
+          "value": "➢Desequilíbrios entre oferta e demanda de glicose aos tecidos, desencadeiam adaptações"
+        },
+        {
+          "type": "text",
+          "value": "metabólicas."
+        },
+        {
+          "type": "text",
+          "value": "➢VR.: b-hidroxibutirato (BHB)"
+        },
+        {
+          "type": "text",
+          "value": "○ - Normal → → < 0,5 mmol/L - Cetose → [ ] entre 0,5 a 1,0mmol/L"
+        },
+        {
+          "type": "text",
+          "value": "○ - Hipercetonemia → BHB > 1,0mmol/L - > 3 mmol/L → 👀!!!"
+        },
+        {
+          "type": "text",
+          "value": "1. Bashir B, Fahmy AA, Raza F, Banerjee M. Non-diabetic ketoacidosis: a case series and literature review. Postgrad Med J. 2021;97(1152):667-71."
+        },
+        {
+          "type": "text",
+          "value": "2. Palmer BF, Clegg DJ. Starvation ketosis and the kidney. Am J Nephrol. 2021;52(6):467-78."
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "➢A hipercetonemia de jejum é subestimada como entidade perioperatória, e sua incidência"
+        },
+        {
+          "type": "text",
+          "value": "em adultos é variável na literatura."
+        },
+        {
+          "type": "text",
+          "value": "➢Marcador de morbidade nutricional, possível complicador intra operatório especialmente no"
+        },
+        {
+          "type": "text",
+          "value": "manejo e diagnóstico AB"
+        },
+        {
+          "type": "text",
+          "value": "➢A Abordagem AB de Stewart mostra potencial, para facilitar o seu diagnóstico, e o manejo"
+        },
+        {
+          "type": "text",
+          "value": "AB como um todo."
+        },
+        {
+          "type": "text",
+          "value": "1. Dennhardt N, Beck C, Huber D, Nickel K, Sander B, Witt LH, et al. Impact of preoperative fasting times on blood glucose concentration, ketone bodies and"
+        },
+        {
+          "type": "text",
+          "value": "acid–base balance in children younger than 36 months: a prospective observational study. Eur J Anaesthesiol. 2015;32(12):857-61."
+        },
+        {
+          "type": "text",
+          "value": "2. Mostert M, Bonavia A. Starvation ketoacidosis as a cause of unexplained metabolic acidosis in the perioperative period. Am J Case Rep. 2016;17:755."
+        },
+        {
+          "type": "text",
+          "value": "3. Story DA. Acid–base analysis in the operating room: a bedside Stewart approach. Anesthesiology. 2023;139(6):860-7."
+        }
+      ]
+    },
+    {
+      "id": "hip-tese",
+      "title": "HIPÓTESE",
+      "content": [
+        {
+          "type": "text",
+          "value": "➔ Uma parcela importante dos pacientes programados para cirurgia ortopédica eletiva já"
+        },
+        {
+          "type": "text",
+          "value": "iniciam o período intraoperatório com perturbações metabólicas e ácido-básicas (AB)"
+        },
+        {
+          "type": "text",
+          "value": "advindas do pré-operatório."
+        },
+        {
+          "type": "text",
+          "value": "➔ Consequência de tempos de jejum prolongados, períodos prolongados de imobilização no"
+        },
+        {
+          "type": "text",
+          "value": "leito e perda de peso intra hospitalar."
+        },
+        {
+          "type": "text",
+          "value": "➔ Desencadeando hipercetonemia de jejum, e distúrbios AB e metabólicos variados."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral--prim-rio",
+      "title": "❖ OBJETIVO GERAL (PRIMÁRIO)",
+      "content": [
+        {
+          "type": "text",
+          "value": "➢ Mensurar o nível plasmático de cetonas, e assim avaliar a incidência de cetonemia e"
+        },
+        {
+          "type": "text",
+          "value": "hipercetonemia de jejum em pacientes programados para cirurgia eletiva ortopédica."
+        }
+      ]
+    },
+    {
+      "id": "objetivos-espec-ficos--secund-rios",
+      "title": "❖ OBJETIVOS ESPECÍFICOS (SECUNDÁRIOS)",
+      "content": [
+        {
+          "type": "text",
+          "value": "➢ Avaliar a associação da presença de hipercetonemia e cetonemia de jejum, assim"
+        },
+        {
+          "type": "text",
+          "value": "como o valor bruto do BHB , com as seguintes variáveis: idade, gênero, tempo de"
+        },
+        {
+          "type": "text",
+          "value": "jejum para sólidos e líquidos, tempo de internamento hospitalar, Índice de massa"
+        },
+        {
+          "type": "text",
+          "value": "corporal (IMC), Estado físico (ASA), comorbidades, perda de peso intra hospitalar,"
+        },
+        {
+          "type": "text",
+          "value": "tempo e grau de restrição de mobilidade."
+        },
+        {
+          "type": "text",
+          "value": "➢ Avaliar a incidência de alterações do valor BE decomposto atribuíveis a (Na-cl), (Alb),"
+        },
+        {
+          "type": "text",
+          "value": "(Lac) e (UMA’s) utilizando a abordagem “Bedside Stewart”."
+        }
+      ]
+    },
+    {
+      "id": "m-todo",
+      "title": "MÉTODO",
+      "content": [
+        {
+          "type": "text",
+          "value": "➢ Estudo observacional analitico transversal individual"
+        },
+        {
+          "type": "text",
+          "value": "➢ Aprovado pelo comitê de ética. CAEE; 85001424.5.000.5198"
+        },
+        {
+          "type": "text",
+          "value": "➢ Foram Elegíveis pacientes em jejum programados para cirurgia ortopédica em regime eletivo"
+        },
+        {
+          "type": "text",
+          "value": ">18a, ASA I - IV, ambos os gêneros."
+        },
+        {
+          "type": "text",
+          "value": "➢ Foram Excluídos pacientes diabéticos, gestantes, <18a, tireoidopatias, em uso contínuo de"
+        },
+        {
+          "type": "text",
+          "value": "corticosteróides"
+        },
+        {
+          "type": "text",
+          "value": "➢ cálculo amostral inicial de 100 pacientes."
+        },
+        {
+          "type": "text",
+          "value": "○ amostra final de 90 pacientes."
+        }
+      ]
+    },
+    {
+      "id": "coleta-de-dados",
+      "title": "● COLETA DE DADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "○ realizada no período pré-operatório"
+        },
+        {
+          "type": "text",
+          "value": "○ os que aceitaram participar + cumpriram critérios de elegibilidade responderam perguntas"
+        },
+        {
+          "type": "text",
+          "value": "a cerca de:"
+        }
+      ]
+    },
+    {
+      "id": "coleta-de-dados",
+      "title": "● COLETA DE DADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "○ Após questionário:"
+        },
+        {
+          "type": "text",
+          "value": "■ coleta de 5ml de sangue para análise eletrolítica"
+        },
+        {
+          "type": "text",
+          "value": "■ 0,5-1ml sangue para gasometria"
+        },
+        {
+          "type": "text",
+          "value": "■ punção capilar para análise de cetonemia point of care"
+        },
+        {
+          "type": "text",
+          "value": "○ amostras mandadas ao laboratório"
+        }
+      ]
+    },
+    {
+      "id": "com-resultado-de-an-lise-laboratorial",
+      "title": "○ com resultado de análise laboratorial;",
+      "content": [
+        {
+          "type": "text",
+          "value": "■ Registrados em ficha de coleta de de dados"
+        },
+        {
+          "type": "text",
+          "value": "■ Alimentados ao app Bedside Stewart"
+        },
+        {
+          "type": "text",
+          "value": "● anotados valores de BE-decomposto"
+        },
+        {
+          "type": "text",
+          "value": "gerado"
+        },
+        {
+          "type": "text",
+          "value": "➔ VR do BE e BED (VR: +- 2,5 mEq/L)"
+        }
+      ]
+    },
+    {
+      "id": "coleta-de-dados",
+      "title": "● COLETA DE DADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "○ Ficha de Coleta"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "● 90/100 pacientes"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "● Incidência de cetonemia → 8,8%"
+        },
+        {
+          "type": "text",
+          "value": "● incidência de hipercetonemia → 2,2%"
+        },
+        {
+          "type": "text",
+          "value": "● Concordância com parte da literatura"
+        },
+        {
+          "type": "text",
+          "value": "○ Dissonante da hipótese inicial do estudo."
+        },
+        {
+          "type": "text",
+          "value": "1. Burstal RJ, Reilly JR, Burstal B. Fasting or starving? Measurement of blood ketone levels in 100 fasted elective and emergency adult surgical patients at"
+        },
+        {
+          "type": "text",
+          "value": "an Australian tertiary hospital. Anaesth Intensive Care. 2018;46(5):463-7."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "● Burstal et al. (2018)"
+        },
+        {
+          "type": "text",
+          "value": "○ Incidência semelhante à encontrada | Sem alterações metabólicas"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "●"
+        },
+        {
+          "type": "text",
+          "value": "Kutnik et al. (2022)"
+        },
+        {
+          "type": "text",
+          "value": "○ Maior incidência | população restrita | população diferente (onco + 60a) | Associação com perda de peso"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "●"
+        },
+        {
+          "type": "text",
+          "value": "Lim et al. (2024)"
+        },
+        {
+          "type": "text",
+          "value": "○ Incidência → Cetonúria | Conversão em ACetoacetato | Pós-Op → (efeito da REMIT)"
+        },
+        {
+          "type": "text",
+          "value": "○ Impacto → Acidose"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "●"
+        },
+        {
+          "type": "text",
+          "value": "Ausência de associação"
+        },
+        {
+          "type": "text",
+          "value": "➢ Interpretação cautelosa dos resultados → população | “n” | tempo de jejum (p=0,061)"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "❖ Perda de peso quantitativa → associação (p=0,03) → ⬆VPN (Pop. Jovem + Trauma)"
+        },
+        {
+          "type": "text",
+          "value": "❖ Kutnik et al. (2022) → Associação com perda de peso (p=0,04) →⬆VPP (Pop Velha + Onco)"
+        },
+        {
+          "type": "text",
+          "value": "➢ Marcador de morbidade nutricional"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "❖ Incidência Notável de alterações no BE(Na|Cl) e BE(UMAs)"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "❖ BE(Na|Cl) → (+) → HiperNa e/ou HipoCl → Alcalose → Hidratação e jejum"
+        },
+        {
+          "type": "text",
+          "value": "➢ tempo medio de jejum para liquidos de 14,15±3,28 horas"
+        },
+        {
+          "type": "text",
+          "value": "❖ BE(UMAs) → (-) → Discordante com cetonemia → 3º fator confundidor → (a1GP?)"
+        },
+        {
+          "type": "text",
+          "value": "➢ a1GP → Pnt fase aguda → macromolécula negativamente carregada."
+        },
+        {
+          "type": "text",
+          "value": "🔗"
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "CONCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "● Tratando-se de um estudo transversal, com tamanho amostral restrito"
+        },
+        {
+          "type": "text",
+          "value": "● A hipercetonemia de jejum não parece ser uma entidade tão perniciosa quanto inicialmente"
+        },
+        {
+          "type": "text",
+          "value": "hipotetizado pelo autor, na população estudada."
+        },
+        {
+          "type": "text",
+          "value": "● Dosagem do BHB point of care se mostrar ferramenta útil, barata e rápida para maior"
+        },
+        {
+          "type": "text",
+          "value": "insight no risco nutricional do paciente cirúrgico."
+        },
+        {
+          "type": "text",
+          "value": "● Abordagem Bedside Stewart → instrumento de valor e de refino do entendimento e"
+        },
+        {
+          "type": "text",
+          "value": "cuidado perioperatório, com suas limitações pois nenhum modelo é perfeito."
+        }
+      ]
+    }
+  ]
+}

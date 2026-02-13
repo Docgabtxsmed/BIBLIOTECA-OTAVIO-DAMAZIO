@@ -1,0 +1,985 @@
+{
+  "id": "yasmin-ferber",
+  "meta": {
+    "title": "Avaliação da capacidade anestésica de hospitais públicos através da ferramenta AFAT",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Yasmim Ferber Corezzi Pinheiro"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "content",
+      "title": "Conteúdo Extraído",
+      "content": [
+        {
+          "type": "text",
+          "value": "Avaliação da capacidade anestésica de hospitais da rede"
+        },
+        {
+          "type": "text",
+          "value": "pública de Pernambuco através da aplicação da"
+        },
+        {
+          "type": "text",
+          "value": "ferramenta Anaesthesia Facility Assessment Tool (AFAT)"
+        },
+        {
+          "type": "text",
+          "value": "Programa de Residência Médica em Anestesiologia 2023-2026"
+        }
+      ]
+    },
+    {
+      "id": "yasmim-ferber-corezzi-pinheiro",
+      "title": "YASMIM FERBER COREZZI PINHEIRO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Orientadores:"
+        },
+        {
+          "type": "text",
+          "value": "Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Kevin Alves Rafael"
+        },
+        {
+          "type": "text",
+          "value": "Edgar Vieira do Nascimento"
+        },
+        {
+          "type": "text",
+          "value": "Recife, 11 de Fevereiro 2026"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "A escassez de dados relativos à assistência em saúde representa um importante obstáculo para a melhoria dos"
+        },
+        {
+          "type": "text",
+          "value": "desfechos perioperatórios."
+        },
+        {
+          "type": "text",
+          "value": "2018: Organização Mundial da Saúde em conjunto com a Federação Mundial de Sociedades de Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "(WFSA) publica o International Standards for a Safe Practice of Anaesthesia ."
+        },
+        {
+          "type": "text",
+          "value": "Com base nesse documento, foi desenvolvido o Anaesthesia Facility Assessment Tool (AFAT) > visando auxiliar"
+        },
+        {
+          "type": "text",
+          "value": "líderes e gestores de serviços de saúde na avaliação da qualidade da assistência anestésica."
+        },
+        {
+          "type": "text",
+          "value": "World Health Organization–World Federation of Societies of Anaesthesiologists International Standards for a Safe Practice of Anesthesia Workgroup, Morriss"
+        },
+        {
+          "type": "text",
+          "value": "WW, Johnson W, Merry AF. World Health Organization–World Federation of Societies of Anaesthesiologists (WHO-WFSA) international standards for a safe"
+        },
+        {
+          "type": "text",
+          "value": "practice of anesthesia. Can JAnaesth. 2018;65(6):698–708."
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Mas quais os dados que temos sobre Pernambuco?"
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "OBJETIVOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Geral:"
+        },
+        {
+          "type": "text",
+          "value": "Avaliar a capacidade anestésica de três hospitais terciários da rede pública de Pernambuco que"
+        },
+        {
+          "type": "text",
+          "value": "realizam atendimento cirúrgico emergencial relacionado a trauma e politrauma na Região"
+        },
+        {
+          "type": "text",
+          "value": "Metropolitana do Recife."
+        },
+        {
+          "type": "text",
+          "value": "Específicos:"
+        },
+        {
+          "type": "text",
+          "value": "Coletar dados sobre os recursos de anestesia, especificamente: prestação de serviços, serviços do"
+        },
+        {
+          "type": "text",
+          "value": "banco de sangue, medicações e equipamentos."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Desenho do estudo:"
+        },
+        {
+          "type": "text",
+          "value": "Estudo observacional, epidemiológico, transversal, de caráter descritivo, com coleta prospectiva de"
+        },
+        {
+          "type": "text",
+          "value": "dados"
+        },
+        {
+          "type": "text",
+          "value": "• Local do estudo"
+        },
+        {
+          "type": "text",
+          "value": "- Hospital da Restauração Governador Paulo Guerra (HR)"
+        },
+        {
+          "type": "text",
+          "value": "- Hospital Getúlio Vargas (HGV)"
+        },
+        {
+          "type": "text",
+          "value": "- Hospital Otávio de Freitas (HOF)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Comitê de Ética e Pesquisa"
+        },
+        {
+          "type": "text",
+          "value": "Aprovado pelo comitê de ética e pesquisa em seres humanos das três instituições (número do pareceres:"
+        },
+        {
+          "type": "text",
+          "value": "7.755.882 / 7.708.417 / 7.929.377)"
+        },
+        {
+          "type": "text",
+          "value": "• População"
+        },
+        {
+          "type": "text",
+          "value": "Integraram a população desta pesquisa 21 administradores hospitalares e anestesiologistas atuantes nos"
+        },
+        {
+          "type": "text",
+          "value": "hospitais participantes."
+        },
+        {
+          "type": "text",
+          "value": "O número de participantes foi limitado por questões burocráticas e administrativas, como a necessidade"
+        },
+        {
+          "type": "text",
+          "value": "de aprovação pelo CEP correspondente a cada instituição, disponibilidade dos profissionais para"
+        },
+        {
+          "type": "text",
+          "value": "responder ao instrumento e tempo hábil para realização das visitas presenciais por parte da"
+        },
+        {
+          "type": "text",
+          "value": "pesquisadora."
+        },
+        {
+          "type": "text",
+          "value": "• Instrumento de coleta"
+        },
+        {
+          "type": "text",
+          "value": "A ferramenta AFAT utiliza uma escala ordinal de frequência para avaliar a disponibilidade de infraestrutura,"
+        },
+        {
+          "type": "text",
+          "value": "equipamentos, medicações e recursos humanos, classificando cada item como “sempre” (100%), “quase sempre”"
+        },
+        {
+          "type": "text",
+          "value": "(76-99%), “frequentemenre” (51-75%), “às vezes” (25-50%), raramente (1-25%) ou “nunca” (0%), o que permite"
+        },
+        {
+          "type": "text",
+          "value": "estimar não apenas a presença dos recursos, mas também a sua disponibilidade funcional e contínua."
+        },
+        {
+          "type": "text",
+          "value": "Questionário foi traduzido para a Língua Portuguesa, visando facilitar sua aplicação no contexto local."
+        },
+        {
+          "type": "text",
+          "value": "Os resultados foram expressos em número percentual para cada item avaliado, correspondendo à proporção de"
+        },
+        {
+          "type": "text",
+          "value": "participantes que relataram alta disponibilidade, considerando o agrupamento das categorias “sempre” e"
+        },
+        {
+          "type": "text",
+          "value": "“quase sempre”. Essa abordagem permitiu a comparação entre diferentes domínios da capacidade anestésica"
+        },
+        {
+          "type": "text",
+          "value": "e a identificação de lacunas em relação aos padrões da OMS–WFSA."
+        },
+        {
+          "type": "text",
+          "value": "As unidades avaliadas foram identificadas de forma anônima como Hospital X, Hospital Y e Hospital Z, com o"
+        },
+        {
+          "type": "text",
+          "value": "objetivo de reduzir a exposição direta das instituições."
+        },
+        {
+          "type": "text",
+          "value": "Embora todos os dados referentes ao AFAT tenham sido integralmente coletados, para o presente estudo foram"
+        },
+        {
+          "type": "text",
+          "value": "analisadas apenas as variáveis relacionadas aos domínios de serviço do banco de sangue, prestação de serviços"
+        },
+        {
+          "type": "text",
+          "value": "anestésicos, disponibilidade de medicações e equipamentos, por serem consideradas mais diretamente"
+        },
+        {
+          "type": "text",
+          "value": "associadas à segurança do cuidado anestésico."
+        }
+      ]
+    },
+    {
+      "id": "presta--o-de-servi-os-anest-sicos",
+      "title": "PRESTAÇÃO DE SERVIÇOS ANESTÉSICOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Fonte: Elaboração própria (2026)."
+        },
+        {
+          "type": "text",
+          "value": "Nota: Os valores percentuais apresentados na tabela correspondem à proporção de participantes que relataram disponibilidade “sempre” (100% do tempo) ou “quase"
+        },
+        {
+          "type": "text",
+          "value": "sempre” (76–99% do tempo), agrupadas para fins de análise, para cada item avaliado em cada hospital, conforme o instrumento AFAT. Os percentuais foram"
+        },
+        {
+          "type": "text",
+          "value": "calculados com base no número de respostas válidas para cada item, podendo variar entre eles, uma vez que o instrumento AFAT permite a omissão de respostas."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "A interpretação dos resultados deve considerar a variação no número de participantes entre os hospitais e entre os diferentes"
+        },
+        {
+          "type": "text",
+          "value": "itens avaliados. Essa heterogeneidade decorre tanto da possibilidade de respostas em branco prevista no instrumento AFAT"
+        },
+        {
+          "type": "text",
+          "value": "quanto de limitações operacionais para inclusão de um maior número de respondentes em cada instituição."
+        },
+        {
+          "type": "text",
+          "value": "Avaliação da prestação de serviços anestésicos perioperatórios"
+        },
+        {
+          "type": "text",
+          "value": "• Pré-operatório: inconsistência na realização da avaliação pré-anestésica em duas das três instituições avaliadas > especial"
+        },
+        {
+          "type": "text",
+          "value": "relevância quando analisado à luz da Resolução CFM nº 2.174/2017."
+        },
+        {
+          "type": "text",
+          "value": "• Pós-operatório: fragilidades relacionadas à recuperação anestésica imediata."
+        },
+        {
+          "type": "text",
+          "value": "Resolução CREMEPE nº 001/2006: estabelece a obrigatoriedade da existência e do funcionamento adequado da Sala de"
+        },
+        {
+          "type": "text",
+          "value": "Recuperação Pós-Anestésica (SRPA) em serviços cirúrgicos."
+        },
+        {
+          "type": "text",
+          "value": "Os achados do presente estudo indicam heterogeneidade na conformidade com esses requisitos, evidenciando lacunas na"
+        },
+        {
+          "type": "text",
+          "value": "implementação prática das normativas vigentes."
+        },
+        {
+          "type": "text",
+          "value": "Esses achados são corroborados por estudos conduzidos em diferentes regiões. Odinkemelu et al., Zha et al. e Tao et al."
+        },
+        {
+          "type": "text",
+          "value": "identificaram que a SRPA permanece frequentemente subavaliada e negligenciada em hospitais de países de baixa e média"
+        },
+        {
+          "type": "text",
+          "value": "renda, com déficits recorrentes de monitorização contínua, equipamentos essenciais e pessoal treinado. De forma semelhante,"
+        },
+        {
+          "type": "text",
+          "value": "Gajewski et al., ao avaliarem hospitais distritais no Malawi, Tanzânia e Zâmbia, demonstraram que limitações na recuperação"
+        },
+        {
+          "type": "text",
+          "value": "pós-anestésica estão associadas ao aumento de eventos adversos no pós-operatório."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Avaliação da disponibilidade dos serviços de"
+        },
+        {
+          "type": "text",
+          "value": "banco de sangue no contexto perioperatório:"
+        },
+        {
+          "type": "text",
+          "value": "• Disponibilidade adequada de componentes"
+        },
+        {
+          "type": "text",
+          "value": "considerados essenciais para a segurança"
+        },
+        {
+          "type": "text",
+          "value": "transfusional, especialmente tipagem sanguínea"
+        },
+        {
+          "type": "text",
+          "value": "ABO/Rh e à realização de prova cruzada"
+        },
+        {
+          "type": "text",
+          "value": "(disponibilidade plena nos três hospitais)"
+        },
+        {
+          "type": "text",
+          "value": "• A disponibilidade de concentrado de hemácias"
+        },
+        {
+          "type": "text",
+          "value": "e plasma foi elevada na maioria das"
+        },
+        {
+          "type": "text",
+          "value": "instituições, embora com percentuais inferiores"
+        },
+        {
+          "type": "text",
+          "value": "no Hospital X em comparação aos Hospitais Y"
+        },
+        {
+          "type": "text",
+          "value": "e Z, sugerindo heterogeneidade estrutural entre"
+        },
+        {
+          "type": "text",
+          "value": "os serviços"
+        },
+        {
+          "type": "text",
+          "value": "• Apesar dessas limitações estruturais pontuais, o"
+        },
+        {
+          "type": "text",
+          "value": "tempo de resposta para obtenção de sangue em"
+        },
+        {
+          "type": "text",
+          "value": "situações de emergência foi considerado"
+        },
+        {
+          "type": "text",
+          "value": "adequado nas instituições avaliadas, com"
+        },
+        {
+          "type": "text",
+          "value": "acesso ao hemocomponente em menos de uma"
+        },
+        {
+          "type": "text",
+          "value": "hora em quase todos os relatos."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Achados referentes às medicações e"
+        },
+        {
+          "type": "text",
+          "value": "equipamentos anestésicos altamente"
+        },
+        {
+          "type": "text",
+          "value": "recomendados pela OMS–WFSA"
+        },
+        {
+          "type": "text",
+          "value": "• Hospitais atenderam, em grande parte, aos"
+        },
+        {
+          "type": "text",
+          "value": "padrões internacionais para a prática anestésica"
+        },
+        {
+          "type": "text",
+          "value": "segura, particularmente no período"
+        },
+        {
+          "type": "text",
+          "value": "intraoperatório."
+        },
+        {
+          "type": "text",
+          "value": "• Disponibilidade plena de fármacos essenciais,"
+        },
+        {
+          "type": "text",
+          "value": "bem como de medicamentos fundamentais"
+        },
+        {
+          "type": "text",
+          "value": "para ressuscitação, estando em consonância"
+        },
+        {
+          "type": "text",
+          "value": "com os International Standards for a Safe"
+        },
+        {
+          "type": "text",
+          "value": "Practice of Anesthesia estabelecidos pela"
+        }
+      ]
+    },
+    {
+      "id": "oms-wfsa",
+      "title": "OMS–WFSA.",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Disponibilidade universal de desfibriladores,"
+        },
+        {
+          "type": "text",
+          "value": "dispositivos de sucção, detectores de dióxido"
+        },
+        {
+          "type": "text",
+          "value": "de carbono, monitores de pressão arterial não"
+        },
+        {
+          "type": "text",
+          "value": "invasiva, iluminação adequada e luvas estéreis"
+        },
+        {
+          "type": "text",
+          "value": "reflete uma infraestrutura compatível com os"
+        },
+        {
+          "type": "text",
+          "value": "requisitos mínimos de segurança estabelecidos"
+        },
+        {
+          "type": "text",
+          "value": "pela OMS-WFSA"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "De modo geral, os Hospitais Y e Z apresentaram"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade plena ou próxima do ideal para a"
+        },
+        {
+          "type": "text",
+          "value": "maioria dos equipamentos avaliados, enquanto o"
+        },
+        {
+          "type": "text",
+          "value": "Hospital X concentrou as principais limitações"
+        },
+        {
+          "type": "text",
+          "value": "estruturais, refletindo diferenças relevantes na"
+        },
+        {
+          "type": "text",
+          "value": "capacidade institucional."
+        },
+        {
+          "type": "text",
+          "value": "Fragilidades relevantes: disponibilidade reduzida"
+        },
+        {
+          "type": "text",
+          "value": "de máscaras faciais de tamanhos variados, cânulas"
+        },
+        {
+          "type": "text",
+          "value": "orofaríngeas pediátricas, bolsas autoinfláveis"
+        },
+        {
+          "type": "text",
+          "value": "pediátricas, bougies, estetoscópios e oxímetros de"
+        },
+        {
+          "type": "text",
+          "value": "pulso pediátricos evidencia heterogeneidade"
+        },
+        {
+          "type": "text",
+          "value": "estrutural entre as instituições avaliadas.Esse"
+        },
+        {
+          "type": "text",
+          "value": "achado é consistente com avaliações"
+        },
+        {
+          "type": "text",
+          "value": "internacionais que demonstram menor"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade de dispositivos pediátricos em"
+        },
+        {
+          "type": "text",
+          "value": "hospitais de países de baixa e média renda,"
+        },
+        {
+          "type": "text",
+          "value": "refletindo priorização estrutural"
+        },
+        {
+          "type": "text",
+          "value": "predominantemente voltada à população adulta e"
+        },
+        {
+          "type": "text",
+          "value": "limitações na aquisição de insumos específicos"
+        },
+        {
+          "type": "text",
+          "value": "para o cuidado anestésico ."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Achados referentes às medicações e"
+        },
+        {
+          "type": "text",
+          "value": "equipamentos anestésicos recomendados pela"
+        }
+      ]
+    },
+    {
+      "id": "oms-wfsa",
+      "title": "OMS–WFSA",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Propofol, anestésicos inalatórios (como"
+        },
+        {
+          "type": "text",
+          "value": "sevoflurano e isoflurano), succinilcolina,"
+        },
+        {
+          "type": "text",
+          "value": "neostigmina e rocurônio apresentaram alta"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade. Em contraste, observou-se"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade limitada de bloqueadores"
+        },
+        {
+          "type": "text",
+          "value": "neuromusculares alternativos."
+        },
+        {
+          "type": "text",
+          "value": "• Baixa disponibilidade de metaraminol quando"
+        },
+        {
+          "type": "text",
+          "value": "considerada a proporção de participantes que"
+        },
+        {
+          "type": "text",
+          "value": "relataram sua presença “sempre” ou “quase"
+        },
+        {
+          "type": "text",
+          "value": "sempre”. Nessa análise, apenas 9% dos"
+        },
+        {
+          "type": "text",
+          "value": "respondentes do Hospital X indicaram alta"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade desse fármaco, enquanto nos"
+        },
+        {
+          "type": "text",
+          "value": "Hospitais Y e Z não houve relato de"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade nessas categorias (0%)."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Achados referentes às medicações e"
+        },
+        {
+          "type": "text",
+          "value": "equipamentos anestésicos recomendados pela"
+        }
+      ]
+    },
+    {
+      "id": "oms-wfsa",
+      "title": "OMS–WFSA",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Equipamentos: elevada disponibilidade na"
+        },
+        {
+          "type": "text",
+          "value": "maioria dos itens avaliados. Em contraste, a"
+        },
+        {
+          "type": "text",
+          "value": "monitorização quantitativa da transmissão"
+        },
+        {
+          "type": "text",
+          "value": "neuromuscular apresentou alta disponibilidade"
+        },
+        {
+          "type": "text",
+          "value": "apenas no Hospital X (85%), não sendo"
+        },
+        {
+          "type": "text",
+          "value": "relatada nessas categorias nos Hospitais Y e Z"
+        },
+        {
+          "type": "text",
+          "value": "(0%)."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Outras medicações e equipamentos anestésicos contemplados nos"
+        },
+        {
+          "type": "text",
+          "value": "padrões da OMS–WFSA"
+        },
+        {
+          "type": "text",
+          "value": "• A disponibilidade de máscaras laríngeas para adultos mostrou-se variável"
+        },
+        {
+          "type": "text",
+          "value": "entre as instituições, enquanto as máscaras laríngeas pediátricas"
+        },
+        {
+          "type": "text",
+          "value": "apresentaram disponibilidade particularmente baixa no Hospital X."
+        },
+        {
+          "type": "text",
+          "value": "• Elevada frequência de reutilização de equipamentos descartáveis,"
+        },
+        {
+          "type": "text",
+          "value": "observada em todos os hospitais, e o uso consistente de equipamentos"
+        },
+        {
+          "type": "text",
+          "value": "pessoais dos anestesiologistas em duas das três instituições refletem"
+        },
+        {
+          "type": "text",
+          "value": "fragilidades estruturais amplamente descritas em contextos de recursos"
+        },
+        {
+          "type": "text",
+          "value": "limitados > estratégias compensatórias frente à escassez de insumos, falhas"
+        },
+        {
+          "type": "text",
+          "value": "na cadeia de suprimentos e restrições orçamentárias"
+        },
+        {
+          "type": "text",
+          "value": "• Indisponibilidade universal de insumos considerados essenciais em"
+        },
+        {
+          "type": "text",
+          "value": "recomendações internacionais. A emulsão lipídica intravenosa"
+        },
+        {
+          "type": "text",
+          "value": "(Intralipid®) e a cânula nasofaríngea não estavam disponíveis em nenhum"
+        },
+        {
+          "type": "text",
+          "value": "dos hospitais avaliados (0% nos Hospitais X, Y e Z)."
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "CONCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Embora as instituições avaliadas apresentem conformidade com os padrões OMS-WFSA no que se refere às"
+        },
+        {
+          "type": "text",
+          "value": "medicações anestésicas básicas e aos equipamentos fundamentais para o ato anestésico, os resultados demonstram"
+        },
+        {
+          "type": "text",
+          "value": "que a segurança anestésica não está uniformemente garantida ao longo de todo o percurso assistencial. As principais"
+        },
+        {
+          "type": "text",
+          "value": "lacunas concentram-se nos períodos pré e pós-operatório, com inconsistência na realização da avaliação pré-"
+        },
+        {
+          "type": "text",
+          "value": "anestésica, baixa adesão ao Checklist de Cirurgia Segura da OMS e deficiências na monitorização da Sala de"
+        },
+        {
+          "type": "text",
+          "value": "Recuperação Pós-Anestésica, em desacordo com normativas nacionais e internacionais vigentes. A ausência de"
+        },
+        {
+          "type": "text",
+          "value": "organização adequada do cuidado perioperatório e de uniformidade estrutural entre os serviços compromete a"
+        },
+        {
+          "type": "text",
+          "value": "efetividade dos padrões recomendados pela OMS e pela WFSA, especialmente em instituições com alta demanda"
+        },
+        {
+          "type": "text",
+          "value": "por atendimentos de urgência e trauma."
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "CONCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Por fim, este estudo evidencia que a anestesia segura depende não apenas da presença de recursos, mas da sua"
+        },
+        {
+          "type": "text",
+          "value": "disponibilidade contínua, da organização do cuidado e da adesão a normas técnicas consolidadas. A incorporação"
+        },
+        {
+          "type": "text",
+          "value": "rotineira de instrumentos padronizados de avaliação, como o AFAT, é fundamental para transformar lacunas"
+        },
+        {
+          "type": "text",
+          "value": "estruturais em alvos concretos de intervenção e para avançar na segurança anestésico-cirúrgica no contexto do"
+        },
+        {
+          "type": "text",
+          "value": "Sistema Único de Saúde."
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias",
+      "title": "REFERÊNCIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• World Health Organization–World Federation of Societies of Anaesthesiologists International Standards for a Safe Practice"
+        },
+        {
+          "type": "text",
+          "value": "of Anesthesia Workgroup, Morriss WW, Johnson W, Merry AF. World Health Organization–World Federation of Societies"
+        },
+        {
+          "type": "text",
+          "value": "of Anaesthesiologists (WHO-WFSA) international standards for a safe practice of anesthesia. Can J Anaesth."
+        },
+        {
+          "type": "text",
+          "value": "2018;65(6):698–708."
+        },
+        {
+          "type": "text",
+          "value": "• Conselho Federal de Medicina. Resolução CFM nº 2.174, de 14 de dezembro de 2017. Dispõe sobre a prática do ato"
+        },
+        {
+          "type": "text",
+          "value": "anestésico e revoga a Resolução CFM nº 1.802/2006. Diário Oficial da União. 2018 Jan 10;Seção 1:66–7."
+        },
+        {
+          "type": "text",
+          "value": "• Conselho Regional de Medicina de Pernambuco. Resolução CREMEPE nº 001, de 03 de abril de 2006. Regula a atenção a"
+        },
+        {
+          "type": "text",
+          "value": "ser prestada no pós-operatório anestésico e determina encaminhamento à Sala de Recuperação Pós-Anestésica. Recife:"
+        },
+        {
+          "type": "text",
+          "value": "CREMEPE; 2006. Available from: https://sistemas.cfm.org.br/normas/arquivos/resolucoes/PE/2006/1_2006.pdfAW,"
+        },
+        {
+          "type": "text",
+          "value": "• Hadler R, Chawla S, McIntyre M, et al. Anesthesia care capacity at health facilities in 22 low- and middle-income"
+        },
+        {
+          "type": "text",
+          "value": "countries. World J Surg. 2016;40(5):1025–33."
+        },
+        {
+          "type": "text",
+          "value": "• Mihretu F. The current state of anesthesia safety in a third world country: a cross-sectional survey among anesthesia"
+        },
+        {
+          "type": "text",
+          "value": "providers in Ethiopia. Patient Saf Surg. 2021;15:57."
+        },
+        {
+          "type": "text",
+          "value": "• Odinkemelu D, Lebeau R, Durieux ME, et al. An assessment of anaesthesia capacity in Liberia: opportunities for rebuilding"
+        },
+        {
+          "type": "text",
+          "value": "post-Ebola. Anesth Analg. 2021;132(6):1727–37. doi:10.1213/ANE.0000000000005456."
+        },
+        {
+          "type": "text",
+          "value": "• Zha Y, Smith J, Raghavendran K, et al. Assessment of anaesthesia capacity in public surgical hospitals in Guatemala."
+        },
+        {
+          "type": "text",
+          "value": "Anesth Analg. 2020;132(2):1–10."
+        },
+        {
+          "type": "text",
+          "value": "• Tao K, Rattner D, Wang J, et al. The challenge of safe anesthesia in developing countries: defining the problems in a"
+        },
+        {
+          "type": "text",
+          "value": "medical center in Cambodia. BMC Health Serv Res. 2020;20:204."
+        },
+        {
+          "type": "text",
+          "value": "Obrigada!"
+        }
+      ]
+    }
+  ]
+}

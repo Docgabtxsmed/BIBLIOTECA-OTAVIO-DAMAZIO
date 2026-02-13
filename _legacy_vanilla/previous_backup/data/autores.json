@@ -1,0 +1,101 @@
+[
+  {
+    "id": "thiago",
+    "nome": "Thiago Guerra Seixas Barbosa",
+    "titulo": "Avaliação da Cetonemia de Pacientes em Jejum Programados para Cirurgia Ortopédica Eletiva",
+    "subtitulo": "Estudo observacional sobre o impacto do jejum prolongado no equilíbrio ácido-base.",
+    "orientador": "Dra. Jane Auxiliadora Amorim",
+    "coorientador": "Dr. Kevin Alves Rafael",
+    "imagem_card": "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/thiago/apresentacao-thiago.html",
+    "link_projeto": "pages/thiago/projeto-thiago.html"
+  },
+  {
+    "id": "gabriel-eduarda",
+    "nome": "Gabriel Tavares & Eduarda Silvestre",
+    "titulo": "Impacto do Sulfato de Magnésio no Bloqueio Neuromuscular Induzido por Rocurônio",
+    "subtitulo": "Ensaio Clínico Randomizado duplo-cego avaliando a interação farmacológica.",
+    "orientador": "Dr. Glauco Mauren",
+    "coorientador": "",
+    "imagem_card": "assets/images/anesthesia_mechanism_concept.png",
+    "link_apresentacao": "pages/gabriel-eduarda/apresentacao-gabriel-eduarda.html",
+    "link_projeto": "pages/gabriel-eduarda/projeto-gabriel-eduarda.html"
+  },
+  {
+    "id": "ingrid",
+    "nome": "Ingrid Lilianne de Almeida Araújo",
+    "titulo": "Impacto da Dexmedetomidina no Despertar de Pacientes (Colecistectomia)",
+    "subtitulo": "Ensaio Clínico Randomizado sobre a qualidade da recuperação anestésica.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/ingrid/apresentacao-ingrid.html",
+    "link_projeto": "pages/ingrid/projeto-ingrid.html"
+  },
+  {
+    "id": "gisele",
+    "nome": "Gisele Mariel de Sousa Vasconcelos",
+    "titulo": "Avaliação de Desfechos Cirúrgicos Perioperatórios em Pacientes Pediátricos",
+    "subtitulo": "Estudo de coorte prospectivo analisando complicações e recuperação em pediatria.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1579154204601-01588f351e67?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/gisele/apresentacao-gisele.html",
+    "link_projeto": "pages/gisele/projeto-gisele.html"
+  },
+  {
+    "id": "yasmim",
+    "nome": "Yasmim Ferber Corezzi Pinheiro",
+    "titulo": "Avaliação da Capacidade Anestésica (AFAT) em Hospitais Públicos",
+    "subtitulo": "Aplicação da ferramenta AFAT para mapear recursos de anestesia em Pernambuco.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/yasmim/apresentacao-yasmim.html",
+    "link_projeto": "pages/yasmim/projeto-yasmim.html"
+  },
+  {
+    "id": "rafael",
+    "nome": "Rafael Azevedo",
+    "titulo": "Concordância Hemodinâmica: VolumeView vs LiDCO",
+    "subtitulo": "Estudo comparativo de monitorização em cirurgias de citorredução com HIPEC.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/rafael/apresentacao-rafael.html",
+    "link_projeto": "pages/rafael/projeto-rafael.html"
+  },
+  {
+    "id": "janaina",
+    "nome": "Janaína Gomes Ratis Monteiro",
+    "titulo": "Titulação Individualizada da PEEP em Cirurgia Robótica",
+    "subtitulo": "Revisão Sistemática e Meta-análise sobre estratégias ventilatórias protetoras.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1579684385180-1ea55f9f631d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/janaina/apresentacao-janaina.html",
+    "link_projeto": "pages/janaina/projeto-janaina.html"
+  },
+  {
+    "id": "rafaela-lucas",
+    "nome": "Rafaela Pedrosa & Lucas Marcelo",
+    "titulo": "Complicações Perioperatórias em Pacientes com SAOS",
+    "subtitulo": "Estudo de coorte prospectivo sobre apneia obstrutiva do sono e riscos cirúrgicos.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/rafaela-lucas/apresentacao-rafaela-lucas.html",
+    "link_projeto": "pages/rafaela-lucas/projeto-rafaela-lucas.html"
+  },
+  {
+    "id": "mario",
+    "nome": "Mario Petrônio Dowsley de Freitas Neto",
+    "titulo": "Ensino da Ultrassonografia Point-of-Care (POCUS)",
+    "subtitulo": "Estudo de coorte prospectivo avaliando o impacto do treinamento em residentes.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/mario/apresentacao-mario.html",
+    "link_projeto": "pages/mario/projeto-mario.html"
+  }
+]

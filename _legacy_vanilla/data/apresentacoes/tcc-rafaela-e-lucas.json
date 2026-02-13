@@ -1,0 +1,1131 @@
+{
+  "id": "tcc-rafaela-e-lucas",
+  "meta": {
+    "title": "TCC Rafaela e Lucas.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "TCC"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "estudo-de-coorte-prospectivo",
+      "title": "ESTUDO DE COORTE PROSPECTIVO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Programa de Residência Médica em Anestesiologia (2023-2026)"
+        },
+        {
+          "type": "text",
+          "value": "Rafaela Pedrosa Dantas"
+        },
+        {
+          "type": "text",
+          "value": "Lucas Marcelo Almeida Santana"
+        },
+        {
+          "type": "text",
+          "value": "Orientadora: Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Recife, 11 de fevereiro de 2026"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Síndrome de Apneia Obstrutiva do Sono (SAOS):"
+        },
+        {
+          "type": "text",
+          "value": "- Obstrução parcial ou completa das vias aéreas superiores;"
+        },
+        {
+          "type": "text",
+          "value": "- Prevalência de 9-25% na população geral x 64,2% nos paciente submetidos a procedimentos"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgicos;"
+        },
+        {
+          "type": "text",
+          "value": "- 60% dos anestesiologistas não identificam na avaliação pré-anestésica;"
+        },
+        {
+          "type": "text",
+          "value": "- Diagnóstico: polissonografia;"
+        },
+        {
+          "type": "text",
+          "value": "- Triagem pré-anestésica: questionário STOP-Bang;"
+        },
+        {
+          "type": "text",
+          "value": "- Aumento de risco de eventos cardiovasculares, dificuldade de manejo de via aérea e"
+        },
+        {
+          "type": "text",
+          "value": "complicações perioperatórias."
+        },
+        {
+          "type": "text",
+          "value": "Seet E, Chung F, Wang CY, Tam S, Kumar CM, Ubeynarayana CU, et al. Association of Obstructive Sleep Apnea With Difficult Intubation: Prospective Multicenter Observational Cohort Study. Anesthesia &"
+        },
+        {
+          "type": "text",
+          "value": "Analgesia. 2021 Mar 10;133(1):196–204. // Nagappa M, Wong DT, Cozowicz C, Ramachandran SK, Memtsoudis SG, Chung F. Is obstructive sleep apnea associated with difficult airway? Evidence from a"
+        },
+        {
+          "type": "text",
+          "value": "systematic review and meta-analysis of prospective and retrospective cohort studies. Taheri S, editor. PLOS ONE. 2018 Oct 4;13(10):e0204904 // OzenV,OzenN.Obstructivesleepapneainsurgicalpatients"
+        },
+        {
+          "type": "text",
+          "value": "anditsrelationshipwithdifficultintubation:twoyearsofexperiencefromasinglecenter.BrazilianJournalofAnesthesiology.2021Sep;"
+        }
+      ]
+    },
+    {
+      "id": "hip-tese",
+      "title": "HIPÓTESE",
+      "content": [
+        {
+          "type": "text",
+          "value": "Os pacientes com risco elevado de SAOS, pelos critérios do questionário STOP-Bang,"
+        },
+        {
+          "type": "text",
+          "value": "apresentam maior dificuldade de manejo de via aérea e risco de complicações respiratórias"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral",
+      "title": "Objetivo geral:",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Avaliar o risco de SAOS em pacientes programados para procedimentos eletivos sob"
+        },
+        {
+          "type": "text",
+          "value": "anestesia geral e sua associação com a presença de complicações respiratórias"
+        },
+        {
+          "type": "text",
+          "value": "perioperatórias."
+        }
+      ]
+    },
+    {
+      "id": "objetivos-espec-ficos",
+      "title": "Objetivos específicos:",
+      "content": [
+        {
+          "type": "text",
+          "value": "Em pacientes programados para cirurgias em caráter eletivo, submetidos à anestesia geral e"
+        },
+        {
+          "type": "text",
+          "value": "intubação orotraqueal, foram avaliados:"
+        },
+        {
+          "type": "text",
+          "value": "- Características clínicas;"
+        },
+        {
+          "type": "text",
+          "value": "- Preditores de via aérea difícil;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de ventilação sob máscara facial;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade no manuseio da via aérea para intubação orotraqueal (IOT), bem como o número de tentativas e"
+        },
+        {
+          "type": "text",
+          "value": "a necessidade de dispositivos auxiliares;"
+        },
+        {
+          "type": "text",
+          "value": "- Complicações respiratórias perioperatórias e necessidade de Unidade de Terapia Intensiva (UTI) no pós-"
+        },
+        {
+          "type": "text",
+          "value": "operatório."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Estudo de coorte prospectivo;"
+        },
+        {
+          "type": "text",
+          "value": "- Aprovado pelo Comitê de Ética e Pesquisa (CAAE: 84258824.2.0000.5198);"
+        },
+        {
+          "type": "text",
+          "value": "- Amostra de 147 pacientes;"
+        },
+        {
+          "type": "text",
+          "value": "- Inclusão:"
+        },
+        {
+          "type": "text",
+          "value": "- ≥ 18 anos;"
+        },
+        {
+          "type": "text",
+          "value": "- ASA I, II e III;"
+        },
+        {
+          "type": "text",
+          "value": "- Cirurgia eletiva;"
+        },
+        {
+          "type": "text",
+          "value": "- Hospital dos Servidores do Estado de Pernambuco;"
+        },
+        {
+          "type": "text",
+          "value": "- Anestesia geral com intubação orotraqueal;"
+        },
+        {
+          "type": "text",
+          "value": "- Técnica anestésica de acordo com o anestesiologista."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Exclusão:"
+        },
+        {
+          "type": "text",
+          "value": "- Doenças neuromusculares;"
+        },
+        {
+          "type": "text",
+          "value": "- Gestantes;"
+        },
+        {
+          "type": "text",
+          "value": "- Cirurgia de urgência/emergência;"
+        },
+        {
+          "type": "text",
+          "value": "- Lesões expansivas intratorácicas;"
+        },
+        {
+          "type": "text",
+          "value": "- Cirurgia prévia de cabeça e pescoço;"
+        },
+        {
+          "type": "text",
+          "value": "- História prévia de radioterapia em região cervical;"
+        },
+        {
+          "type": "text",
+          "value": "- SaO2 ≤ 94% em ar ambiente previamente;"
+        },
+        {
+          "type": "text",
+          "value": "- Pacientes impossibilitados ou com dificuldade de comunicação e entendimento do STOP-Bang ou"
+        }
+      ]
+    },
+    {
+      "id": "tcle",
+      "title": "TCLE.",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Foram respeitadas as normas e diretrizes regulamentadoras de pesquisas envolvendo seres"
+        },
+        {
+          "type": "text",
+          "value": "humanos (Resolução 466/2012-CNS/MS) com assinatura do TCLE."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Descrição das variáveis clínicas da"
+        },
+        {
+          "type": "text",
+          "value": "amostra"
+        },
+        {
+          "type": "text",
+          "value": "Variáveis n / (%)"
+        },
+        {
+          "type": "text",
+          "value": "Sexo Associação entre as variáveis demográficas e clínicas com o"
+        },
+        {
+          "type": "text",
+          "value": "risco de Síndrome de Apneia Obstrutiva do Sono."
+        },
+        {
+          "type": "text",
+          "value": "Sexo feminino 107 (72,8%)"
+        },
+        {
+          "type": "text",
+          "value": "Baixo Intermediário Alto p-valor"
+        },
+        {
+          "type": "text",
+          "value": "Sexo masculino 40 (27,2%)"
+        },
+        {
+          "type": "text",
+          "value": "Variáveis"
+        },
+        {
+          "type": "text",
+          "value": "Idade 58,9 ± 13,8 anos"
+        },
+        {
+          "type": "text",
+          "value": "n / (%) n / (%) n / (%)"
+        }
+      ]
+    },
+    {
+      "id": "imc",
+      "title": "IMC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Sexo <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Eutrófico 45 (30,6%)"
+        },
+        {
+          "type": "text",
+          "value": "Feminino 50 (89,3%) 20 (64,5%) 3 (23,1%)"
+        },
+        {
+          "type": "text",
+          "value": "Sobrepeso 51 (34,7%)"
+        },
+        {
+          "type": "text",
+          "value": "Masculino 6 (10,7%) 11 (35,5%) 10 (76,9%)"
+        },
+        {
+          "type": "text",
+          "value": "Obesidade grau I 20 (13,6%)"
+        }
+      ]
+    },
+    {
+      "id": "imc--0-00",
+      "title": "IMC <0,001",
+      "content": [
+        {
+          "type": "text",
+          "value": "Obesidade grau II 18 (12,2%)"
+        },
+        {
+          "type": "text",
+          "value": "Eutrófico 22 (39,3%) 9 (29,0%) 1 (7,7%)"
+        },
+        {
+          "type": "text",
+          "value": "Obesidade grau III 13 (8,9%)"
+        },
+        {
+          "type": "text",
+          "value": "Sobrepeso 25 (44,6%) 10 (32,3%) 1 (7,7%)"
+        },
+        {
+          "type": "text",
+          "value": "Comorbidade 110 (74,8%)"
+        },
+        {
+          "type": "text",
+          "value": "Obesidade 9 (16,1%) 12 (38,7%) 11 (84,6%)"
+        }
+      ]
+    },
+    {
+      "id": "has",
+      "title": "HAS 74 (66,1%)",
+      "content": [
+        {
+          "type": "text",
+          "value": "Comorbidade 0,001"
+        }
+      ]
+    },
+    {
+      "id": "dm",
+      "title": "DM 27 (24,1%)",
+      "content": [
+        {
+          "type": "text",
+          "value": "Sim 47 (61,8%) 44 (86,3%) 19 (95,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Risco de SAOS"
+        },
+        {
+          "type": "text",
+          "value": "Não 29 (38,2%) 7 (13,7%) 1 (5,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Baixo 76 (51,7%)"
+        },
+        {
+          "type": "text",
+          "value": "Intermediário 51 (34,7%) 48,3%"
+        },
+        {
+          "type": "text",
+          "value": "Alto 20 (13,6%)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Associação entre o exame físico da via aérea e o risco de Síndrome de Apneia Obstrutiva do Sono."
+        },
+        {
+          "type": "text",
+          "value": "Baixo Intermediário Alto"
+        },
+        {
+          "type": "text",
+          "value": "Variáveis p-valor"
+        },
+        {
+          "type": "text",
+          "value": "n (%) n (%) n (%)"
+        },
+        {
+          "type": "text",
+          "value": "Mallampati 0,255"
+        },
+        {
+          "type": "text",
+          "value": "I e II 53 (69,7%) 33 (64,7%) 10 (50,0%)"
+        },
+        {
+          "type": "text",
+          "value": "III e IV 23 (30,3%) 18 (35,3%) 10 (50,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Teste da mordida do lábio superior 0,096"
+        }
+      ]
+    },
+    {
+      "id": "ii--------0--------------------0",
+      "title": "II 16 (21,0%) 14 (27,5%) 9 (45,0%)",
+      "content": [
+        {
+          "type": "text",
+          "value": "Dentição 0,482"
+        },
+        {
+          "type": "text",
+          "value": "Conservada 38 (50,0%) 21 (41,2%) 11 (55,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Mal conservada / edêntulo"
+        },
+        {
+          "type": "text",
+          "value": "38 (50,0%) 30 (58,8%) 9 (45,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Distância tireomentoniana 0,001"
+        },
+        {
+          "type": "text",
+          "value": "< 6cm 74 (97,4%) 45 (88,2%) 14 (70,0%)"
+        },
+        {
+          "type": "text",
+          "value": "≥ 6cm 2 (2,6%) 6 (11,8%) 6 (30,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Abertura bucal 0,088"
+        },
+        {
+          "type": "text",
+          "value": "< 3cm 70 (92,1%) 46 (90,2%) 15 (75,0%)"
+        },
+        {
+          "type": "text",
+          "value": "≥ 3 cm 6 (7,9%) 5 (9,8%) 5 (25,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Mobilidade atlanto-occipital <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Normal 68 (89,5%) 39 (76,5%) 6 (30,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Reduzida 8 (10,5%) 12 (23,5%) 14 (70,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Circunferência do pescoço <0,001"
+        },
+        {
+          "type": "text",
+          "value": "< 40cm 76 (100%) 45 (88,2%) 3 (15,0%)"
+        },
+        {
+          "type": "text",
+          "value": "≥ 40 cm 0 (0%) 6 (11,8%) 17 (85,0%)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Baixo Intermediário Alto"
+        },
+        {
+          "type": "text",
+          "value": "Variáveis p-valor"
+        },
+        {
+          "type": "text",
+          "value": "n / (%) n / (%) n / (%)"
+        },
+        {
+          "type": "text",
+          "value": "Dificuldade de ventilação <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Não 75 (98,7%) 48 (94,1%) 12 (60,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Sim 1 (1,3%) 3 (5,9%) 8 (40,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Dificuldade de IOT <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Não 72 (94,7%) 47 (92,2%) 12 (60,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Sim 4 (5,3%) 4 (7,8%) 8 (40,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Dessaturação durante IOT 0,028"
+        },
+        {
+          "type": "text",
+          "value": "Não 72 (94,7%) 46 (90,2%) 15 (75,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Sim 4 (5,3%) 5 (9,8%) 5 (25,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Número de tentativas <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Uma 69 (90,8%) 45 (88,2%) 8 (40,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Duas 7 (9,2%) 6 (11,8%) 12 (60,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Uso lâmina articulada 0,028"
+        },
+        {
+          "type": "text",
+          "value": "Sim 0 (0%) 1 (2,0%) 2 (10,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 76 (100%) 50 (98,0%) 18 (90,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Uso de bougie 0,002"
+        },
+        {
+          "type": "text",
+          "value": "Sim 4 (5,3%) 6 (11,8%) 7 (35,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Associação entre o manejo de"
+        },
+        {
+          "type": "text",
+          "value": "Não 72 (94,7%) 45 (88,2%) 13 (65,0%)"
+        },
+        {
+          "type": "text",
+          "value": "via aérea no intraoperatório e"
+        },
+        {
+          "type": "text",
+          "value": "Uso de videolaringoscópio 0,014"
+        },
+        {
+          "type": "text",
+          "value": "o risco de Síndrome de Apneia"
+        },
+        {
+          "type": "text",
+          "value": "Sim 2 (2,6%) 0 (0%) 3 (15,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Obstrutiva do Sono."
+        },
+        {
+          "type": "text",
+          "value": "Não 74 (97,4%) 51 (100%) 17 (85,0%)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Associação entre manejo de via aérea e intermediário e alto risco de Síndrome de Apneia Obstrutiva do"
+        },
+        {
+          "type": "text",
+          "value": "Sono"
+        },
+        {
+          "type": "text",
+          "value": "Variável OR IC 95% p-valor"
+        },
+        {
+          "type": "text",
+          "value": "Dificuldade de ventilação 10,73 1,38 – 83,32 <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Dificuldade de IOT 7,97 2,25 – 28,22 <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Dessaturação na IOT 4,01 1,14 – 14,11 0,028"
+        },
+        {
+          "type": "text",
+          "value": "≥ 2 tentativas 8,47 3,29 – 21,82 <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Uso de bougie 5,06 1,73 – 14,79 0,002"
+        },
+        {
+          "type": "text",
+          "value": "Uso de lâmina articulada 9,68 0,86 – 108,73 0,028"
+        },
+        {
+          "type": "text",
+          "value": "Uso de videolaringoscópio 4,48 1,05 – 19,10 0,014"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Associação entre as complicações respiratórias após extubação traqueal e o risco de Síndrome de"
+        },
+        {
+          "type": "text",
+          "value": "Apneia Obstrutiva do Sono."
+        },
+        {
+          "type": "text",
+          "value": "Complicações Baixo Risco Risco intermediário Alto risco"
+        },
+        {
+          "type": "text",
+          "value": "p-valor"
+        },
+        {
+          "type": "text",
+          "value": "após extubação n / (%) n / (%) n / (%)"
+        },
+        {
+          "type": "text",
+          "value": "Dessaturação <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Sim 14 (18,4%) 16 (31,4%) 14 (70,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 62 (81,6%) 35 (68,6%) 6 (30,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Dispneia 0,007"
+        },
+        {
+          "type": "text",
+          "value": "Sim 0 (0%) 3 (5,9%) 3 (15,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 76 (100%) 48 (94,1%) 17 (85,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Broncoespasmo 0,483"
+        },
+        {
+          "type": "text",
+          "value": "Sim 0 (0%) 1 (2,0%) 0 (0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 76 (100%) 50 (98,0%) 20 (100%)"
+        },
+        {
+          "type": "text",
+          "value": "Necessidade de UTI 0,136"
+        },
+        {
+          "type": "text",
+          "value": "Sim 0 (0%) 0 (0%) 1 (5,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 76 (100%) 51 (100%) 19 (95,0%)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Associação entre complicações respiratórias pós-extubação e risco intermediário e alto de SAOS"
+        },
+        {
+          "type": "text",
+          "value": "Variáveis OR IC 95% p-valor"
+        },
+        {
+          "type": "text",
+          "value": "Dessaturação 3,24 1,54 – 6,84 <0,001"
+        },
+        {
+          "type": "text",
+          "value": "Dispneia 15,18 0,84 – 274,66 0,007"
+        },
+        {
+          "type": "text",
+          "value": "Broncoespasmo 3,26 0,13 – 81,23 0,483"
+        },
+        {
+          "type": "text",
+          "value": "Necessidade de UTI 3,26 0,13 – 81,23 0,136"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Seet et al (2021):"
+        },
+        {
+          "type": "text",
+          "value": "- Coorte prospectiva multicêntrica (n=869);"
+        },
+        {
+          "type": "text",
+          "value": "- ≥ 45 anos + fator de risco cardíaco;"
+        },
+        {
+          "type": "text",
+          "value": "- Prevalência de 80% com risco intermediário e alto no STOP-Bang;"
+        },
+        {
+          "type": "text",
+          "value": "- Risco intermediário e alto de SAOS: fator de risco independente para IOT difícil."
+        },
+        {
+          "type": "text",
+          "value": "- Ozen et al (2021):"
+        },
+        {
+          "type": "text",
+          "value": "- Coorte prospectiva, ASA I e II, adultos, cirurgia eletiva e anestesia geral (n=307);"
+        },
+        {
+          "type": "text",
+          "value": "- 64,2% com alto risco para SAOS (STOP-Bang);"
+        },
+        {
+          "type": "text",
+          "value": "- Idade, sexo masculino e obesidade como fatores de risco para SAOS;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de intubação (28,6%) no alto risco de SAOS."
+        },
+        {
+          "type": "text",
+          "value": "Seet E, Chung F, Wang CY, Tam S, Kumar CM, Ubeynarayana CU, et al. Association of Obstructive Sleep Apnea With Difficult Intubation: Prospective Multicenter Observational Cohort Study. Anesthesia &"
+        },
+        {
+          "type": "text",
+          "value": "Analgesia. 2021 Mar 10;133(1):196–204;"
+        },
+        {
+          "type": "text",
+          "value": "Ozen V, Ozen N. Obstructive sleep apnea in surgical patients and its relationship with difficult intubation: two years of experience from a single center. Brazilian Journal of Anesthesiology. 2021 Sep;"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Belizzi et al (2025):"
+        },
+        {
+          "type": "text",
+          "value": "- Revisão narrativa;"
+        },
+        {
+          "type": "text",
+          "value": "- Fatores de risco para SAOS: idade, sexo masculino, obesidade;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de ventilação sob máscara facial: 2,3x maior;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de intubação orotraqueal: 1,8x maior;"
+        },
+        {
+          "type": "text",
+          "value": "- Mallampati com sensibilidade moderada, mas especificidade limitada para prever IOT difícil;"
+        },
+        {
+          "type": "text",
+          "value": "- Teste da mordida do lábio superior como mais confiável para predizer laringoscopia difícil;"
+        },
+        {
+          "type": "text",
+          "value": "- Laringoscopia direta com reduzida taxa de sucesso nos grupos de SAOS."
+        },
+        {
+          "type": "text",
+          "value": "- Nagappa et al (2018):"
+        },
+        {
+          "type": "text",
+          "value": "- Revisão sistemática (1946-2017);"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de ventilação sob máscara facial: 3,39x maior nos pacientes com SAOS;"
+        },
+        {
+          "type": "text",
+          "value": "- Dificuldade de intubação orotraqueal: 3,46x maior nos pacientes com SAOS."
+        },
+        {
+          "type": "text",
+          "value": "Bellizzi MG, Pace A, Iannella G, Maniaci A, Paternò DS, Tutino S, et al. Airway management in obstructive sleep apnea: a comprehensive review of assessment strategies, techniques, and technological advances."
+        },
+        {
+          "type": "text",
+          "value": "Healthcare (Basel). 2025;13(15):1823. doi:10.3390/healthcare13151823."
+        },
+        {
+          "type": "text",
+          "value": "Nagappa M, Wong DT, Cozowicz C, Ramachandran SK, Memtsoudis SG, Chung F. Is obstructive sleep apnea associated with difficult airway? Evidence from a systematic review and meta-analysis of prospective"
+        },
+        {
+          "type": "text",
+          "value": "and retrospective cohort studies. Taheri S, editor. PLOS ONE. 2018 Oct 4;13(10):e0204904"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Nagappa et al (2017):"
+        },
+        {
+          "type": "text",
+          "value": "- Revisão sistemática (2008-2016);"
+        },
+        {
+          "type": "text",
+          "value": "- Probabilidade agrupada de complicações perioperatórias foi maior em pacientes com alto risco"
+        },
+        {
+          "type": "text",
+          "value": "de SAOS;"
+        },
+        {
+          "type": "text",
+          "value": "- Maior tempo de internação hospitalar em pacientes com alto risco de SAOS."
+        },
+        {
+          "type": "text",
+          "value": "- Devaraj et al (2017):"
+        },
+        {
+          "type": "text",
+          "value": "- Coorte prospectiva (n=245);"
+        },
+        {
+          "type": "text",
+          "value": "- SAOS associada independentemente à dessaturação pós-operatória e à presença de"
+        },
+        {
+          "type": "text",
+          "value": "complicações em até 30 dias após procedimento cirúrgico não-cardíaco."
+        },
+        {
+          "type": "text",
+          "value": "- Kaw et al (2012):"
+        },
+        {
+          "type": "text",
+          "value": "- Meta-análise com 13 estudos (n=3942);"
+        },
+        {
+          "type": "text",
+          "value": "- SAOS associada a:"
+        },
+        {
+          "type": "text",
+          "value": "- Eventos cardíacos pós-operatórios;"
+        },
+        {
+          "type": "text",
+          "value": "- Insuficiência respiratória aguda;"
+        },
+        {
+          "type": "text",
+          "value": "- Dessaturação;"
+        },
+        {
+          "type": "text",
+          "value": "- Transferência para a UTI."
+        },
+        {
+          "type": "text",
+          "value": "Kaw R, Chung F, Pasupuleti V, Mehta J, Gay PC, Hernandez AV. Meta-analysis of the association between obstructive sleep apnoea and postoperative outcome. Br J Anaesth. 2012 Dec;109(6):897–906."
+        },
+        {
+          "type": "text",
+          "value": "doi:10.1093/bja/aes308. // Nagappa M, Patra J, Wong J, Subramani Y, Singh M, Ho G, et al. Association of STOP-Bang Questionnaire as a Screening Tool for Sleep Apnea and Postoperative Complications."
+        },
+        {
+          "type": "text",
+          "value": "Anesthesia & Analgesia. 2017 Oct;125(4):1301–8. // Devaraj U, Rajagopala S, Kumar A, Ramachandran P, Devereaux PJ, D’Souza GA. Undiagnosed Obstructive Sleep Apnea and Postoperative Outcomes: A"
+        },
+        {
+          "type": "text",
+          "value": "Prospective Observational Study. Respiration. 2017;94(1):18–25."
+        }
+      ]
+    },
+    {
+      "id": "considera--es-finais",
+      "title": "CONSIDERAÇÕES FINAIS",
+      "content": [
+        {
+          "type": "text",
+          "value": "- Nosso estudo trouxe alta prevalência de SAOS, com associação significativamente estatística"
+        },
+        {
+          "type": "text",
+          "value": "com dificuldade de manejo de via aérea e complicações respiratórias no perioperatório,"
+        },
+        {
+          "type": "text",
+          "value": "corroborando com a hipótese e literatura;"
+        },
+        {
+          "type": "text",
+          "value": "- Importância de avaliação pré-anestésica criteriosa com triagem sistemática para SAOS;"
+        },
+        {
+          "type": "text",
+          "value": "- American Society of Anesthesiologists (ASA) Task Force: pacientes com SAOS conhecida ou"
+        },
+        {
+          "type": "text",
+          "value": "suspeita devem ser manejados de acordo com as diretrizes de via aérea difícil."
+        },
+        {
+          "type": "text",
+          "value": "- Limitações do estudo:"
+        },
+        {
+          "type": "text",
+          "value": "- Ausência de monitorização do bloqueio neuromuscular;"
+        },
+        {
+          "type": "text",
+          "value": "- Tamanho amostral não alcançado;"
+        },
+        {
+          "type": "text",
+          "value": "- Continuidade do estudo para atingir amostra e nova análise dos resultados com regressão"
+        },
+        {
+          "type": "text",
+          "value": "logística."
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias",
+      "title": "REFERÊNCIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "1. Seet E, Chung F, Wang CY, Tam S, Kumar CM, Ubeynarayana CU, et al. Association of Obstructive Sleep Apnea With Difficult"
+        },
+        {
+          "type": "text",
+          "value": "Intubation: Prospective Multicenter Observational Cohort Study. Anesthesia & Analgesia. 2021 Mar 10;133(1):196–204."
+        },
+        {
+          "type": "text",
+          "value": "2. Nagappa M, Wong DT, Cozowicz C, Ramachandran SK, Memtsoudis SG, Chung F. Is obstructive sleep apnea associated with difficult"
+        },
+        {
+          "type": "text",
+          "value": "airway? Evidence from a systematic review and meta-analysis of prospective and retrospective cohort studies. Taheri S, editor. PLOS ONE."
+        },
+        {
+          "type": "text",
+          "value": "2018 Oct 4;13(10):e0204904."
+        },
+        {
+          "type": "text",
+          "value": "3. Ozen V, Ozen N. Obstructive sleep apnea in surgical patients and its relationship with difficult intubation: two years of experience from a"
+        },
+        {
+          "type": "text",
+          "value": "single center. Brazilian Journal of Anesthesiology. 2021 Sep;"
+        },
+        {
+          "type": "text",
+          "value": "4. Devaraj U, Rajagopala S, Kumar A, Ramachandran P, Devereaux PJ, D’Souza GA. Undiagnosed Obstructive Sleep Apnea and"
+        },
+        {
+          "type": "text",
+          "value": "Postoperative Outcomes: A Prospective Observational Study. Respiration. 2017;94(1):18–25."
+        },
+        {
+          "type": "text",
+          "value": "5. Nagappa M, Patra J, Wong J, Subramani Y, Singh M, Ho G, et al. Association of STOP-Bang Questionnaire as a Screening Tool for"
+        },
+        {
+          "type": "text",
+          "value": "Sleep Apnea and Postoperative Complications. Anesthesia & Analgesia. 2017 Oct;125(4):1301–8."
+        },
+        {
+          "type": "text",
+          "value": "6. Bellizzi MG, Pace A, Iannella G, Maniaci A, Paternò DS, Tutino S, et al. Airway management in obstructive sleep apnea: a"
+        },
+        {
+          "type": "text",
+          "value": "comprehensive review of assessment strategies, techniques, and technological advances. Healthcare (Basel). 2025;13(15):1823."
+        },
+        {
+          "type": "text",
+          "value": "doi:10.3390/healthcare13151823."
+        }
+      ]
+    }
+  ]
+}

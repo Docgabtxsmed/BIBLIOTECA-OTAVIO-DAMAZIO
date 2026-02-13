@@ -1,0 +1,110 @@
+window.autoresData = [
+  {
+    "id": "thiago",
+    "nome": "Thiago Guerra Seixas Barbosa",
+    "titulo": "Avaliação da Cetonemia de Pacientes em Jejum Programados para Cirurgia Ortopédica Eletiva",
+    "subtitulo": "Estudo observacional sobre o impacto do jejum prolongado no equilíbrio ácido-base.",
+    "orientador": "Dra. Jane Auxiliadora Amorim",
+    "coorientador": "Dr. Kevin Alves Rafael",
+    "imagem_card": "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=thiago",
+    "json_apresentacao": "../../data/apresentacoes/thiago.json",
+    "link_projeto": "pages/thiago/projeto-thiago.html"
+  },
+  {
+    "id": "gabriel-eduarda",
+    "nome": "Gabriel Tavares & Eduarda Silvestre",
+    "titulo": "Impacto do Sulfato de Magnésio no Bloqueio Neuromuscular Induzido por Rocurônio",
+    "subtitulo": "Ensaio Clínico Randomizado duplo-cego avaliando a interação farmacológica.",
+    "orientador": "Dr. Glauco Mauren",
+    "coorientador": "",
+    "imagem_card": "assets/images/anesthesia_mechanism_concept.png",
+    "link_apresentacao": "pages/apresentacao-template.html?id=gabriel-eduarda",
+    "json_apresentacao": "../../data/apresentacoes/gabriel-eduarda.json",
+    "link_projeto": "pages/gabriel-eduarda/projeto-gabriel-eduarda.html"
+  },
+  {
+    "id": "ingrid",
+    "nome": "Ingrid Lilianne de Almeida Araújo",
+    "titulo": "Impacto da Dexmedetomidina no Despertar em Colecistectomia Videolaparoscópica",
+    "subtitulo": "Ensaio Clínico Randomizado sobre a qualidade da recuperação anestésica.",
+    "orientador": "Dra. Jane Auxiliadora Amorim",
+    "coorientador": "Dr. Marcius Vinicius Mulatinho Maranhão",
+    "imagem_card": "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=ingrid",
+    "json_apresentacao": "../../data/apresentacoes/ingrid-lilianne.json",
+    "link_projeto": "pages/ingrid/projeto-ingrid.html"
+  },
+  {
+    "id": "gisele",
+    "nome": "Gisele Mariel de Sousa Vasconcelos",
+    "titulo": "Avaliação de Desfechos Cirúrgicos Perioperatórios em Pacientes Pediátricos",
+    "subtitulo": "Estudo de coorte prospectivo analisando complicações e recuperação em pediatria.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1579154204601-01588f351e67?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=gisele",
+    "json_apresentacao": "../../data/apresentacoes/apresentação-tcc-gisele.json",
+    "link_projeto": "pages/gisele/projeto-gisele.html"
+  },
+  {
+    "id": "yasmim",
+    "nome": "Yasmim Ferber Corezzi Pinheiro",
+    "titulo": "Capacidade Anestésica (AFAT) em Hospitais Públicos de Pernambuco",
+    "subtitulo": "Aplicação da ferramenta AFAT para mapear recursos de anestesia.",
+    "orientador": "Dra. Jane Auxiliadora Amorim",
+    "coorientador": "Kevin Alves Rafael & Edgar Vieira do Nascimento",
+    "imagem_card": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=yasmim",
+    "json_apresentacao": "../../data/apresentacoes/yasmin-ferber.json",
+    "link_projeto": "pages/yasmim/projeto-yasmim.html"
+  },
+  {
+    "id": "rafael",
+    "nome": "Rafael Azevedo",
+    "titulo": "Concordância Hemodinâmica: VolumeView vs LiDCO em HIPEC",
+    "subtitulo": "Estudo comparativo de monitorização em cirurgias de citorredução.",
+    "orientador": "Dr. Murilo Nascimento",
+    "coorientador": "Dra. Alynne Rodas",
+    "imagem_card": "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=rafael",
+    "json_apresentacao": "../../data/apresentacoes/rafael-azevedo.json",
+    "link_projeto": "pages/rafael/projeto-rafael.html"
+  },
+  {
+    "id": "janaina",
+    "nome": "Janaína Gomes Ratis Monteiro",
+    "titulo": "Titulação Individualizada da PEEP em Cirurgia Robótica",
+    "subtitulo": "Revisão Sistemática e Meta-análise sobre estratégias ventilatórias protetoras.",
+    "orientador": "Dr. Murilo Robson Fabrício do Nascimento",
+    "coorientador": "Dra. Jane Auxiliadora Amorim",
+    "imagem_card": "https://images.unsplash.com/photo-1579684385180-1ea55f9f631d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=janaina",
+    "json_apresentacao": "../../data/apresentacoes/janaina-monteiro.json",
+    "link_projeto": "pages/janaina/projeto-janaina.html"
+  },
+  {
+    "id": "rafaela-lucas",
+    "nome": "Rafaela Pedrosa & Lucas Marcelo",
+    "titulo": "Complicações Perioperatórias em Pacientes com SAOS",
+    "subtitulo": "Estudo de coorte prospectivo sobre apneia obstrutiva do sono e riscos cirúrgicos.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=rafaela-lucas",
+    "json_apresentacao": "../../data/apresentacoes/tcc-rafaela-e-lucas.json",
+    "link_projeto": "pages/rafaela-lucas/projeto-rafaela-lucas.html"
+  },
+  {
+    "id": "mario",
+    "nome": "Mario Petrônio Dowsley de Freitas Neto",
+    "titulo": "Ensino da Ultrassonografia Point-of-Care (POCUS)",
+    "subtitulo": "Estudo de coorte prospectivo avaliando o impacto do treinamento em residentes.",
+    "orientador": "",
+    "coorientador": "",
+    "imagem_card": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "link_apresentacao": "pages/apresentacao-template.html?id=mario",
+    "json_apresentacao": "../../data/apresentacoes/tcc---mario-freitas-neto-pdf.json",
+    "link_projeto": "pages/mario/projeto-mario.html"
+  }
+];

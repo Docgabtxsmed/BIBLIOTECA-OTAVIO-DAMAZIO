@@ -1,0 +1,709 @@
+{
+  "id": "tcc---mario-freitas-neto-pdf",
+  "meta": {
+    "title": "TCC - MARIO FREITAS NETO PDF.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "TCC"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "coorte-prospectivo",
+      "title": "COORTE PROSPECTIVO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Autor: Mário Petrônio Dowsley de Freitas Neto"
+        },
+        {
+          "type": "text",
+          "value": "R3 PRM MEC/SBA Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "Centro de Ensino e Treinamento Dr. Otávio Damázio Filho - Recife/PE"
+        },
+        {
+          "type": "text",
+          "value": "Orientadoras:"
+        },
+        {
+          "type": "text",
+          "value": "Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Dra. Yumi de Muta Pinto"
+        },
+        {
+          "type": "text",
+          "value": "Conflitos de Interesse"
+        },
+        {
+          "type": "text",
+          "value": "Declaro que não possuo conflitos de interesse"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "Introdução",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Ultrassonografia: modalidade de exame"
+        },
+        {
+          "type": "text",
+          "value": "de imagem segura, sem emissão de"
+        },
+        {
+          "type": "text",
+          "value": "radiação ionizante, portátil, acessível e"
+        },
+        {
+          "type": "text",
+          "value": "de baixo custo"
+        },
+        {
+          "type": "text",
+          "value": "• Ultrassonografia Point-Of-Care (POCUS):"
+        },
+        {
+          "type": "text",
+          "value": "ultrassonografia realizada à beira leito,"
+        },
+        {
+          "type": "text",
+          "value": "pelo próprio médico assistente"
+        },
+        {
+          "type": "text",
+          "value": "• 5º pilar do exame físico: refinamento da"
+        },
+        {
+          "type": "text",
+          "value": "semiologia tradicional"
+        },
+        {
+          "type": "text",
+          "value": "• Diagnósticos mais rápidos e mais precisos"
+        },
+        {
+          "type": "text",
+          "value": "• Decisões clínicas mais ágeis e mais"
+        },
+        {
+          "type": "text",
+          "value": "embasadas"
+        },
+        {
+          "type": "text",
+          "value": "• Procedimentos mais seguros e mais rápidos"
+        },
+        {
+          "type": "text",
+          "value": "Papel do POCUS no Perioperatório"
+        },
+        {
+          "type": "text",
+          "value": "• POCUS: inicialmente usado em"
+        },
+        {
+          "type": "text",
+          "value": "cenários de emergência e terapia"
+        },
+        {
+          "type": "text",
+          "value": "intensiva -> uso perioperatório em"
+        },
+        {
+          "type": "text",
+          "value": "expansão"
+        },
+        {
+          "type": "text",
+          "value": "• Procedimentos: bloqueios de"
+        },
+        {
+          "type": "text",
+          "value": "nervos periféricos e acessos"
+        },
+        {
+          "type": "text",
+          "value": "vasculares – uso mais comum"
+        },
+        {
+          "type": "text",
+          "value": "• Diagnósticos:"
+        },
+        {
+          "type": "text",
+          "value": "• Pulmonar"
+        },
+        {
+          "type": "text",
+          "value": "• Ecocardiografia"
+        },
+        {
+          "type": "text",
+          "value": "• Vias aéreas"
+        },
+        {
+          "type": "text",
+          "value": "• Abdominal"
+        },
+        {
+          "type": "text",
+          "value": "POCUS na Anestesiologia Atual"
+        },
+        {
+          "type": "text",
+          "value": "• Ferramenta essencial no perioperatório – desde a avaliação pré-"
+        },
+        {
+          "type": "text",
+          "value": "anestésica até o pós operatório"
+        },
+        {
+          "type": "text",
+          "value": "• Uso ainda concentrado em aplicações procedimentais"
+        },
+        {
+          "type": "text",
+          "value": "• Implementação heterogênea, falta de treinamentos e de currículo"
+        },
+        {
+          "type": "text",
+          "value": "formal na maioria das instituições de ensino"
+        },
+        {
+          "type": "text",
+          "value": "Metodologias de Ensino"
+        },
+        {
+          "type": "text",
+          "value": "• Intensivo: nivelamento rápido + ganho imediato de"
+        },
+        {
+          "type": "text",
+          "value": "conhecimento/confiança"
+        },
+        {
+          "type": "text",
+          "value": "• Limitações: menor impacto clínica"
+        },
+        {
+          "type": "text",
+          "value": "• Longitudinal: repetição + supervisão/feedback → melhor retenção"
+        },
+        {
+          "type": "text",
+          "value": "e maior impacto clínico"
+        },
+        {
+          "type": "text",
+          "value": "• Modelo ideal: intensivo inicial + treinamentos periódicos +"
+        },
+        {
+          "type": "text",
+          "value": "avaliação contínua"
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral",
+      "title": "Objetivo Geral",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Avaliar o impacto de uma intervenção educacional teórico-prática em"
+        },
+        {
+          "type": "text",
+          "value": "ultrassonografia point-of-care perioperatória em residentes de"
+        },
+        {
+          "type": "text",
+          "value": "anestesiologia."
+        }
+      ]
+    },
+    {
+      "id": "objetivos-espec-ficos",
+      "title": "Objetivos Específicos",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Analisar nos momentos: previamente à realização do curso teórico-prático"
+        },
+        {
+          "type": "text",
+          "value": "de POCUS (T0) e 30 dias após a realização do curso teórico-prático de"
+        },
+        {
+          "type": "text",
+          "value": "POCUS (T1) as seguintes variáveis:"
+        },
+        {
+          "type": "text",
+          "value": "• Conhecimento teórico autopercebido (escala 0–10)"
+        },
+        {
+          "type": "text",
+          "value": "• Nível de confiança (escala 0–10)"
+        },
+        {
+          "type": "text",
+          "value": "• Autoavaliação de habilidades específicas (Escala Likert1–5)"
+        },
+        {
+          "type": "text",
+          "value": "• Escore percentual da avaliação objetiva (%)"
+        },
+        {
+          "type": "text",
+          "value": "• Prevalência das modalidades de aplicação (%)"
+        },
+        {
+          "type": "text",
+          "value": "• Frequência de utilização mensal (número de usos/mês)"
+        },
+        {
+          "type": "text",
+          "value": "• As barreiras percebidas para utilização do POCUS (%)"
+        },
+        {
+          "type": "text",
+          "value": "• Analisar se os desfechos acima variam conforme o ano de residência (R1,"
+        },
+        {
+          "type": "text",
+          "value": "R2 e R3)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "Métodos",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Local: Auditório geral do Hospital da Restauração (Recife–PE)"
+        },
+        {
+          "type": "text",
+          "value": "• População: residentes de Anestesiologia do CET Otávio Damázio"
+        },
+        {
+          "type": "text",
+          "value": "• Desenho: coorte prospectiva"
+        },
+        {
+          "type": "text",
+          "value": "• Amostra: Inclusão = residente ativo no CET / Exclusão = recusa"
+        },
+        {
+          "type": "text",
+          "value": "• Logística: alunos separados por ano da residência e curso"
+        },
+        {
+          "type": "text",
+          "value": "aplicado em 3 datas (um dia por grupo)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos---coleta-de-dados",
+      "title": "Métodos – Coleta de Dados",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Coleta: via Google Forms"
+        },
+        {
+          "type": "text",
+          "value": "• TCLE + 2 questionários digitais"
+        },
+        {
+          "type": "text",
+          "value": "• Instrumentos:"
+        },
+        {
+          "type": "text",
+          "value": "• Q1: experiência prévia, autopercepção, confiança e barreiras"
+        },
+        {
+          "type": "text",
+          "value": "• Q2: teste objetivo (20 questões) sobre tópicos do curso"
+        },
+        {
+          "type": "text",
+          "value": "• Momentos de aplicação:"
+        },
+        {
+          "type": "text",
+          "value": "• T0: na manhã do curso, antes do seu início"
+        },
+        {
+          "type": "text",
+          "value": "• T1: 30 dias após realização do curso"
+        }
+      ]
+    },
+    {
+      "id": "m-todos--estrutura-do-curso",
+      "title": "Métodos: Estrutura do Curso",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Carga horária total: 8 horas (3h teoria + 3h prática + intervalos)"
+        },
+        {
+          "type": "text",
+          "value": "• Tópicos abordados:"
+        },
+        {
+          "type": "text",
+          "value": "• Bases da ultrassonografia"
+        },
+        {
+          "type": "text",
+          "value": "• Avaliação pulmonar ultrassonográfica"
+        },
+        {
+          "type": "text",
+          "value": "• Acessos vasculares guiados por USG"
+        },
+        {
+          "type": "text",
+          "value": "• Ultrassonografia abdominal: conteúdos gástrico e urinário"
+        },
+        {
+          "type": "text",
+          "value": "• Avaliação ultrassonográfica de vias aéreas"
+        },
+        {
+          "type": "text",
+          "value": "• Ecocardiografia transtorácica básica"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "Resultados",
+      "content": [
+        {
+          "type": "text",
+          "value": "Discussão"
+        },
+        {
+          "type": "text",
+          "value": "• Houve melhora do conhecimento objetivo (84,3% ±10,5% → 91,7%"
+        },
+        {
+          "type": "text",
+          "value": "± 10%), da autopercepção de conhecimento (4,5±1,75 → 6,6±1,64"
+        },
+        {
+          "type": "text",
+          "value": "/ 0-10), além de aumento de confiança geral (3,94±2,3 ->"
+        },
+        {
+          "type": "text",
+          "value": "6,33±1,82 / 0-10), todos com p<0,05"
+        },
+        {
+          "type": "text",
+          "value": "• Diversos trabalhos evidenciam que cursos intensivos trazem"
+        },
+        {
+          "type": "text",
+          "value": "ganho teórico e de confiança expressivos"
+        },
+        {
+          "type": "text",
+          "value": "• Frequência de uso: aumento numérico sem significância"
+        },
+        {
+          "type": "text",
+          "value": "estatística"
+        },
+        {
+          "type": "text",
+          "value": "Discussão"
+        },
+        {
+          "type": "text",
+          "value": "• Estratificação por ano de residência:"
+        },
+        {
+          "type": "text",
+          "value": "• R1s: maiores ganhos de conhecimento e autoconfiança -> intervenções"
+        },
+        {
+          "type": "text",
+          "value": "precoces tem maior potencial de ganho"
+        },
+        {
+          "type": "text",
+          "value": "• R2s: ganho significativo -> maior conhecimento prévio, porém"
+        },
+        {
+          "type": "text",
+          "value": "fragmentado"
+        },
+        {
+          "type": "text",
+          "value": "• R3s: sem ganho significativo de conhecimento, porém houve aumento de"
+        },
+        {
+          "type": "text",
+          "value": "autoconfiança -> efeito teto"
+        },
+        {
+          "type": "text",
+          "value": "• Após o curso: nivelamento de teórico e de autoconfiança"
+        },
+        {
+          "type": "text",
+          "value": "Discussão"
+        },
+        {
+          "type": "text",
+          "value": "• Barreiras ao uso do POCUS: falta de supervisão especializada,"
+        },
+        {
+          "type": "text",
+          "value": "insegurança técnica e ausência de currículo formal foram as mais"
+        },
+        {
+          "type": "text",
+          "value": "citadas"
+        },
+        {
+          "type": "text",
+          "value": "• Estudos internacionais: padrões semelhantes de barreiras"
+        },
+        {
+          "type": "text",
+          "value": "• Falta de equipamentos: importante"
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "Conclusão",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Curso teórico-prático intensivo de POCUS: estratégia inicial eficaz"
+        },
+        {
+          "type": "text",
+          "value": "no ganho de conhecimento teórico e de autoconfiança, porém"
+        },
+        {
+          "type": "text",
+          "value": "insuficiente para estabelecer o método na prática clínica"
+        },
+        {
+          "type": "text",
+          "value": "• A incorporação sustentada do POCUS depende de apoio"
+        },
+        {
+          "type": "text",
+          "value": "institucional, disponibilidade de equipamento adequado,"
+        },
+        {
+          "type": "text",
+          "value": "treinamento recorrente e preceptoria experiente, fornecendo"
+        },
+        {
+          "type": "text",
+          "value": "feedback estruturado."
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias-bibliogr-ficas",
+      "title": "Referências Bibliográficas",
+      "content": [
+        {
+          "type": "text",
+          "value": "• 1. Li L, Yong RJ, Kaye AD, UrmanRD. PerioperativePoint of Care Ultrasound(POCUS) for Anesthesiologists: an"
+        },
+        {
+          "type": "text",
+          "value": "Overview. Vol. 24, Current Pain and Headache Reports. Springer; 2020."
+        },
+        {
+          "type": "text",
+          "value": "• 2. McCormick TJ, Miller EC, Chen R, Naik VN. Acquiring and maintaining point-of-care ultrasound (POCUS)"
+        },
+        {
+          "type": "text",
+          "value": "competence for anesthesiologists. Vol. 65, Canadian Journal of Anesthesia. Springer New York LLC; 2018. p. 427–36."
+        },
+        {
+          "type": "text",
+          "value": "• 3. Dhir A, Bhasin D, Bhasin-Chhabra B, Koratala A. Point-of-Care Ultrasound: A Vital Tool for Anesthesiologists in the"
+        },
+        {
+          "type": "text",
+          "value": "Perioperative and Critical Care Settings. Cureus. 2024;"
+        },
+        {
+          "type": "text",
+          "value": "• 4. Sanders JA, Navas-Blanco JR, Yeldo NS, Han X, Guruswamy J, Williams D V. Incorporating Perioperative Point-of-"
+        },
+        {
+          "type": "text",
+          "value": "Care Ultrasound as Part of the Anesthesia Residency Curriculum. J Cardiothorac Vasc Anesth. 2019;33:2414–8."
+        },
+        {
+          "type": "text",
+          "value": "• 5. Naji A, Chappidi M, Ahmed A, Monga A, Sanders J. Perioperative Point-of-Care Ultrasound Use by Anesthesiologists."
+        },
+        {
+          "type": "text",
+          "value": "Cureus. 2021;"
+        },
+        {
+          "type": "text",
+          "value": "• 6. Bøtker MT, Vang ML, Grøfte T, Kirkegaard H, Frederiksen CA, Sloth E. Implementing point-of-care ultrasonography of"
+        },
+        {
+          "type": "text",
+          "value": "the heart and lungs in an anesthesia department. Acta Anaesthesiol Scand. 2017;61:156–65."
+        },
+        {
+          "type": "text",
+          "value": "• 7. Mizubuti GB, Allard R V., Ho AMH, Wang L, Beesley T, Hopman WM, et al. Knowledge retention after focused cardiac"
+        },
+        {
+          "type": "text",
+          "value": "ultrasound training: a prospective cohort pilot study. Brazilian Journal of Anesthesiology (English Edition). 2019;69:177–83."
+        },
+        {
+          "type": "text",
+          "value": "• 8. Mitchell JD, Montealegre-Gallegos M, Mahmood F, Owais K, Wong V, Ferla B, et al. Multimodal Perioperative"
+        },
+        {
+          "type": "text",
+          "value": "Ultrasound Course for Interns Allows for Enhanced Acquisition and Retention of Skills and Knowledge. A A Case Rep."
+        },
+        {
+          "type": "text",
+          "value": "2015;5:119–23."
+        },
+        {
+          "type": "text",
+          "value": "• 9. O’Brien EM, Guris RD, Quarshie W, Lin EE. The state of point-of-care ultrasound training in pediatric anesthesia"
+        },
+        {
+          "type": "text",
+          "value": "fellowship programs in the United States: A survey assessment. PaediatrAnaesth. 2024;34:544–50."
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias-bibliogr-ficas",
+      "title": "Referências Bibliográficas",
+      "content": [
+        {
+          "type": "text",
+          "value": "• 10. MahmoodF, MatyalR, SkubasN, Montealegre-Gallegos M, SwaminathanM, DenaultA, et al. Perioperativeultrasoundtraining in"
+        },
+        {
+          "type": "text",
+          "value": "anesthesiology: A calltoaction. AnesthAnalg. 2016;122:1794–804."
+        },
+        {
+          "type": "text",
+          "value": "• 11. Associationof AnaesthetistsT. Ultrasoundin Anaesthesiaand IntensiveCare: A GuidetoTraining. 2011."
+        },
+        {
+          "type": "text",
+          "value": "• 12. Ray JJ, Meizoso JP, Hart V, Horkan D, Behrens V, Rao KA, et al. Effectivenessof a PerioperativeTransthoracicUltrasoundTraining"
+        },
+        {
+          "type": "text",
+          "value": "Programfor Studentsand Residents. J SurgEduc. 2017;74:805–10."
+        },
+        {
+          "type": "text",
+          "value": "• 13. ClunieM, OBrienJ, OlszynskiP, BajwaJ, PerverseffR. Competenceof anesthesiologyresidentsfollowinga longitudinal point-of-care"
+        },
+        {
+          "type": "text",
+          "value": "ultrasoundcurriculum. Canadian Anesthesiologists’ Society [Internet]. 2022;460–71. Disponível em: https://doi.org/10.1007/s12630-"
+        },
+        {
+          "type": "text",
+          "value": "• 14. Meineri M, Arellano R, Bryson G, Arzola C, Chen R, Collins P, et al. Canadian recommendations for training and performance in basic"
+        },
+        {
+          "type": "text",
+          "value": "perioperative point-of-care ultrasound: recommendations from a consensus of Canadian anesthesiology academic centres. Canadian Journal"
+        },
+        {
+          "type": "text",
+          "value": "of Anesthesia. 2021;68:376–86."
+        },
+        {
+          "type": "text",
+          "value": "• 15. Lee SC, Yang EC, Navarro JC, Minard CG, Huang X, Deng Y. An Introductory Point-of-Care Ultrasound Curriculum for an"
+        },
+        {
+          "type": "text",
+          "value": "Anesthesiology Residency Program. MedEdPORTAL. 2022;18:11291."
+        },
+        {
+          "type": "text",
+          "value": "• 16. Tanzola RC, Walsh S, Hopman WM, Sydor D, Arellano R, Allard R V. Brief report: Focused transthoracic echocardiography training in a"
+        },
+        {
+          "type": "text",
+          "value": "cohort of Canadian anesthesiology residents: A pilot study. Canadian Journal of Anesthesia. 2013;60:32–7."
+        },
+        {
+          "type": "text",
+          "value": "• 17. Díaz-Gómez JL, Perez-Protto S, Hargrave J, Builes A, Capdeville M, Festic E, et al. Impact of a focused transthoracic echocardiography"
+        },
+        {
+          "type": "text",
+          "value": "training course for rescue applications among anesthesiology and critical care medicine practitioners: A prospective study. JCardiothorac"
+        },
+        {
+          "type": "text",
+          "value": "Vasc Anesth. 2015;29:576–81."
+        },
+        {
+          "type": "text",
+          "value": "• 18. Davinder Ramsingh MD, JRMD, ZKMD, MBA, SSMD, CCMPH, BABS, ACBS, MMBS, KVLBA, MCMD, PhD. Impact assessment of"
+        },
+        {
+          "type": "text",
+          "value": "perioperative point-of-care ultrasound training on anesthesiology residents. Anesthesiology. 2015;670–82."
+        },
+        {
+          "type": "text",
+          "value": "• 19. Ramsingh D, Alexander B, Le K, Williams W, Canales C, Cannesson M. Comparison of the didactic lecture with the simulation/model"
+        },
+        {
+          "type": "text",
+          "value": "approach for the teaching of a novel perioperative ultrasound curriculum to anesthesiology residents. J Clin Anesth. 2014;26:443–54."
+        },
+        {
+          "type": "text",
+          "value": "Obrigado!"
+        }
+      ]
+    }
+  ]
+}

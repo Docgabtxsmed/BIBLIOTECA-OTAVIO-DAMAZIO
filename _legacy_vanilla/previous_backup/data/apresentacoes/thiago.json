@@ -1,0 +1,102 @@
+{
+  "id": "thiago",
+  "meta": {
+    "title": "AVALIAÇÃO DA CETONEMIA DE PACIENTES EM JEJUM PROGRAMADOS PARA CIRURGIA ORTOPÉDICA ELETIVA",
+    "subtitle": "Estudo Observacional Analítico Transversal",
+    "authors": ["Thiago Guerra Seixas Barbosa"],
+    "advisor": "Dra. Jane Auxiliadora Amorim",
+    "coAdvisors": ["Dr. Kevin Alves Rafael"],
+    "backgroundImage": "https://images.unsplash.com/photo-1576091160550-217358c7e618?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+    "institution": "Hospital da Restauração - CET Dr. Otávio Damázio Filho",
+    "date": "Fevereiro de 2026"
+  },
+  "sections": [
+    {
+      "id": "introducao",
+      "title": "Introdução",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Metabolismo do Jejum",
+          "items": [
+            "A hipercetonemia, a cetose e a cetoacidose de jejum ocorrem quando a ingestão calórica é insuficiente para as demandas metabólicas.",
+            "Desequilíbrios entre oferta e demanda de glicose desencadeiam adaptações metabólicas importantes no perioperatório."
+          ]
+        },
+        {
+          "type": "text",
+          "value": "<strong>Valores de Referência (BHB):</strong><br>• Normal: < 0,5 mmol/L<br>• Cetose: 0,5 a 1,0 mmol/L<br>• Hipercetonemia: > 1,0 mmol/L"
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "Objetivos",
+      "content": [
+        {
+          "type": "text",
+          "value": "<strong>Objetivo Geral:</strong> Avaliar a incidência de cetonemia e hipercetonemia em pacientes em jejum pré-operatório para cirurgia ortopédica eletiva."
+        },
+        {
+          "type": "highlight-box",
+          "title": "Objetivos Específicos",
+          "items": [
+            "Mensurar o nível plasmático de β-hidroxibutirato (BHB).",
+            "Avaliar associação com idade, gênero, tempo de jejum, IMC e estado físico (ASA)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metodos",
+      "title": "Métodos",
+      "content": [
+        {
+          "type": "grid",
+          "title": "Desenho do Estudo",
+          "cards": [
+            { "label": "Tipo", "value": "Observacional Transversal" },
+            { "label": "Amostra", "value": "90 Pacientes" },
+            { "label": "População", "value": "Adultos > 18 anos" },
+            { "label": "Estado Físico", "value": "ASA I - IV" }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "<strong>Local:</strong> Hospital da Restauração. <strong>Coleta:</strong> Point of care (FreeStyle Precision Neo H). <strong>Análise:</strong> Aplicativo Bedside Stewart."
+        },
+        {
+          "type": "highlight-box",
+          "title": "Critérios de Exclusão",
+          "items": [
+            "Diabéticos",
+            "Gestantes",
+            "Tireoidopatias",
+            "Uso de corticoides"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "Resultados e Discussão",
+      "content": [
+        {
+          "type": "text",
+          "value": "Os resultados focam na incidência de hipercetonemia e sua correlação com o tempo de restrição de mobilidade e perda de peso intra-hospitalar, visando identificar o impacto metabólico do jejum prolongado."
+        }
+      ]
+    },
+    {
+      "id": "conclusao",
+      "title": "Conclusão",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Considerações Finais",
+          "text": "A monitorização das cetonas no pré-operatório é uma ferramenta valiosa para identificar pacientes em risco de desequilíbrio metabólico, permitindo intervenções mais precoces e personalizadas no manejo do jejum."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rafael",
+  "nome": "Rafael Azevedo",
+  "titulo": "Concordância Hemodinâmica: VolumeView vs LiDCO em HIPEC",
+  "subtitulo": "Estudo comparativo de monitorização em cirurgias de citorredução.",
+  "orientador": "Dr. Murilo Nascimento",
+  "coorientador": "Dra. Alynne Rodas",
+  "cards": [
+    {
+      "tipo": "apresentacao",
+      "titulo": "Apresentação",
+      "descricao": "Apresentação detalhada do trabalho de conclusão de curso.",
+      "link": "pages/apresentacao-template.html?id=rafael",
+      "imagem": "https://images.unsplash.com/photo-1579684385180-1ea55f9f631d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "tipo": "projeto",
+      "titulo": "Projeto Escrito",
+      "descricao": "Texto completo do projeto de pesquisa, metodologia e resultados.",
+      "link": "pages/rafael/projeto-rafael.html",
+      "imagem": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}

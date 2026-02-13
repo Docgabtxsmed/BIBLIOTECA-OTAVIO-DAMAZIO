@@ -1,0 +1,1793 @@
+{
+  "id": "ingrid-lilianne",
+  "meta": {
+    "title": "Impacto da Dexmedetomidina no Despertar da Anestesia em Colecistectomia Videolaparoscópica",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Ingrid Lilianne de Almeida Araújo"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "content",
+      "title": "Conteúdo Extraído",
+      "content": [
+        {
+          "type": "text",
+          "value": "IMPACTO DA DEXMEDETOMIDINA NO DESPERTAR DA ANESTESIA DE PACIENTES"
+        },
+        {
+          "type": "text",
+          "value": "SUBMETIDOS A COLECISTECTOMIA VIDEOLAPAROSCÓPICA: ENSAIO CLÍNICO"
+        }
+      ]
+    },
+    {
+      "id": "randomizado",
+      "title": "RANDOMIZADO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Programa de Residência Médica em Anestesiologia 2023-2026"
+        },
+        {
+          "type": "text",
+          "value": "Orientadores: Dra. Jane Auxiliadora Amorim,"
+        },
+        {
+          "type": "text",
+          "value": "Dr. Marcius Vinicius Mulatinho Maranhão"
+        }
+      ]
+    },
+    {
+      "id": "ingrid-lilianne-de-almeida-ara-jo",
+      "title": "INGRID LILIANNE DE ALMEIDA ARAÚJO",
+      "content": [
+        {
+          "type": "text",
+          "value": "ME3 – Anestesiologia"
+        },
+        {
+          "type": "text",
+          "value": "Recife-PE, 11 de Fevereiro de 2026"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Agitação ao despertar (Delírio de emergência)"
+        },
+        {
+          "type": "text",
+          "value": "♦ Comum e autolimitado"
+        },
+        {
+          "type": "text",
+          "value": "♦ Alteração transitória da consciência que ocorre no estágio inicial da recuperação anestésica"
+        },
+        {
+          "type": "text",
+          "value": "♦ Duração de até 15 minutos"
+        },
+        {
+          "type": "text",
+          "value": "♦ Consequências potencialmente graves 🡪 extubação acidental, remoção inadvertida de cateteres, sangramentos"
+        },
+        {
+          "type": "text",
+          "value": "♦ Incidência entre 0,25 até 74%"
+        },
+        {
+          "type": "text",
+          "value": "♦ Medidas preventivas e de tratamento propostas"
+        },
+        {
+          "type": "text",
+          "value": "♦ Dexmedetomidina"
+        },
+        {
+          "type": "text",
+          "value": "♦ Propofol"
+        },
+        {
+          "type": "text",
+          "value": "♦ Remifentanil"
+        },
+        {
+          "type": "text",
+          "value": "➢ Colecistectomia videolaparoscópica → procedimento cirúrgico abdominal mais realizado atualmente"
+        },
+        {
+          "type": "text",
+          "value": "➢ Dexmedetomidina → alfa-2-agonista adrenérgico de ação central altamente seletivo: sedativo, analgésico, ansiolítico, poupador de"
+        },
+        {
+          "type": "text",
+          "value": "analgésicos (opioides)"
+        },
+        {
+          "type": "text",
+          "value": "Feng Z, Shi X, Yan X, Zhu Y, Gu J, Zhu H, et al. Comparing the effects of dexmedetomidine versus propofol on the treatment of emergence agitation in adult patients after general anesthesia:"
+        },
+        {
+          "type": "text",
+          "value": "study protocol for a randomized, superiority, controlled trial (DP-TEA Trial). Trials. 2021;22(1):911."
+        },
+        {
+          "type": "text",
+          "value": "Choi JJ, Kim K, Park HY, Chang YJ, Lee KC, Kim KY, et al. The effect of a bolus dose of dexmedetomidine on postoperative pain, agitation, and quality of recovery after laparoscopic"
+        },
+        {
+          "type": "text",
+          "value": "cholecystectomy: a randomized controlled trial. Medicine (Baltimore). 2021;100(3):e24353"
+        }
+      ]
+    },
+    {
+      "id": "hip-tese",
+      "title": "HIPÓTESE",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ A dexmedetomidina apresenta eficácia na prevenção da agitação no despertar em adultos"
+        },
+        {
+          "type": "text",
+          "value": "submetidos a colecistectomia videolaparoscópica, sem aumentar significativamente o"
+        },
+        {
+          "type": "text",
+          "value": "tempo de despertar e a permanência na sala de recuperação pós-anestésica (SRPA)."
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "OBJETIVOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Objetivo geral: Avaliar o potencial da dexmedetomidina como droga adjuvante na anestesia geral balanceada"
+        },
+        {
+          "type": "text",
+          "value": "na prevenção de agitação ao despertar em pacientes submetidos à colecistectomia videolaparoscópica."
+        }
+      ]
+    },
+    {
+      "id": "objetivos-espec-ficos",
+      "title": "♦ Objetivos específicos:",
+      "content": [
+        {
+          "type": "text",
+          "value": "a) Avaliar a Escala de Sedação-Agitação de Riker (RSAS) dos pacientes nos seguintes momentos:"
+        },
+        {
+          "type": "text",
+          "value": "♦ T0 – À chegada na sala de cirurgia (basal);"
+        },
+        {
+          "type": "text",
+          "value": "♦ T1 – Até 15 minutos após a extubação orotraqueal;"
+        },
+        {
+          "type": "text",
+          "value": "♦ T2 - À chegada na SRPA;"
+        },
+        {
+          "type": "text",
+          "value": "b) Avaliar a necessidade de medicação de resgate para agitação no despertar;"
+        },
+        {
+          "type": "text",
+          "value": "c) Avaliar o tempo necessário para extubação;"
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "OBJETIVOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "d) No intraoperatório, verificar os parâmetros hemodinâmicos (PAM, FC) nos seguintes momentos:"
+        },
+        {
+          "type": "text",
+          "value": "♦ T0 – À chegada à sala de cirurgia (basal);"
+        },
+        {
+          "type": "text",
+          "value": "♦ T1 – Até 15 minutos após a extubação orotraqueal;"
+        },
+        {
+          "type": "text",
+          "value": "e) Avaliar o escore de dor do paciente após o despertar, através da Escala Visual Analógica (EVA) na sala de"
+        },
+        {
+          "type": "text",
+          "value": "cirurgia e na SRPA;"
+        },
+        {
+          "type": "text",
+          "value": "g) Avaliar a ocorrência de náuseas e vômitos pós-operatórios"
+        },
+        {
+          "type": "text",
+          "value": "h) Avaliar o tempo de permanência na SRPA;"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Desenho do estudo:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Ensaio clínico randomizado, simples cego"
+        },
+        {
+          "type": "text",
+          "value": "♦ Período e Local do estudo:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Hospital Universitário Oswaldo Cruz (HUOC), em Recife – Pernambuco, Brasil"
+        },
+        {
+          "type": "text",
+          "value": "♦ Janeiro 2025/Julho 2025"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Comitê de Ética e Pesquisa:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Este estudo foi aprovado pelo comitê de ética e pesquisa em seres humanos (número do parecer:"
+        },
+        {
+          "type": "text",
+          "value": "7.405.387)"
+        },
+        {
+          "type": "text",
+          "value": "♦ População:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Pacientes submetidos à colecistectomia videolaparoscópica, caráter eletivo;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Ambos os sexos;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Idade entre 18-64 anos;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Estado físico American Society of Anesthesiologists I, II;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Concordaram e assinaram o termo de consentimento livre e esclarecido (TCLE)."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Critérios de exclusão:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Incapacidade de compreender o TCLE;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Alergia a quaisquer medicações incluídas no protocolo do estudo; Pré -operatórios"
+        },
+        {
+          "type": "text",
+          "value": "♦ Bradicardia < 50 bpm (basal) no pré operatório"
+        },
+        {
+          "type": "text",
+          "value": "♦ Insuficiência renal ou hepática;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Conversão para cirurgia aberta;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Tempo cirúrgico superior a 2h30 minutos;"
+        },
+        {
+          "type": "text",
+          "value": "Intraoperatórios"
+        },
+        {
+          "type": "text",
+          "value": "♦ Necessidade de hemotransfusão;"
+        },
+        {
+          "type": "text",
+          "value": "♦ Choque no intraoperatório;"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Amostra e randomização:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Tamanho da amostra baseado no estudo de Choi et al. 2021 (n=20, por grupo);"
+        },
+        {
+          "type": "text",
+          "value": "♦ 53 pacientes convidados, 3 excluídos por complicações cirúrgicas"
+        },
+        {
+          "type": "text",
+          "value": "♦ Randomização pelo Randomizer:"
+        },
+        {
+          "type": "text",
+          "value": "25 pacientes no Grupo Controle"
+        },
+        {
+          "type": "text",
+          "value": "25 pacientes no Grupo Intervenção (Dexmedetomidina)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Grupo Dexmedetomidina (GD):"
+        },
+        {
+          "type": "text",
+          "value": "♦ Infusão contínua de dexmedetomidina 0,5 mcg∙kg-1∙h-1 desde a chegada à sala de"
+        },
+        {
+          "type": "text",
+          "value": "cirurgia, até o descolamento completo da vesícula pela equipe cirúrgica, associada à"
+        },
+        {
+          "type": "text",
+          "value": "anestesia geral balanceada padronizada."
+        },
+        {
+          "type": "text",
+          "value": "Grupo Controle (GC):"
+        },
+        {
+          "type": "text",
+          "value": "♦ Apenas anestesia geral balanceada padronizada."
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Preparo e execução de técnica anestésica:"
+        },
+        {
+          "type": "text",
+          "value": "♦ Monitorização: cardioscopia, oxímetro de pulso, pressão arterial não invasiva e capnografia"
+        },
+        {
+          "type": "text",
+          "value": "♦ Indução anestésica:"
+        },
+        {
+          "type": "text",
+          "value": "Remifentanil 0,1-0,3 mcg·kg-1∙min-1"
+        },
+        {
+          "type": "text",
+          "value": "Propofol 2 mg·kg-1"
+        },
+        {
+          "type": "text",
+          "value": "Rocurônio 0,6 mg·kg-1"
+        },
+        {
+          "type": "text",
+          "value": "♦ Manutenção:"
+        },
+        {
+          "type": "text",
+          "value": "Sevoflurano"
+        },
+        {
+          "type": "text",
+          "value": "Remifentanil"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Analgesia: Dipirona 30 mg∙ kg -1; Parecoxibe 40 mg; Morfina 0,08 mg ∙ kg -1"
+        },
+        {
+          "type": "text",
+          "value": "♦ Reversão do bloqueio neuromuscular com sugamadex 2 mg ∙ kg -1"
+        },
+        {
+          "type": "text",
+          "value": "♦ Padronização da extubação:"
+        },
+        {
+          "type": "text",
+          "value": "• Suspensão do inalatório e remifentanil ao término da sutura do portal principal, após infiltração pela equipe"
+        },
+        {
+          "type": "text",
+          "value": "cirúrgica com ropivacaína 0,5%"
+        },
+        {
+          "type": "text",
+          "value": "• Extubação se sinais de reversão do bloqueio neuromuscular (respiração e volume corrente adequados, resposta à"
+        },
+        {
+          "type": "text",
+          "value": "estímulos verbais)."
+        },
+        {
+          "type": "text",
+          "value": "Preparo para agitação perigosa: Riker 7 ou Riker 6 se demanda do anestesiologista assistente"
+        },
+        {
+          "type": "text",
+          "value": "• Propofol 0,5 mg ∙ kg -1"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Figura 1: Escala de Sedação e Agitação de Riker (RSAS)"
+        },
+        {
+          "type": "text",
+          "value": "Pontuação Nível Descrição"
+        },
+        {
+          "type": "text",
+          "value": "7 Agitação Puxando o tubo orotraqueal, tentando remover cateteres,"
+        },
+        {
+          "type": "text",
+          "value": "perigosa escalando a cama, agressivo."
+        },
+        {
+          "type": "text",
+          "value": "6 Muito agitado Não se acalma com verbalização frequente, precisa de"
+        },
+        {
+          "type": "text",
+          "value": "contenção física, morde o tubo orotraqueal"
+        },
+        {
+          "type": "text",
+          "value": "5 Agitado Ansioso, tenta sentar, mas acalma com instruções verbais."
+        },
+        {
+          "type": "text",
+          "value": "4 Calmo e Acorda facilmente, segue comandos."
+        },
+        {
+          "type": "text",
+          "value": "cooperativo"
+        },
+        {
+          "type": "text",
+          "value": "3 Sedado Difícil de despertar, acorda com estímulos verbais ou balanço"
+        },
+        {
+          "type": "text",
+          "value": "suave mas adormece novamente; segue comandos simples."
+        },
+        {
+          "type": "text",
+          "value": "2 Muito sedado Reage a estímulos físicos, mas não se comunica e não segue"
+        },
+        {
+          "type": "text",
+          "value": "comandos, pode mover-se espontaneamente."
+        },
+        {
+          "type": "text",
+          "value": "1 Não despertável Responde minimamente ou não responde a estímulos"
+        },
+        {
+          "type": "text",
+          "value": "dolorosos; sem comunicação ou comandos."
+        },
+        {
+          "type": "text",
+          "value": "Riker RR, Picard JT, Fraser GL. Prospective evaluation of the Sedation-Agitation Scale for"
+        },
+        {
+          "type": "text",
+          "value": "adult critically ill patients. Crit Care Med. 1999 Jul;27(7):1325–9."
+        }
+      ]
+    },
+    {
+      "id": "hora-de-in-cio-da",
+      "title": "HORA DE INÍCIO DA ____:____",
+      "content": [
+        {
+          "type": "text",
+          "value": "IMPACTO DA DEXMEDETOMIDINA NO DESPERTAR DA ANESTESIA DE PACIENTES INFUSÃO:"
+        },
+        {
+          "type": "text",
+          "value": "SUBMETIDOS A COLECISTECTOMIA VIDEOLAPAROSCÓPICA: ENSAIO CLÍNICO HORA DE TÉRMINO ____:____"
+        }
+      ]
+    },
+    {
+      "id": "nome",
+      "title": "NOME:",
+      "content": [
+        {
+          "type": "text",
+          "value": "HORA DA ____:____ TEMPO NECESSÁRIO PARA EXTUBAÇÃO (MIN):"
+        }
+      ]
+    },
+    {
+      "id": "escala-riker--t",
+      "title": "ESCALA RIKER: T2:",
+      "content": [
+        {
+          "type": "text",
+          "value": "USO PRÉVIO DE NÃO ,⃝ SIM ⃝QUAIS? _____________________________________ SE DOR, EVA MÁXIMO:"
+        },
+        {
+          "type": "text",
+          "value": "MEDICAMENTOS: SE DOR, FÁRMACO ADMINISTRADO E DOSE:"
+        },
+        {
+          "type": "text",
+          "value": "USO DE ANSIOLÍTICOS, NÃO ,⃝ SIM ⃝QUAIS? _____________________________________ NÃO ,⃝ SIM ⃝ALGUM FÁRMACO"
+        }
+      ]
+    },
+    {
+      "id": "outros--nvpo",
+      "title": "OUTROS? NVPO:",
+      "content": [
+        {
+          "type": "text",
+          "value": "________________________________"
+        }
+      ]
+    },
+    {
+      "id": "escala-riker--t0--t",
+      "title": "ESCALA RIKER: T0: T 1 :",
+      "content": [
+        {
+          "type": "text",
+          "value": "_____"
+        }
+      ]
+    },
+    {
+      "id": "n-o---sim----motivo",
+      "title": "NÃO ⃝ SIM ,⃝ MOTIVO:",
+      "content": [
+        {
+          "type": "text",
+          "value": "T0: À CHEGADA NA SALA DE CIRURGIA ; T1: ATÉ 15 MINUTOS APÓS A EXTUBAÇÃO;"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Medicações psiquiátricas:"
+        },
+        {
+          "type": "text",
+          "value": "GC (2): 1 paciente referiu uso de medicação psiquiátrica (não sabe qual) e 1 paciente em uso de amitriptilina,"
+        },
+        {
+          "type": "text",
+          "value": "zolpidem e sertralina Riker 6."
+        },
+        {
+          "type": "text",
+          "value": "→"
+        }
+      ]
+    },
+    {
+      "id": "gd",
+      "title": "GD (4):",
+      "content": [
+        {
+          "type": "text",
+          "value": "➔ Clonazepam: 2 pacientes, Riker 5"
+        },
+        {
+          "type": "text",
+          "value": "➔ Clonazepam + lítio + escitalopram: Riker 3"
+        },
+        {
+          "type": "text",
+          "value": "➔ Risperidona: Riker 3"
+        },
+        {
+          "type": "text",
+          "value": "➔ Dose média dexmedetomidina em GD: 35,57 microgramas (DP = 10,18)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 1. Características clínicas, demográficas e hábitos de vida da amostra avaliada."
+        },
+        {
+          "type": "text",
+          "value": "Grupo avaliado"
+        },
+        {
+          "type": "text",
+          "value": "Fatores avaliados p-valor"
+        }
+      ]
+    },
+    {
+      "id": "gd-gc",
+      "title": "GD GC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Idade"
+        },
+        {
+          "type": "text",
+          "value": "-"
+        },
+        {
+          "type": "text",
+          "value": "18-59 22-64"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo- máximo"
+        },
+        {
+          "type": "text",
+          "value": "0,846¹"
+        },
+        {
+          "type": "text",
+          "value": "41,4 ± 11,9 40,8± 12,7"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP"
+        }
+      ]
+    },
+    {
+      "id": "imc",
+      "title": "IMC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 20,4-39,0 18,7-39,6 -"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 29,0±5,0 30,1±6,1 0,504¹"
+        },
+        {
+          "type": "text",
+          "value": "Sexo"
+        },
+        {
+          "type": "text",
+          "value": "4 (16%) 3 (12,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Masculino"
+        },
+        {
+          "type": "text",
+          "value": "21 (84%) 22 (88%) 1,000²"
+        },
+        {
+          "type": "text",
+          "value": "Feminino"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 1. Características clínicas, demográficas e hábitos de vida da amostra avaliada."
+        },
+        {
+          "type": "text",
+          "value": "Tabagismo GD GC ASA GD GC"
+        },
+        {
+          "type": "text",
+          "value": "Sim 1 (4,0%) 1 (4,0%) 1,000² 1 3(12,0%) 11(44,0%) 0,0123"
+        },
+        {
+          "type": "text",
+          "value": "Não 24 (96,0%) 24 (96%)"
+        },
+        {
+          "type": "text",
+          "value": "2 22(88,0%) 14(56,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Etilismo"
+        },
+        {
+          "type": "text",
+          "value": "Medicamentos de uso"
+        },
+        {
+          "type": "text",
+          "value": "contínuo (quaisquer)"
+        },
+        {
+          "type": "text",
+          "value": "Sim 4 (16,0%) 1 (4%) 0,349²"
+        },
+        {
+          "type": "text",
+          "value": "Não 21 (84%) 24 (96%) Sim 14(56,0%) 9(36,0%) 0,1563"
+        },
+        {
+          "type": "text",
+          "value": "Não 11(44,0%) 16(64,0%)"
+        },
+        {
+          "type": "text",
+          "value": "¹p-valor do teste t de Student para amostras independentes."
+        },
+        {
+          "type": "text",
+          "value": "Medicamentos"
+        },
+        {
+          "type": "text",
+          "value": "² p-valor do teste Exato de Fisher. psiquiátricos"
+        },
+        {
+          "type": "text",
+          "value": "³ p-valor do teste Qui-quadrado para homogeneidade"
+        },
+        {
+          "type": "text",
+          "value": "Sim 5(20,0%) 2(8,0%) 0,417²"
+        },
+        {
+          "type": "text",
+          "value": "Não 20(80,0%) 23(92,0%)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 2. Avaliação do escore Riker por grupo de tratamento."
+        },
+        {
+          "type": "text",
+          "value": "Medida Dexmedetomidina Controle p-valor"
+        },
+        {
+          "type": "text",
+          "value": "avaliada"
+        },
+        {
+          "type": "text",
+          "value": "T0 T1 p-valor T0 T1 p-valor"
+        },
+        {
+          "type": "text",
+          "value": "Riker 4,00[0,0] 4,00[1,0] 0,029¹ 4,00[0,0] 5,00[2,0] <0,001¹ 0,016²"
+        },
+        {
+          "type": "text",
+          "value": "Nota: Mediana [amplitude interquartil]; T0 = Avaliação antes da intervenção; T1 = Até 15 minutos após extubação"
+        },
+        {
+          "type": "text",
+          "value": "orotraqueal. ¹p-valor do teste de Wilcoxon para comparação T0 x T1. ²p-valor do teste de Mann-Whitney para comparação"
+        },
+        {
+          "type": "text",
+          "value": "do T1 intervenção x controle."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "GD: 36% Riker 5"
+        },
+        {
+          "type": "text",
+          "value": "≥ GC: 68% Riker 5"
+        },
+        {
+          "type": "text",
+          "value": "≥"
+        },
+        {
+          "type": "text",
+          "value": "Riker 3:"
+        },
+        {
+          "type": "text",
+          "value": "Em uso de risperidona (1)"
+        },
+        {
+          "type": "text",
+          "value": "Em uso de lítio + clonazepam (1)"
+        },
+        {
+          "type": "text",
+          "value": "Figura 2. Comparação do Escore de Sedação e Agitação de Riker entre os grupos em T1. Teste de Mann-Whitney, p = 0,016."
+        },
+        {
+          "type": "text",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 3. Avaliação do escore Riker por grupo de tratamento na"
+        }
+      ]
+    },
+    {
+      "id": "srpa",
+      "title": "SRPA.",
+      "content": [
+        {
+          "type": "text",
+          "value": "Riker na Admissão na Grupo avaliado"
+        },
+        {
+          "type": "text",
+          "value": "p-valor"
+        }
+      ]
+    },
+    {
+      "id": "srpa--t---gd-gc",
+      "title": "SRPA (T2) GD GC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Riker 3 no GC, 1 caso após tratamento"
+        },
+        {
+          "type": "text",
+          "value": "com propofol"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo - Máximo 3-5 3-5 -"
+        },
+        {
+          "type": "text",
+          "value": "Mediana [Amplitude"
+        },
+        {
+          "type": "text",
+          "value": "4[0,0] 4[0,0] 1,0001"
+        },
+        {
+          "type": "text",
+          "value": "interquartil]"
+        },
+        {
+          "type": "text",
+          "value": "1p-valor do teste de Mann-Whitney."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 4. Avaliação dos parâmetros hemodinâmicos segundo o momento de avaliação e o"
+        },
+        {
+          "type": "text",
+          "value": "grupo de tratamento."
+        }
+      ]
+    },
+    {
+      "id": "gd-gc",
+      "title": "GD GC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Medida"
+        },
+        {
+          "type": "text",
+          "value": "p-valor p-valor"
+        },
+        {
+          "type": "text",
+          "value": "avaliada T0 T1 T0 T1 p-valor"
+        },
+        {
+          "type": "text",
+          "value": "PAM 96,7[13,3] 90,3[25,3] 0,008¹ 102,0[19,0] 101,3[22,5] 0,925¹ 0,008²"
+        },
+        {
+          "type": "text",
+          "value": "FC 83,0[31,5] 81,0[27,5] 0,841¹ 86,0[31,5] 94,0[28,0] 0,196¹ 0,151²"
+        },
+        {
+          "type": "text",
+          "value": "Nota: Mediana [amplitude interquartil]; T0 = Avaliação antes da intervenção; T1 = Até 15 minutos após a extubação orotraqueal. ¹p-valor do"
+        },
+        {
+          "type": "text",
+          "value": "teste de Wilcoxon para comparação T0 x T1. ²p-valor do teste de Mann-Whitney para comparação do T1 intervenção x controle."
+        },
+        {
+          "type": "text",
+          "value": "Evento adverso: Bradicardia 1 paciente (GD) FC 34."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "101,3"
+        },
+        {
+          "type": "text",
+          "value": "90,3"
+        },
+        {
+          "type": "text",
+          "value": "Figura 3. Comparação da Pressão Arterial Média (PAM) em T1 por grupo de estudo. Teste de Mann-Whitney para comparação do T1"
+        },
+        {
+          "type": "text",
+          "value": "intervenção x controle. - (p=0,008)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "94 bpm"
+        },
+        {
+          "type": "text",
+          "value": "81 bpm"
+        },
+        {
+          "type": "text",
+          "value": "Figura 4. Comparação da Frequência Cardíaca (FC) em T1 entre os grupos. Teste de Mann-Whitney para comparação do T1 - Intervenção x controle."
+        },
+        {
+          "type": "text",
+          "value": "(p=0,151)"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 5. Comparação da necessidade de resgate com propofol, tempo máximo para extubação orotraqueal, presença de dor e"
+        },
+        {
+          "type": "text",
+          "value": "náusea na sala de cirurgia."
+        },
+        {
+          "type": "text",
+          "value": "Grupo avaliado"
+        },
+        {
+          "type": "text",
+          "value": "Fatores avaliados p-valor"
+        }
+      ]
+    },
+    {
+      "id": "gd-gc",
+      "title": "GD GC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Necessitou de resgate com propofol para agitação?"
+        },
+        {
+          "type": "text",
+          "value": "Sim 1(4,0%) 2(8,0%)"
+        },
+        {
+          "type": "text",
+          "value": "1,000²"
+        },
+        {
+          "type": "text",
+          "value": "Não 24(96,0%) 23(92,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Tempo em minutos para extubação"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 3,0-20,0 4,0-22,0 -"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 9,2±3,9 8,6±4,7 0,580¹"
+        },
+        {
+          "type": "text",
+          "value": "Tempo cirúrgico (em horas)"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 0,95-2,45 0,75-2,50 -"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 1,53±0,36 1,65±0,48 0,307¹"
+        },
+        {
+          "type": "text",
+          "value": "Dor na Sala de Cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "Sim 1(4,0%) 6(24,0%)"
+        },
+        {
+          "type": "text",
+          "value": "0,098²"
+        },
+        {
+          "type": "text",
+          "value": "Não 24(96,0%) 19(76,0%)"
+        },
+        {
+          "type": "text",
+          "value": "EVA Sala de Cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 3-3 2-6 -"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 3,0±0,0 3,3±1,6 0,858¹"
+        },
+        {
+          "type": "text",
+          "value": "Náusea na Sala de Cirurgia"
+        },
+        {
+          "type": "text",
+          "value": "Sim 0(0,0%) 1 (4,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Não 25 (100%) 24 (96%)"
+        },
+        {
+          "type": "text",
+          "value": "1,000²"
+        },
+        {
+          "type": "text",
+          "value": "¹p-valor do teste t de Student para amostras independentes."
+        },
+        {
+          "type": "text",
+          "value": "²p-valor do teste Exato de Fisher."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tabela 6. Comparação dos escores de dor, presença de náusea e permanência na"
+        },
+        {
+          "type": "text",
+          "value": "SRPA entre os grupos."
+        },
+        {
+          "type": "text",
+          "value": "Grupo avaliado"
+        },
+        {
+          "type": "text",
+          "value": "Fatores avaliados p-valor"
+        }
+      ]
+    },
+    {
+      "id": "gd-gc",
+      "title": "GD GC",
+      "content": [
+        {
+          "type": "text",
+          "value": "Dor na SRPA"
+        },
+        {
+          "type": "text",
+          "value": "Sim 5(20,0%) 9(36,0%)"
+        },
+        {
+          "type": "text",
+          "value": "0,208³"
+        },
+        {
+          "type": "text",
+          "value": "Não 20(80,0%) 16(64,0%)"
+        },
+        {
+          "type": "text",
+          "value": "EVA na SRPA Morfina"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 6-8 4-10 - Fentanil"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 6,4±0,9 7,4±2,2 0,356¹ Escopolamina"
+        },
+        {
+          "type": "text",
+          "value": "Náusea na SRPA Tramadol"
+        },
+        {
+          "type": "text",
+          "value": "Sim 1(4,0%) 2(8,0%)"
+        },
+        {
+          "type": "text",
+          "value": "1,0004"
+        },
+        {
+          "type": "text",
+          "value": "Não 24(96,0%) 23(92,0%)"
+        },
+        {
+          "type": "text",
+          "value": "Tempo de permanência em minutos na SRPA"
+        },
+        {
+          "type": "text",
+          "value": "Mínimo-máximo 15-155 30-125 -"
+        },
+        {
+          "type": "text",
+          "value": "Média±DP 58,8±25,7 63,0±22,2 0,543¹"
+        },
+        {
+          "type": "text",
+          "value": "¹p-valor do teste t de Student para amostras independentes."
+        },
+        {
+          "type": "text",
+          "value": "²p-valor do teste de Mann-Whitney."
+        },
+        {
+          "type": "text",
+          "value": "³p-valor do teste Qui-quadrado para homogeneidade"
+        },
+        {
+          "type": "text",
+          "value": "4p-valor do teste Exato de Fisher."
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Referência Tipo de Tipo de Doses Incidência de AD Hemodinâmica Eventos Tempo para Dor pós Tempo"
+        },
+        {
+          "type": "text",
+          "value": "estudo cirurgia/ adversos extubação operatória SRPA"
+        },
+        {
+          "type": "text",
+          "value": "tamanho"
+        },
+        {
+          "type": "text",
+          "value": "Zhang et al. Metanálise N = 842 0,4 mcg/kg/h RR = 0,49 (IC 95%) Hipotensão mais NVPO e Prolonga, SMD = 0,83 ponto Menor,"
+        },
+        {
+          "type": "text",
+          "value": "2019 n-12 diversas (manutenção) Superior a comum, RR = 2,37 sedação 0,26 (IC 95%) p=0,35"
+        },
+        {
+          "type": "text",
+          "value": "cirurgias Bolus 0,5-1 fentanil, clonidina, (p 0,03) sem (p= 0,03)"
+        },
+        {
+          "type": "text",
+          "value": "Chinês cetamina e diferenças Menor SMD -0,12"
+        },
+        {
+          "type": "text",
+          "value": "propofol em bolus Bradicardia sem Pequeno efeito necessidade sem sig."
+        },
+        {
+          "type": "text",
+          "value": "diferença de resgates"
+        },
+        {
+          "type": "text",
+          "value": "significativa RR 0,66"
+        },
+        {
+          "type": "text",
+          "value": "Gouvêa et al. Metanálise N = 2183 0,1-0,7 OR 0,24 para Não detalhou Não Diferença média Não Não"
+        },
+        {
+          "type": "text",
+          "value": "2021 n-15 Não (manutenção) agitação; 0,36 para detalhou 1,43 (IC 95%) para detalhou detalhou"
+        },
+        {
+          "type": "text",
+          "value": "cardíacas Bolus variáveis agitação e dex"
+        },
+        {
+          "type": "text",
+          "value": "Brasileiro 0,1-0,5 delirium"
+        },
+        {
+          "type": "text",
+          "value": "Wegner et al Metanálise n=620 Bolus 0,4 até 1 RR 0,31 (IC 95%) FC → Diferença Bradicardia Diferença média de Diferença Diferença"
+        },
+        {
+          "type": "text",
+          "value": "2025 n-9 Cirurgias Manutenção Para agitação média de 10,31 RR 5,61 0,81 min média 0,83 média"
+        },
+        {
+          "type": "text",
+          "value": "nasais 0,2-0,5 grave RR 0,5 bpm, melhor para melhor para -0,75 min"
+        },
+        {
+          "type": "text",
+          "value": "Brasileiro dex dex (p 0,7)"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Referência Tipo de Tipo de Doses Incidência de AD Hemodinâmica Eventos Tempo para Dor pós Tempo"
+        },
+        {
+          "type": "text",
+          "value": "estudo cirurgia/ adversos extubação operatória SRPA"
+        },
+        {
+          "type": "text",
+          "value": "tamanho"
+        },
+        {
+          "type": "text",
+          "value": "35,57"
+        },
+        {
+          "type": "text",
+          "value": "Araújo et al. Simples cego 50 0,5 infusão 68% vs 36% GD: -8,59% na PAM NVPO 9,2 ± 3,9 min 4% vs 24% 63,0± 22,2"
+        },
+        {
+          "type": "text",
+          "value": "2026 randomizado pacientes contínua vs 0 e 4% na SRPA (p 0,008) 0 vs 4% 8,6 ± 4,7 min (p 0,09) GD 58,8 ±"
+        },
+        {
+          "type": "text",
+          "value": "CV controle Amplitude IQ [4-5] GC 2,59% (p 0,925) SRPA 4% vs p = 0,58 SRPA 25,7"
+        },
+        {
+          "type": "text",
+          "value": "90min vs [5-6] FC -2 bpm vs -8 bpm 8% 20% vs 36% p= 0,54"
+        },
+        {
+          "type": "text",
+          "value": "p <0,016 p > 0,5 p > 0,5 (p 0,2)"
+        },
+        {
+          "type": "text",
+          "value": "Choi et al. Duplo-cego 88 Bolus 0,5 GC: 64% FC → ↑14 bpm na NVPO sem 8,0 ± 4,4 Dor mediana 20 vs 24,5"
+        },
+        {
+          "type": "text",
+          "value": "2020 randomizado pacientes, GD: 23% extubação (p <0,01) diferenças 6,8 ± 3,0 4 vs 5 menor no"
+        },
+        {
+          "type": "text",
+          "value": "CV e PAM ↑15 mmHg (p ( p 0,3) menor no Dex"
+        },
+        {
+          "type": "text",
+          "value": "Sul-coreano 60min SRPA 32% vs 5% 0,007) Dex p 0,7"
+        },
+        {
+          "type": "text",
+          "value": "Aouad et al. Duplo-cego 190 Bolus GC 72% GC:↑ 42 bpm Hipotensão Sem diferença GC [ 4,5] > 60 min"
+        },
+        {
+          "type": "text",
+          "value": "2017 randomizado pacientes 1,0-0,5-0,25 GD 33-34% 0,25: ↑ 29 bpm Dex 1 (27%) 16,69± 4,3 min GD1 [0] em doses"
+        },
+        {
+          "type": "text",
+          "value": "Diversas 0,5-1: ↑ 11bpm Dex 0,5 18± 6,36 min GD 0,5 [2] 0,5-1"
+        },
+        {
+          "type": "text",
+          "value": "Libanês cirurgias (19%) (p 0,1) (p 0,02)"
+        },
+        {
+          "type": "text",
+          "value": "Agarwal et Duplo-cego 60 Bolus 0,5 vs Ramsey 2 vs 1 PAM GC ↑18% Sem relatos 18,27 ± 2,2 min Sem Não"
+        },
+        {
+          "type": "text",
+          "value": "al. randomizado pacientes, controle (p 0,001) GD↓ 6% 14,47 ± 1,89 descrição comparou"
+        },
+        {
+          "type": "text",
+          "value": "2019 cir. diversas FC ↑30bpm em GC"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Referência Tipo de Tipo de Doses Incidência de AD Hemodinâmica Eventos Tempo para Dor pós Tempo"
+        },
+        {
+          "type": "text",
+          "value": "estudo cirurgia/ adversos extubação operatória SRPA"
+        },
+        {
+          "type": "text",
+          "value": "tamanho"
+        },
+        {
+          "type": "text",
+          "value": "Araújo et al. Simples cego 50 0,5 infusão 68% vs 36% GD: -8,59% na PAM NVPO 9,2 ± 3,9 min 4% vs 24% 63,0± 22,2"
+        },
+        {
+          "type": "text",
+          "value": "2026 randomizado pacientes contínua vs 0 e 4% na SRPA (p 0,008) 0 vs 4% 8,6 ± 4,7 min (p 0,09) GD 58,8 ±"
+        },
+        {
+          "type": "text",
+          "value": "CV controle Amplitude IQ [4-5] GC 2,59% (p 0,925) SRPA 4% vs p = 0,58 SRPA 25,7"
+        },
+        {
+          "type": "text",
+          "value": "90min vs [5-6] FC -2 bpm vs -8 bpm 8% 20% vs 36% p= 0,54"
+        },
+        {
+          "type": "text",
+          "value": "p <0,016 p > 0,5 p > 0,5 (p 0,2)"
+        },
+        {
+          "type": "text",
+          "value": "Choi et al. Duplo-cego 88 Bolus 0,5 GC: 64% FC → ↑14 bpm na NVPO sem 8,0 ± 4,4 Dor mediana 20 vs 24,5"
+        },
+        {
+          "type": "text",
+          "value": "2020 randomizado pacientes, GD: 23% extubação (p <0,01) diferenças 6,8 ± 3,0 4 vs 5 menor no"
+        },
+        {
+          "type": "text",
+          "value": "CV e PAM ↑15 mmHg (p ( p 0,3) menor no Dex"
+        },
+        {
+          "type": "text",
+          "value": "Sul-coreano 60min SRPA 32% vs 5% 0,007) Dex p 0,7"
+        },
+        {
+          "type": "text",
+          "value": "Aouad et al. Duplo-cego 190 Bolus GC 72% GC:↑ 42 bpm Hipotensão Sem diferença GC [ 4,5] > 60 min"
+        },
+        {
+          "type": "text",
+          "value": "2017 randomizado pacientes 1,0-0,5-0,25 GD 33-34% 0,25: ↑ 29 bpm Dex 1 (27%) 16,69± 4,3 min GD1 [0] em doses"
+        },
+        {
+          "type": "text",
+          "value": "Diversas 0,5-1: ↑ 11bpm Dex 0,5 18± 6,36 min GD 0,5 [2] 0,5-1"
+        },
+        {
+          "type": "text",
+          "value": "Libanês cirurgias (19%) (p 0,1) (p 0,02)"
+        },
+        {
+          "type": "text",
+          "value": "Agarwal et Duplo-cego 60 Bolus 0,5 vs Ramsey 2 vs 1 PAM GC ↑18% Sem relatos 18,27 ± 2,2 min Sem Não"
+        },
+        {
+          "type": "text",
+          "value": "al. randomizado pacientes, controle (p 0,001) GD↓ 6% 14,47 ± 1,89 descrição comparou"
+        },
+        {
+          "type": "text",
+          "value": "2019 cir. diversas FC ↑30bpm em GC"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Referência Tipo de Tipo de Doses Incidência de AD Hemodinâmica Eventos Tempo para Dor pós Tempo"
+        },
+        {
+          "type": "text",
+          "value": "estudo cirurgia/ adversos extubação operatória SRPA"
+        },
+        {
+          "type": "text",
+          "value": "tamanho"
+        },
+        {
+          "type": "text",
+          "value": "Zhang et al. Metanálise N = 842 0,4 mcg/kg/h RR = 0,49 (IC 95%) Hipotensão mais NVPO e Prolonga, SMD = 0,83 ponto Menor,"
+        }
+      ]
+    },
+    {
+      "id": "ic",
+      "title": "(IC 95%)",
+      "content": [
+        {
+          "type": "text",
+          "value": "2019 n-12 diversas (manutenção) Superior a comum, RR = 2,37 sedação 0,26 p=0,35"
+        },
+        {
+          "type": "text",
+          "value": "cirurgias Bolus 0,5-1 fentanil, clonidina, (p 0,03) sem (p= 0,03)"
+        },
+        {
+          "type": "text",
+          "value": "Menor"
+        },
+        {
+          "type": "text",
+          "value": "Chinês cetamina e diferenças SMD -0,12"
+        },
+        {
+          "type": "text",
+          "value": "necessidade de"
+        },
+        {
+          "type": "text",
+          "value": "propofol em bolus Pequeno efeito resgates sem sig."
+        }
+      ]
+    },
+    {
+      "id": "rr-0",
+      "title": "RR 0,66",
+      "content": [
+        {
+          "type": "text",
+          "value": "Gouvêa et al. Metanálise N = 2183 0,1-0,7 OR 0,24 para Não detalhou Não Diferença média Não detalhou Não"
+        },
+        {
+          "type": "text",
+          "value": "2021 n-15 Não (manutenção) agitação; 0,36 para detalhou 1,43 (IC 95%) para detalhou"
+        },
+        {
+          "type": "text",
+          "value": "cardíacas Bolus variáveis agitação e dex"
+        },
+        {
+          "type": "text",
+          "value": "Brasileiro 0,1-0,5 delirium"
+        },
+        {
+          "type": "text",
+          "value": "Wegner et al Metanálise n=620 Bolus 0,4 até 1 RR 0,31 (IC 95%) FC → Diferença Bradicardia Diferença média de Diferença Diferença"
+        },
+        {
+          "type": "text",
+          "value": "média 0,83"
+        },
+        {
+          "type": "text",
+          "value": "2025 n-9 Cirurgias Manutenção Para agitação média de 10,31 RR 5,61 0,81 min média"
+        },
+        {
+          "type": "text",
+          "value": "melhor para"
+        },
+        {
+          "type": "text",
+          "value": "nasais 0,2-0,5 grave RR 0,5 bpm, melhor para -0,75 min"
+        },
+        {
+          "type": "text",
+          "value": "dex"
+        },
+        {
+          "type": "text",
+          "value": "Brasileiro dex (p 0,7)"
+        },
+        {
+          "type": "text",
+          "value": "Ye et al. Duplo-cego 120 Controle vs Agitação, 6,6% FC mais estável e Bradicardia Aumento com 0,8 Menor em Dex Não"
+        },
+        {
+          "type": "text",
+          "value": "2021 randomizado pacientes, Bolus 0,4-0,6 ou menor em 0,6-0,8 mais 16,3 ± 7,6 min vs 0,6-0,8 avaliou"
+        },
+        {
+          "type": "text",
+          "value": "-0,8-0,9 pontos"
+        },
+        {
+          "type": "text",
+          "value": "11,8 ± 1,9 min no"
+        },
+        {
+          "type": "text",
+          "value": "CV 45 min 0,8 comum em"
+        },
+        {
+          "type": "text",
+          "value": "na EVA (p 0,03)"
+        },
+        {
+          "type": "text",
+          "value": "controle"
+        },
+        {
+          "type": "text",
+          "value": "Chinês 0,8 (16,6%)"
+        },
+        {
+          "type": "text",
+          "value": "-<0,05"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Referência Tipo de Tipo de Doses Incidência de AD Hemodinâmica Eventos Tempo para Dor pós Tempo"
+        },
+        {
+          "type": "text",
+          "value": "estudo cirurgia/ adversos extubação operatória SRPA"
+        },
+        {
+          "type": "text",
+          "value": "tamanho"
+        },
+        {
+          "type": "text",
+          "value": "Zhang et al. Metanálise N = 842 0,4 mcg/kg/h RR = 0,49 (IC 95%) Hipotensão mais NVPO e Prolonga, SMD = 0,83 ponto Menor,"
+        },
+        {
+          "type": "text",
+          "value": "2019 n-12 diversas (manutenção) Superior a comum, RR = 2,37 sedação 0,26 (IC 95%) p=0,35"
+        },
+        {
+          "type": "text",
+          "value": "cirurgias Bolus 0,5-1 fentanil, clonidina, (p 0,03) sem (p= 0,03)"
+        },
+        {
+          "type": "text",
+          "value": "Chinês cetamina e diferenças Menor SMD -0,12"
+        },
+        {
+          "type": "text",
+          "value": "propofol em bolus Bradicardia sem Pequeno efeito necessidade sem sig."
+        },
+        {
+          "type": "text",
+          "value": "diferença de resgates"
+        },
+        {
+          "type": "text",
+          "value": "significativa RR 0,66"
+        },
+        {
+          "type": "text",
+          "value": "Wegner et al Metanálise n=620 Bolus 0,4 até 1 RR 0,31 (IC 95%) FC → Diferença Bradicardia Diferença média de Diferença Diferença"
+        },
+        {
+          "type": "text",
+          "value": "2025 n-9 Cirurgias Manutenção Para agitação média de 10,31 RR 5,61 0,81 min média 0,83 média"
+        },
+        {
+          "type": "text",
+          "value": "nasais 0,2-0,5 grave RR 0,5 bpm, melhor para melhor para -0,75 min"
+        },
+        {
+          "type": "text",
+          "value": "Brasileiro dex dex (p 0,7)"
+        },
+        {
+          "type": "text",
+          "value": "Choi et al. Duplo-cego 88 Bolus 0,5 GC: 64% FC → ↑14 bpm na NVPO sem 8,0 ± 4,4 Dor 20 vs 24,5"
+        },
+        {
+          "type": "text",
+          "value": "2020 randomizad pacientes, GD: 23% extubação (p <0,01) diferenças 6,8 ± 3,0 mediana 4 menor no"
+        },
+        {
+          "type": "text",
+          "value": "o CV e PAM ↑15 mmHg (p ( p 0,3) vs 5 Dex"
+        },
+        {
+          "type": "text",
+          "value": "Sul-coreano 60min SRPA 32% vs 5% 0,007) menor no p 0,7"
+        },
+        {
+          "type": "text",
+          "value": "Dex"
+        }
+      ]
+    },
+    {
+      "id": "conclus-o",
+      "title": "CONCLUSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "♦ Dexmedetomidina agente adjuvante seguro e eficaz na redução da agitação ao despertar, sem prejuízo"
+        },
+        {
+          "type": "text",
+          "value": "→"
+        },
+        {
+          "type": "text",
+          "value": "clínico sobre o tempo de extubação ou estabilidade hemodinâmica."
+        },
+        {
+          "type": "text",
+          "value": "♦ Tendência: escores menores de dor e menor tempo de permanência na SRPA, pelos possíveis benefícios"
+        },
+        {
+          "type": "text",
+          "value": "adicionais sobre o conforto e a recuperação anestésica."
+        },
+        {
+          "type": "text",
+          "value": "♦ Limitações inerentes ao desenho metodológico, à monitorização e ao seguimento. Sugerimos estudos com"
+        },
+        {
+          "type": "text",
+          "value": "amostras maiores e avaliação em diferentes contextos clínicos e cirúrgicos são recomendados para aprofundar"
+        },
+        {
+          "type": "text",
+          "value": "esses achados."
+        }
+      ]
+    }
+  ]
+}

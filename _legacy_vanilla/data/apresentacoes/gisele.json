@@ -1,0 +1,89 @@
+{
+  "id": "gisele",
+  "meta": {
+    "title": "Avaliação de desfechos cirúrgicos perioperatórios em pacientes pediátricos",
+    "subtitle": "Estudo de Coorte Prospectivo (Braço LASOS-Peds)",
+    "authors": ["Gisele Mariel de Sousa Vasconcelos"],
+    "advisor": "Dra. Jane Auxiliadora Amorim",
+    "coAdvisors": ["Dr. Marcos Vinicius Nunes de Souza"],
+    "backgroundImage": "https://images.unsplash.com/photo-1579154204601-01588f351e67?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+    "institution": "Hospital da Restauração - CET Dr. Otávio Damázio Filho",
+    "date": "Fevereiro de 2026"
+  },
+  "sections": [
+    {
+      "id": "introducao",
+      "title": "Introdução",
+      "content": [
+        {
+          "type": "text",
+          "value": "Existe uma escassez de estudos específicos sobre desfechos cirúrgicos na população pediátrica, especialmente em centros de alta complexidade na América Latina."
+        },
+        {
+          "type": "highlight-box",
+          "title": "Cenário Global",
+          "items": [
+            "234 milhões de procedimentos cirúrgicos anuais no mundo.",
+            "Necessidade de detalhar a realidade pediátrica local para melhorar a segurança do paciente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "Objetivos",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Objetivo Principal",
+          "text": "Avaliar a incidência de complicações perioperatórias e intra-hospitalares em até 30 dias após a cirurgia em pacientes pediátricos."
+        },
+        {
+          "type": "text",
+          "value": "<strong>Morbidade e Mortalidade:</strong> Analisar os desfechos em pacientes menores de 18 anos submetidos à anestesia geral."
+        }
+      ]
+    },
+    {
+      "id": "metodos",
+      "title": "Métodos",
+      "content": [
+        {
+          "type": "grid",
+          "title": "Características do Estudo",
+          "cards": [
+            { "label": "Desenho", "value": "Coorte Prospectivo" },
+            { "label": "Multicêntrico", "value": "Braço LASOS-Peds" },
+            { "label": "Local", "value": "Hospital da Restauração" },
+            { "label": "Idade", "value": "< 18 anos" }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "O estudo seguiu o protocolo do Latin American Surgical Outcomes Study in Pediatrics (LASOS-Peds), adaptado para a realidade do centro local."
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "Resultados",
+      "content": [
+        {
+          "type": "text",
+          "value": "A coleta de dados ocorreu entre 17/02/2025 e 28/02/2025, focando no acompanhamento rigoroso de complicações pós-operatórias por um período de 30 dias."
+        }
+      ]
+    },
+    {
+      "id": "conclusao",
+      "title": "Conclusão",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Impacto Esperado",
+          "text": "Os resultados visam fornecer dados fundamentais para a melhoria da segurança do paciente pediátrico e compreensão dos desfechos cirúrgicos específicos do nosso centro."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1529 @@
+{
+  "id": "apresentação_mgso4_gabriel_duda_final",
+  "meta": {
+    "title": "Apresentação_MgSO4_Gabriel_Duda_FINAL.pdf",
+    "subtitle": "Extraído automaticamente do PDF",
+    "authors": [
+      "Apresentação_MgSO4_Gabriel_Duda_FINAL"
+    ],
+    "backgroundImage": "../../assets/images/default_bg.png",
+    "institution": "CET Otávio Damázio Filho",
+    "date": "2026"
+  },
+  "sections": [
+    {
+      "id": "induzido-por-rocur-nio",
+      "title": "INDUZIDO POR ROCURÔNIO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Ensaio Clínico Randomizado"
+        },
+        {
+          "type": "text",
+          "value": "Eduarda Silvestre R. da Costa Gomes | Gabriel Tavares Xavier Simplicio"
+        },
+        {
+          "type": "text",
+          "value": "Orientadora: Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Coorientadores: Dr. Marcos Vinícius N. de Souza | Dra. Yumi de Muta Pinto"
+        },
+        {
+          "type": "text",
+          "value": "Programa de Residência em Anestesiologia — CET Dr. Otávio Damázio Filho | Recife, Fevereiro de 2026"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Contexto Clínico do Sulfato de Magnésio"
+        },
+        {
+          "type": "text",
+          "value": "Benefícios do MgSO₄ Perioperatório Interação com o Bloqueio Neuromuscular"
+        },
+        {
+          "type": "text",
+          "value": "Antagonismo NMDA:"
+        },
+        {
+          "type": "text",
+          "value": "Bloqueio de canais de Ca² → ↓ Ach"
+        },
+        {
+          "type": "text",
+          "value": "• ↓ 24,4% consumo de morfina em 24h • ↑ Duração e Profundidade do BNM?"
+        },
+        {
+          "type": "text",
+          "value": "• Melhora da qualidade da recuperação • ↓ Latência e ↓ Consumo de BNM?"
+        }
+      ]
+    },
+    {
+      "id": "nvpo",
+      "title": "• ↓ NVPO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Bloqueio Neuromuscular Residual"
+        },
+        {
+          "type": "text",
+          "value": "• 63.5% na Extubação | 56.5% na SRPA"
+        },
+        {
+          "type": "text",
+          "value": "• Risco de Hipoxemia | Obstrução de Vias Aéreas | Maior Tempo de Recuperação"
+        },
+        {
+          "type": "text",
+          "value": "Albrecht et al. (2013); Hung et al. (2024)"
+        },
+        {
+          "type": "text",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "bases-farmacol-gicas",
+      "title": "BASES FARMACOLÓGICAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "O Antagonismo do Cálcio"
+        }
+      ]
+    },
+    {
+      "id": "pr--sin-ptico",
+      "title": "PRÉ-SINÁPTICO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Mg²⁺ antagoniza canais de Ca²⁺ voltagem-dependentes"
+        },
+        {
+          "type": "text",
+          "value": "• ↓ influxo de Ca²⁺ intracelular nos terminais motores"
+        },
+        {
+          "type": "text",
+          "value": "• ↓ exocitose das vesículas de acetilcolina"
+        },
+        {
+          "type": "text",
+          "value": "• Menor liberação de ACh na fenda sináptica"
+        }
+      ]
+    },
+    {
+      "id": "p-s-juncional",
+      "title": "PÓS-JUNCIONAL",
+      "content": [
+        {
+          "type": "text",
+          "value": "• ↓ Sensibilidade dos receptores nicotínicos (nAChR)"
+        },
+        {
+          "type": "text",
+          "value": "• ↓ Excitabilidade direta da membrana muscular"
+        },
+        {
+          "type": "text",
+          "value": "• Efeito estabilizador de membrana pelo Mg²⁺"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Evidências atuais"
+        }
+      ]
+    },
+    {
+      "id": "introdu--o",
+      "title": "INTRODUÇÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Estudo Dose MgSO₄ Regime Achado Principal"
+        },
+        {
+          "type": "text",
+          "value": "Evidências atuais e lacunas literárias"
+        },
+        {
+          "type": "text",
+          "value": "Micuci et"
+        },
+        {
+          "type": "text",
+          "value": "60 mg/kg Bolus ↑BNM intenso"
+        },
+        {
+          "type": "text",
+          "value": "al. (2019)"
+        },
+        {
+          "type": "text",
+          "value": "Czarnetzki"
+        },
+        {
+          "type": "text",
+          "value": "↓ Latência: 77 vs 120s"
+        },
+        {
+          "type": "text",
+          "value": "et al. 60 mg/kg Bolus"
+        },
+        {
+          "type": "text",
+          "value": "↑Duração: 44 vs 33 min"
+        },
+        {
+          "type": "text",
+          "value": "(2010)"
+        },
+        {
+          "type": "text",
+          "value": "Heterogeniedade entre os estudos"
+        },
+        {
+          "type": "text",
+          "value": "Bolus +"
+        },
+        {
+          "type": "text",
+          "value": "Gupta et"
+        },
+        {
+          "type": "text",
+          "value": "30 mg/kg Manutenç ↑Duração: 41 vs 28 min"
+        },
+        {
+          "type": "text",
+          "value": "al. (2006)"
+        },
+        {
+          "type": "text",
+          "value": "• Doses de MgSO₄ variando de 30 a 60 mg/kg ão"
+        },
+        {
+          "type": "text",
+          "value": "Bolus +"
+        },
+        {
+          "type": "text",
+          "value": "• Protocolos: bolus isolado vs. bolus + infusão"
+        },
+        {
+          "type": "text",
+          "value": "↓ Latência: 144 vs 187s"
+        },
+        {
+          "type": "text",
+          "value": "Rotava et Manutenç"
+        },
+        {
+          "type": "text",
+          "value": "30 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "al. (2013) ão - Duração Inalterada"
+        },
+        {
+          "type": "text",
+          "value": "contínua"
+        }
+      ]
+    },
+    {
+      "id": "resultados-inconsistentes-entre-estudos",
+      "title": "• Resultados inconsistentes entre estudos",
+      "content": [
+        {
+          "type": "text",
+          "value": "↓ Latência: 40 vs 53s"
+        },
+        {
+          "type": "text",
+          "value": "Benette et"
+        },
+        {
+          "type": "text",
+          "value": "30 mg/kg Bolus"
+        },
+        {
+          "type": "text",
+          "value": "al. (2025) ↑ Duração: 61 vs 38 min"
+        },
+        {
+          "type": "text",
+          "value": "Germano"
+        },
+        {
+          "type": "text",
+          "value": "↑ Duração clínica: 45 vs 37"
+        },
+        {
+          "type": "text",
+          "value": "F. et al 40 mg/kg Bolus"
+        },
+        {
+          "type": "text",
+          "value": "min"
+        },
+        {
+          "type": "text",
+          "value": "(2015)"
+        },
+        {
+          "type": "text",
+          "value": "Bolus +"
+        },
+        {
+          "type": "text",
+          "value": "Ryu et al. 50 mg/kg + ↑ Relaxamento"
+        },
+        {
+          "type": "text",
+          "value": "Manutenç"
+        },
+        {
+          "type": "text",
+          "value": "(2016) 15 mg/kg/h - Duração inalterada"
+        },
+        {
+          "type": "text",
+          "value": "ão"
+        }
+      ]
+    },
+    {
+      "id": "hip-tese-e-objetivos-do-estudo",
+      "title": "Hipótese e Objetivos do Estudo",
+      "content": [
+        {
+          "type": "text",
+          "value": "Hipótese: O MgSO₄ em bolus pré-indução potencializa o efeito farmacodinâmico do rocurônio de"
+        },
+        {
+          "type": "text",
+          "value": "maneira dose-dependente, com perfil de segurança aceitável."
+        }
+      ]
+    },
+    {
+      "id": "objetivo-geral-desfecho-prim-rio",
+      "title": "Objetivo Geral Desfecho Primário",
+      "content": [
+        {
+          "type": "text",
+          "value": "Avaliar impacto do MgSO₄ sobre parâmetros clínicos do bloqueio Tempo até T4/T1 > 25%"
+        },
+        {
+          "type": "text",
+          "value": "neuromuscular induzido por rocurônio 0,6 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "Recuperação parcial do BNM"
+        },
+        {
+          "type": "text",
+          "value": "Desfechos Secundários"
+        },
+        {
+          "type": "text",
+          "value": "Desfecho Definição Operacional"
+        },
+        {
+          "type": "text",
+          "value": "Tempo até T4/T1 < 25% Início de ação do rocurônio"
+        },
+        {
+          "type": "text",
+          "value": "Tempo até TOF = 0 Tempo para bloqueio completo"
+        },
+        {
+          "type": "text",
+          "value": "Duração com TOF = 0 Período sem resposta ao TOF"
+        },
+        {
+          "type": "text",
+          "value": "Duração com CPT = 0 Bloqueio neuromuscular intenso"
+        },
+        {
+          "type": "text",
+          "value": "Tempo até TOF ≥ 2 Recuperação inicial do BNM"
+        },
+        {
+          "type": "text",
+          "value": "Eventos adversos Hipotensão e bradicardia"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Delineamento do Estudo (PICO)"
+        }
+      ]
+    },
+    {
+      "id": "p",
+      "title": "P",
+      "content": [
+        {
+          "type": "text",
+          "value": "Critérios de Exclusão:"
+        },
+        {
+          "type": "text",
+          "value": "Adultos 18–65 anos | ASA I–II | IMC 18,5–35 kg/m²"
+        },
+        {
+          "type": "text",
+          "value": "• Doenças neuromusculares"
+        },
+        {
+          "type": "text",
+          "value": "Cirurgias eletivas de pequeno/médio porte sob anestesia geral"
+        },
+        {
+          "type": "text",
+          "value": "• Disfunção renal/hepática"
+        },
+        {
+          "type": "text",
+          "value": "INTERVENÇÃO • Fármacos que interferem o BNM"
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "title": "I",
+      "content": [
+        {
+          "type": "text",
+          "value": "MgSO4 IV pré-indução (infusão em 10 min)"
+        },
+        {
+          "type": "text",
+          "value": "• SF30: 30 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "• SF50: 50 mg/kg"
+        }
+      ]
+    },
+    {
+      "id": "c-comparador",
+      "title": "C COMPARADOR",
+      "content": [
+        {
+          "type": "text",
+          "value": "Solução salina 0,9% — 100 mL (placebo)"
+        }
+      ]
+    },
+    {
+      "id": "o",
+      "title": "O",
+      "content": [
+        {
+          "type": "text",
+          "value": "Tempo até recuperação neuromuscular parcial (T4/T1 >"
+        },
+        {
+          "type": "text",
+          "value": "25%) após administração de rocurônio 0,6 mg/kg"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Desenho do Estudo e População"
+        },
+        {
+          "type": "text",
+          "value": "GRUPOS (3 braços paralelos)"
+        },
+        {
+          "type": "text",
+          "value": "ECR, duplo-cego, placebo-controlado,"
+        },
+        {
+          "type": "text",
+          "value": "Desenho"
+        },
+        {
+          "type": "text",
+          "value": "paralelo 1:1:1 de superioridade"
+        },
+        {
+          "type": "text",
+          "value": "GC – Grupo Controle"
+        },
+        {
+          "type": "text",
+          "value": "Solução salina 0,9%"
+        },
+        {
+          "type": "text",
+          "value": "Local Hospital da Restauração, Recife-PE"
+        },
+        {
+          "type": "text",
+          "value": "100 mL — Controle"
+        },
+        {
+          "type": "text",
+          "value": "Período Julho a Dezembro de 2025 SF30 – MgSO4 30 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "MgSO₄ 30 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "100 mL — Dose baixa"
+        },
+        {
+          "type": "text",
+          "value": "Aprovação CEP Aprovado pelo CEP (Junho 2025)"
+        },
+        {
+          "type": "text",
+          "value": "SF50 – MgSO4 50 MG\\\\mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "MgSO₄ 50 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "100 mL — Dose alta"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Randomização, Cegamento e Cálculo Amostral"
+        }
+      ]
+    },
+    {
+      "id": "cegamento",
+      "title": "CEGAMENTO",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Envelopes opacos, lacrados, numerados"
+        },
+        {
+          "type": "text",
+          "value": "• Soluções idênticas (transparentes, 100 mL)"
+        },
+        {
+          "type": "text",
+          "value": "(n=123)"
+        },
+        {
+          "type": "text",
+          "value": "• 41 envelopes/grupo, embaralhados antes da"
+        },
+        {
+          "type": "text",
+          "value": "✓ Participante"
+        },
+        {
+          "type": "text",
+          "value": "seleção"
+        },
+        {
+          "type": "text",
+          "value": "✓ Avaliador (TOFscan®)"
+        },
+        {
+          "type": "text",
+          "value": "✓ Estatístico (grupos codificados 1, 2, 3)"
+        }
+      ]
+    },
+    {
+      "id": "c-lculo-amostral",
+      "title": "CÁLCULO AMOSTRAL",
+      "content": [
+        {
+          "type": "text",
+          "value": "✗ Anestesiologista (preparou soluções)"
+        },
+        {
+          "type": "text",
+          "value": "d de Cohen ≈ 0,72 | α = 0,05 | Poder = 80%"
+        },
+        {
+          "type": "text",
+          "value": "Planejado: n = 123 (41/grupo)"
+        },
+        {
+          "type": "text",
+          "value": "Efetivo: n = 51 (prazo institucional)"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Desfechos aferidos por TOFscan®"
+        },
+        {
+          "type": "text",
+          "value": "Cegamento"
+        },
+        {
+          "type": "text",
+          "value": "(monitorização objetiva),"
+        },
+        {
+          "type": "text",
+          "value": "minimizando viés"
+        },
+        {
+          "type": "text",
+          "value": "Anestesista Avaliador"
+        },
+        {
+          "type": "text",
+          "value": "Só teve acesso ao conteúdo"
+        },
+        {
+          "type": "text",
+          "value": "Recebe envelope com"
+        },
+        {
+          "type": "text",
+          "value": "do envelope após o término"
+        },
+        {
+          "type": "text",
+          "value": "grupo de alocação e"
+        },
+        {
+          "type": "text",
+          "value": "do período de coleta"
+        },
+        {
+          "type": "text",
+          "value": "prepara solução identica"
+        },
+        {
+          "type": "text",
+          "value": "Participante"
+        },
+        {
+          "type": "text",
+          "value": "Recebe solução antes da Estatístico"
+        },
+        {
+          "type": "text",
+          "value": "indução anestéisca em"
+        },
+        {
+          "type": "text",
+          "value": "Analisou grupos"
+        },
+        {
+          "type": "text",
+          "value": "frasco transparante"
+        },
+        {
+          "type": "text",
+          "value": "codificados"
+        }
+      ]
+    },
+    {
+      "id": "m-todos",
+      "title": "MÉTODOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Protocolo Anestésico e Monitorização Neuromuscular"
+        }
+      ]
+    },
+    {
+      "id": "protocolo-anest-sico-padronzado",
+      "title": "PROTOCOLO ANESTÉSICO PADRONZADO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Pré-medicação Indução"
+        },
+        {
+          "type": "text",
+          "value": "Midazolam 0,03–0,05 mg/kg IV Fentanil + Lidocaína + Propofol + Cetamina"
+        },
+        {
+          "type": "text",
+          "value": "+ Rocurônio 0,6 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "1 2 3 4"
+        },
+        {
+          "type": "text",
+          "value": "Infusão da solução Manutenção"
+        },
+        {
+          "type": "text",
+          "value": "10 minutos antes da indução Sevoflurano + Remifentanil"
+        },
+        {
+          "type": "text",
+          "value": "Monitorização Reversão Guiada"
+        },
+        {
+          "type": "text",
+          "value": "TOF=0 e CPT=0 Sugamadex 16 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "• ASA + Aceleromiografia tridimensional + Termômetro"
+        },
+        {
+          "type": "text",
+          "value": "nasofaríngeo"
+        },
+        {
+          "type": "text",
+          "value": "TOF=0 e CPT≥1 Sugamadex 4 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "• Nervo ulnar → músculo adutor polegar"
+        },
+        {
+          "type": "text",
+          "value": "• TOF cada 15s (indução) / 5 min (manutenção)"
+        },
+        {
+          "type": "text",
+          "value": "TOF >/= 1 Sugamadex 2 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "• CPT se TOF = 0"
+        },
+        {
+          "type": "text",
+          "value": "• Temperatura central > 36,5°C (em todos os pacientes)"
+        },
+        {
+          "type": "text",
+          "value": "Extubação: T4/T1 > 90%"
+        },
+        {
+          "type": "text",
+          "value": "Fluxograma CONSORT"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Características Clínicas da Amostra"
+        },
+        {
+          "type": "text",
+          "value": "Variável GC (n=16) SF30 (n=17) SF50 (n=18) p"
+        },
+        {
+          "type": "text",
+          "value": "Idade (anos) 39,4 ± 15,1 44,8 ± 16,2 31,8 ± 13,5 0,05"
+        },
+        {
+          "type": "text",
+          "value": "Sexo feminino (%) 56,3 58,8 55,6 0,98"
+        },
+        {
+          "type": "text",
+          "value": "IMC (kg/m²) 26,6 ± 5,2 26,3 ± 4,6 24,7 ± 3,9 0,42"
+        }
+      ]
+    },
+    {
+      "id": "asa-ii--------------------0",
+      "title": "ASA II (%) 56,3 64,7 33,3 0,16",
+      "content": [
+        {
+          "type": "text",
+          "value": "Peso (kg) 72,1 ± 17,2 68,9 ± 12,6 68,5 ± 12,5 0,74"
+        },
+        {
+          "type": "text",
+          "value": "Cirurgia Predominante Comorbidades"
+        },
+        {
+          "type": "text",
+          "value": "Colecistectomia videolaparoscópica (n=30) Distribuição similar entre grupos"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Desfecho Primário: Tempo até T4/T1 > 25%"
+        },
+        {
+          "type": "text",
+          "value": "Grupo N Desfecho"
+        }
+      ]
+    },
+    {
+      "id": "sf-0-----0",
+      "title": "SF50 16 60,8 ± 23,",
+      "content": [
+        {
+          "type": "text",
+          "value": "Comparação Δ (min) IC 95%"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF30 −10,30 −27,64 a +7,04"
+        },
+        {
+          "type": "text",
+          "value": "SF30 vs SF50 + 9,40 -8,01 a 26,81"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF50 −0,90 −16,96 a +15,16"
+        },
+        {
+          "type": "text",
+          "value": "SF30 prolongamento médio de 10,3 min"
+        },
+        {
+          "type": "text",
+          "value": "em relação a GC e de 9,4 min em relação"
+        },
+        {
+          "type": "text",
+          "value": "p = 0,439 (sem significância estatística) a SF50, porém com IC 95% cruzando zero"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Desfechos de Instalação do BNM"
+        },
+        {
+          "type": "text",
+          "value": "Tempo até T4/T1 < 25% (início de ação) Tempo até TOF = 0"
+        },
+        {
+          "type": "text",
+          "value": "Variável GC SF30 SF50 p"
+        },
+        {
+          "type": "text",
+          "value": "T4/T1 < 25% 2.2 ± 0,94 2,3 ± 0,72 2,7 ± 0,85 0,205"
+        }
+      ]
+    },
+    {
+      "id": "tof---0----0---------------0-------------0",
+      "title": "TOF = 0 4.40± 2,56 4.2 ± 3,08 3,9 ± 1,89 0,854",
+      "content": [
+        {
+          "type": "text",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Duração e Recuperação."
+        },
+        {
+          "type": "text",
+          "value": "Duração de TOF = 0 Duração de CPT = 0"
+        },
+        {
+          "type": "text",
+          "value": "GC SF30 SF50 p GC SF30 SF50 p"
+        },
+        {
+          "type": "text",
+          "value": "30,7 ± 15,6 41,6 ± 21,2 38,9 ± 22,9 0,307 6,7 ± 11,3 14,1 ± 18,4 16,1 ± 22,5 0,433"
+        },
+        {
+          "type": "text",
+          "value": "Comparação Δ (min) IC 95% Comparação Δ (min) IC 95%"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF30 −10,90 -24,23 a +2,43 GC vs SF30 - 7,33 -18,92 a +5,52"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF50 -8,20 -21,82 a +5,52 GC vs SF50 -9,33 -21,9 a 3,24"
+        },
+        {
+          "type": "text",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Desfechos de Duração e Recuperação"
+        },
+        {
+          "type": "text",
+          "value": "Duração com TOF >= 2 GC SF30 SF50 p"
+        },
+        {
+          "type": "text",
+          "value": "48,2 ± 19,3 58,2 ± 25,1 49,4 ± 20,0 0,079"
+        },
+        {
+          "type": "text",
+          "value": "Comparação Δ (min) IC 95%"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF30 −10 -24,79 a + 4,79"
+        },
+        {
+          "type": "text",
+          "value": "SF30 vs SF50 +8,8 -5,63 a +23,23"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF50 −1,2 -15,35 a +12,95"
+        },
+        {
+          "type": "text",
+          "value": "TOF ≥ 2: menor p-value (0,079)"
+        },
+        {
+          "type": "text",
+          "value": "SF30 com prolongamento de 10 min vs GC"
+        },
+        {
+          "type": "text",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "resultados",
+      "title": "RESULTADOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Segurança — Eventos Adversos"
+        },
+        {
+          "type": "text",
+          "value": "0% 2/51 0%"
+        },
+        {
+          "type": "text",
+          "value": "Bradicardia Hipotensão Eventos Graves"
+        },
+        {
+          "type": "text",
+          "value": "FC < 50 bpm em todos os grupos 1 em SF30, 1 em SF50 (etilefrina) Zero óbitos"
+        },
+        {
+          "type": "text",
+          "value": "Manejo da Hipotensão"
+        },
+        {
+          "type": "text",
+          "value": "Estudo não dimensionado para análise estatística"
+        },
+        {
+          "type": "text",
+          "value": "de eventos adversos raros. Perfil de segurança"
+        },
+        {
+          "type": "text",
+          "value": "• SF30: 1 paciente (etilefrina 1 mg)"
+        },
+        {
+          "type": "text",
+          "value": "aceitável nas doses testadas."
+        },
+        {
+          "type": "text",
+          "value": "• SF50: 1 paciente (etilefrina 8 mg)"
+        },
+        {
+          "type": "text",
+          "value": "• Resposta adequada ao vasopressor"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Interpretação dos Achados – O Desfecho Primário:"
+        },
+        {
+          "type": "text",
+          "value": "Resultados médios do tempo para recuperação de T4/T1 > 25%."
+        },
+        {
+          "type": "text",
+          "value": "Grupo N Desfecho"
+        },
+        {
+          "type": "text",
+          "value": "• SF30: um prolongamento de 10 min sem"
+        }
+      ]
+    },
+    {
+      "id": "gc",
+      "title": "GC 14 59,9 ± 22,7",
+      "content": [
+        {
+          "type": "text",
+          "value": "significância estatística (p=0.439)."
+        }
+      ]
+    },
+    {
+      "id": "sf-0-----0",
+      "title": "SF30 17 70,2 ± 28,3",
+      "content": [
+        {
+          "type": "text",
+          "value": "SF50 16 60,8 ± 23, • Cautela na interpretação:"
+        },
+        {
+          "type": "text",
+          "value": "• DP amplos e IC amplos -> variabilidade"
+        },
+        {
+          "type": "text",
+          "value": "Comparação Δ (min) IC 95% interindividual?"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF30 −10,30 −27,64 a +7,04"
+        },
+        {
+          "type": "text",
+          "value": "• Tamanho amostram limitado"
+        },
+        {
+          "type": "text",
+          "value": "SF30 vs SF50 + 9,40 -8,01 a 26,81"
+        },
+        {
+          "type": "text",
+          "value": "• Efeito farmacológico vs. variabilidade biológica"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF50 −0,90 −16,96 a +15,16"
+        },
+        {
+          "type": "text",
+          "value": "• IC amplos (positivos, negativos e nulos)"
+        },
+        {
+          "type": "text",
+          "value": "Relação Dose-Resposta?"
+        },
+        {
+          "type": "text",
+          "value": "Grupo SF30 (30 mg/kg)"
+        },
+        {
+          "type": "text",
+          "value": "Grupo SF50 (50 mg/kg)"
+        },
+        {
+          "type": "text",
+          "value": "Idade Média: 44,8 anos"
+        },
+        {
+          "type": "text",
+          "value": "Idade Média: 31,8 anos"
+        },
+        {
+          "type": "text",
+          "value": "Tempo de Recuperação Médio: 70,2 min Tempo de Recuperação Médio: 60,8 min"
+        },
+        {
+          "type": "text",
+          "value": "• A diferença etária no baseline (p=0,05) entre os grupos SF30 e SF50 pode ter mascarado o"
+        },
+        {
+          "type": "text",
+          "value": "efeito dose-resposta esperado."
+        },
+        {
+          "type": "text",
+          "value": "• Redução do clearance renal e hepático com a idade |pacientes mais jovens podem ter uma"
+        },
+        {
+          "type": "text",
+          "value": "eliminação mais eficiente."
+        }
+      ]
+    },
+    {
+      "id": "plausibilidade-biol-gica",
+      "title": "PLAUSIBILIDADE BIOLÓGICA",
+      "content": [
+        {
+          "type": "text",
+          "value": "MgSO4 e Profundidade do BNM"
+        },
+        {
+          "type": "text",
+          "value": "Tendência de Dose-Resposta Preservada"
+        },
+        {
+          "type": "text",
+          "value": "GC SF30 SF50 p"
+        },
+        {
+          "type": "text",
+          "value": "• Progressão de 6,7 -> 14,1 -> 16,1 minutos"
+        },
+        {
+          "type": "text",
+          "value": "6,7 ± 11,3 14,1 ± 18,4 16,1 ± 22,5 0,433"
+        },
+        {
+          "type": "text",
+          "value": "• Duração quase 3x maior do SF50 em relação"
+        },
+        {
+          "type": "text",
+          "value": "ao controle"
+        },
+        {
+          "type": "text",
+          "value": "• Micuci et al. (60 mg de MgSO4) -> prolongou"
+        },
+        {
+          "type": "text",
+          "value": "de 0 para 21,7 minutos o bloqueio intenso"
+        },
+        {
+          "type": "text",
+          "value": "Isso reforça a plausibilidade biológica do"
+        },
+        {
+          "type": "text",
+          "value": "efeito do MgSO4 na potencialização do"
+        },
+        {
+          "type": "text",
+          "value": "BNM, que pode ter sido mascarado em"
+        },
+        {
+          "type": "text",
+          "value": "Comparação Δ (min) IC 95%"
+        },
+        {
+          "type": "text",
+          "value": "desfechos menos sensíveis ou pela"
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF30 - 7,33 -18,92 a +5,52 variabilidade entre os grupos."
+        },
+        {
+          "type": "text",
+          "value": "GC vs SF50 -9,33 -21,9 a 3,24"
+        }
+      ]
+    },
+    {
+      "id": "discuss-o",
+      "title": "DISCUSSÃO",
+      "content": [
+        {
+          "type": "text",
+          "value": "Comparação com a Literatura"
+        },
+        {
+          "type": "text",
+          "value": "n"
+        },
+        {
+          "type": "text",
+          "value": "Estudo Dose Achado Principal"
+        },
+        {
+          "type": "text",
+          "value": "PRESENTE ESTUDO 51 30–50 mg/kg ↑ numérico duração BNM (sem significância)"
+        },
+        {
+          "type": "text",
+          "value": "Micuci et al. (2019) 60 60 mg/kg ↑ BNM intenso: 21,7 vs 0 min (p=0,001)"
+        },
+        {
+          "type": "text",
+          "value": "Czarnetzki et al. (2010) 80 60 mg/kg ↑ duração clínica ~35% (p<0,001)"
+        },
+        {
+          "type": "text",
+          "value": "Benette et al. (2025) 70 30 mg/kg ↑ duração (61 vs 38 min; p<0,001)"
+        },
+        {
+          "type": "text",
+          "value": "Gupta et al. (2006) 50 30 mg/kg + inf. ↑ recuperação (41 vs 28 min; p<0,001)"
+        },
+        {
+          "type": "text",
+          "value": "Rotava et al. (2013) 64 30 mg/kg + inf. ↓ latência, sem ↑ duração"
+        },
+        {
+          "type": "text",
+          "value": "Hipótese integrativa:"
+        },
+        {
+          "type": "text",
+          "value": "• Doses ≥ 60 mg/kg podem exceder limiar para efeitos robustos e detectáveis"
+        },
+        {
+          "type": "text",
+          "value": "• Doses moderadas (30–50 mg/kg): efeitos menores, mais sensíveis à variabilidade"
+        },
+        {
+          "type": "text",
+          "value": "• Regime de administração (bolus vs. bolus + infusão) influencia resultados"
+        },
+        {
+          "type": "text",
+          "value": "Forças e Limitações do Estudo"
+        },
+        {
+          "type": "text",
+          "value": "Forças Metodológicas Limitações"
+        },
+        {
+          "type": "text",
+          "value": "Cegamento"
+        },
+        {
+          "type": "text",
+          "value": "Poder estatístico Desequilíbrio etário"
+        },
+        {
+          "type": "text",
+          "value": "Participante, avaliador e estatístico"
+        },
+        {
+          "type": "text",
+          "value": "n=51 inferior ao planejado p=0,05 entre grupos (confusão)"
+        },
+        {
+          "type": "text",
+          "value": "(n=123)"
+        },
+        {
+          "type": "text",
+          "value": "Monitorização objetiva"
+        },
+        {
+          "type": "text",
+          "value": "TOFscan® aceleromiografia 3D"
+        },
+        {
+          "type": "text",
+          "value": "Desfecho adaptado n variável"
+        },
+        {
+          "type": "text",
+          "value": "Padronização rigorosa"
+        },
+        {
+          "type": "text",
+          "value": "TOF ratio vs. Dur25% bruto Cirurgias encerradas"
+        },
+        {
+          "type": "text",
+          "value": "(GCRP) precocemente"
+        },
+        {
+          "type": "text",
+          "value": "Protocolo anestésico uniforme"
+        },
+        {
+          "type": "text",
+          "value": "Aderência GCRP/CONSORT"
+        },
+        {
+          "type": "text",
+          "value": "Zero perdas pós-randomização"
+        },
+        {
+          "type": "text",
+          "value": "Comparação simultânea"
+        },
+        {
+          "type": "text",
+          "value": "Duas doses vs. placebo"
+        },
+        {
+          "type": "text",
+          "value": "Validade Externa"
+        },
+        {
+          "type": "text",
+          "value": "• Adultos ASA I–II, submetidos a cirurgias eletivas sob anestesia gera"
+        },
+        {
+          "type": "text",
+          "value": "• MgSO₄ em bolus pré-indução (30–50 mg/kg em 10 minutos) e rocurônio na dose de 0,6 mg/kg"
+        },
+        {
+          "type": "text",
+          "value": "• Não se recomenda extrapolar os resultados para cenários não representados, como:"
+        },
+        {
+          "type": "text",
+          "value": "• Infusão contínua de MgSO₄;"
+        },
+        {
+          "type": "text",
+          "value": "• Idosos, pacientes ASA ≥ III, portadores de insuficiência renal/hepática importante;"
+        },
+        {
+          "type": "text",
+          "value": "• Doenças da junção neuromuscular (p.ex., miastenia gravis);"
+        },
+        {
+          "type": "text",
+          "value": "• Cirurgias de grande porte e alto risco."
+        }
+      ]
+    },
+    {
+      "id": "considera--es-finais",
+      "title": "CONSIDERAÇÕES FINAIS",
+      "content": [
+        {
+          "type": "text",
+          "value": "MgSO₄ (30 e 50 mg/kg) em bolus pré-indução não demonstrou diferença estatisticamente significativa nos parâmetros do BNM"
+        },
+        {
+          "type": "text",
+          "value": "induzido por rocurônio"
+        },
+        {
+          "type": "text",
+          "value": "Tendência direcional com prolongamento numérico de cerca de 10 min no grupo SF30 em múltiplos desfechos e do BNM"
+        },
+        {
+          "type": "text",
+          "value": "profundo com SF50"
+        },
+        {
+          "type": "text",
+          "value": "Achados devem ser interpretados como inconclusivos, não como evidência de ausência de efeito"
+        }
+      ]
+    },
+    {
+      "id": "recomenda--es-para-estudos-futuros",
+      "title": "RECOMENDAÇÕES PARA ESTUDOS FUTUROS",
+      "content": [
+        {
+          "type": "text",
+          "value": "• Amostra ≥ 120 participantes (poder de 80%)"
+        },
+        {
+          "type": "text",
+          "value": "• Padronização do contexto cirúrgico e estratificação por idade"
+        },
+        {
+          "type": "text",
+          "value": "• Desfechos conforme GCRP (Dur25% com dados brutos)"
+        },
+        {
+          "type": "text",
+          "value": "• Monitorização quantitativa como eixo central do protocolo"
+        }
+      ]
+    },
+    {
+      "id": "refer-ncias",
+      "title": "REFERÊNCIAS",
+      "content": [
+        {
+          "type": "text",
+          "value": "1. Albrecht E, et al. Peri-operative intravenous administration of magnesium sulphate and postoperative pain. Anaesthesia. 2013;68(1):79–90."
+        },
+        {
+          "type": "text",
+          "value": "2. Hung KC, et al. Influence of Intravenous Magnesium Sulfate Infusion on Postoperative Quality of Recovery. Nutrients. 2024;16."
+        },
+        {
+          "type": "text",
+          "value": "3. Murphy GS, Szokol JW, Marymont JH, Greenberg SB, Avram MJ, Vender JS. Residual neuromuscular blockade and critical respiratory events in the postanesthesia care unit. Anesth Analg."
+        },
+        {
+          "type": "text",
+          "value": "2008;107(1):130–7."
+        },
+        {
+          "type": "text",
+          "value": "4. Ryu JH, et al. Magnesium sulfate administration during laparoscopic gastrectomy. Surg Endosc. 2016;(11):4976–84."
+        },
+        {
+          "type": "text",
+          "value": "5. Micuci AJ, et al. Effect of pretreatment with magnesium sulphate on neuromuscular blockade with rocuronium. Eur J Anaesthesiol. 2019;36(7):502–8."
+        },
+        {
+          "type": "text",
+          "value": "6. Gupta K, et al. The role of magnesium as an adjuvant during general anaesthesia. Anaesthesia. 2006;61(11):1058–63."
+        },
+        {
+          "type": "text",
+          "value": "7. Choi JH, et al. Magnesium sulfate with priming technique. J Int Med Res. 2015;43(4):490–501."
+        },
+        {
+          "type": "text",
+          "value": "8. Almeida MCS, et al. Magnesium sulfate and onset time of rocuronium. Acta Anaesthesiol Scand. 2024."
+        },
+        {
+          "type": "text",
+          "value": "9. Czarnetzki C, et al. Rocuronium-induced neuromuscular block after magnesium sulphate. Br J Anaesth. 2010;104(2):228–33."
+        },
+        {
+          "type": "text",
+          "value": "10. Rotava P, et al. Effects of magnesium sulphate on rocuronium. Rev Bras Anestesiol. 2013;63(1):110–5."
+        },
+        {
+          "type": "text",
+          "value": "11. Benette TP, et al. Magnesium sulphate and rocuronium. Eur J Anaesthesiol. 2025."
+        },
+        {
+          "type": "text",
+          "value": "12. Fuchs-Buder T, Brull SJ, Fagerlund MJ, Renew JR, Cammu G, Murphy GS, al. Good clinical research practice (GCRP) in pharmacodynamic studies neuromuscular blocking agents III: The 2023 Geneva"
+        },
+        {
+          "type": "text",
+          "value": "revision. Vol. 67, Acta Anaesthesiologica Scandinavica. John Wiley and Sons Inc; 2023. p. 994–1017."
+        },
+        {
+          "type": "text",
+          "value": "13. Naguib M, Brull SJ, Kopman AF, Hunter JM, Fülesdi B, Arkes HR, et al. Consensus statement on perioperative use of neuromuscular monitoring. Anesth Analg. 2018"
+        },
+        {
+          "type": "text",
+          "value": "14. Lew MF, Buananno TC. Anesthesia for patients with neuromuscular disease. In: Miller RD;, Pardo MC, editors. Miller’s Anesthesia. 9a edição. Philadelphia: Elsevier; 2020. p. 792–831."
+        },
+        {
+          "type": "text",
+          "value": "15. Hopewell S, Chan AW, Collins GS, Hróbjartsson A, Moher D, Schulz KF, et al. CONSORT 2025 statement: Updated guideline for reporting randomised trials. BMJ. 2025 Apr 14;389."
+        }
+      ]
+    },
+    {
+      "id": "agradecimentos",
+      "title": "AGRADECIMENTOS",
+      "content": [
+        {
+          "type": "text",
+          "value": "Aos pacientes que aceitaram participar do estudo"
+        },
+        {
+          "type": "text",
+          "value": "À orientadora Dra. Jane Auxiliadora Amorim"
+        },
+        {
+          "type": "text",
+          "value": "Aos coorientadores Dr. Marcos Vinícius e Dra. Yumi Muta"
+        },
+        {
+          "type": "text",
+          "value": "À equipe do Centro Cirúrgico do Hospital da Restauração, ao nosso chefe Kevin Rafael,"
+        },
+        {
+          "type": "text",
+          "value": "preceptores e a todos os colegas de Residência do CET Otávio Damázio"
+        },
+        {
+          "type": "text",
+          "value": "A todos os tutores do CET Dr. Otávio Damázio Filho"
+        },
+        {
+          "type": "text",
+          "value": "À SBA e SAEPE"
+        },
+        {
+          "type": "text",
+          "value": "Obrigado!"
+        }
+      ]
+    }
+  ]
+}

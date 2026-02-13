@@ -1,0 +1,344 @@
+{
+  "id": "gabriel-eduarda",
+  "meta": {
+    "title": "AVALIAÇÃO DO IMPACTO DO SULFATO DE MAGNÉSIO NO BLOQUEIO NEUROMUSCULAR INDUZIDO POR ROCURÔNIO",
+    "subtitle": "Ensaio Clínico Randomizado",
+    "authors": ["Eduarda Silvestre R. da Costa Gomes", "Gabriel Tavares Xavier Simplicio"],
+    "advisor": "Dra. Jane Auxiliadora Amorim",
+    "coAdvisors": ["Dr. Marcos Vinícius N. de Souza", "Dra. Yumi de Muta Pinto"],
+    "backgroundImage": "../../assets/images/anesthesia_mechanism_concept.png",
+    "institution": "Hospital da Restauração - CET Dr. Otávio Damázio Filho",
+    "date": "Fevereiro de 2026"
+  },
+  "sections": [
+    {
+      "id": "introducao",
+      "title": "Introdução",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Contexto Clínico do Sulfato de Magnésio",
+          "items": [
+            "<strong>Antagonismo NMDA:</strong> ↓ 24,4% consumo de morfina em 24h, Melhora da qualidade da recuperação, ↓ NVPO",
+            "<strong>Interação com o Bloqueio Neuromuscular:</strong> Bloqueio de canais de Ca²⁺ → ↓ Ach. ↑ Duração e Profundidade do BNM? ↓ Latência e ↓ Consumo de BNM?"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "<strong>Bloqueio Neuromuscular Residual:</strong> 63.5% na Extubação | 56.5% na SRPA. Risco de Hipoxemia | Obstrução de Vias Aéreas | Maior Tempo de Recuperação"
+        }
+      ]
+    },
+    {
+      "id": "bases-farmacologicas",
+      "title": "Bases Farmacológicas",
+      "content": [
+        {
+          "type": "highlight-box",
+          "title": "Mecanismo de Ação - Antagonismo do Cálcio",
+          "items": [
+            "<strong>PRÉ-SINÁPTICO:</strong> Mg²⁺ antagoniza canais de Ca²⁺ voltagem-dependentes, ↓ influxo de Ca²⁺ intracelular, ↓ exocitose das vesículas de acetilcolina, Menor liberação de ACh na fenda sináptica",
+            "<strong>PÓS-JUNCIONAL:</strong> ↓ Sensibilidade dos receptores nicotínicos (nAChR), ↓ Excitabilidade direta da membrana muscular, Efeito estabilizador de membrana pelo Mg²⁺"
+          ]
+        }
+      ]
+    },
+     {
+      "id": "evidencias",
+      "title": "Evidências Atuais",
+      "content": [
+        {
+          "type": "text",
+          "value": "<strong>Fluxograma PRISMA:</strong> 54 registros identificados, 12 estudos incluídos na revisão final."
+        },
+        {
+          "type": "table",
+          "title": "Estudos Anteriores",
+          "headers": ["Estudo", "Dose MgSO4", "Regime", "Achado Principal"],
+          "rows": [
+            ["Micuci et al. (2019)", "60 mg/kg", "Bolus", "↑ BNM intenso"],
+            ["Czarnetzki et al. (2010)", "60 mg/kg", "Bolus", "↓ Latência (77s vs 120s), ↑ Duração (44m vs 33m)"],
+            ["Gupta et al. (2006)", "30 mg/kg", "Bolus + Manut.", "↑ Duração (41m vs 28m)"],
+            ["Rotava et al. (2013)", "30 mg/kg", "Bolus + Manut.", "↓ Latência (144s vs 187s), Duração inalterada"],
+            ["Benette et al. (2025)", "30 mg/kg", "Bolus", "↓ Latência (40s vs 53s), ↑ Duração (61m vs 38m)"],
+             ["Ryu et al. (2016)", "50 mg/kg + 15mg/kg/h", "Bolus + Manut.", "↑ Relaxamento, Duração inalterada"]
+          ]
+        },
+        {
+            "type": "text",
+            "value": "<strong>Heterogeneidade:</strong> Doses variando de 30 a 60 mg/kg. Protocolos variados (bolus isolado vs. infusão). Resultados inconsistentes."
+        }
+      ]
+    },
+    {
+      "id": "objetivos",
+      "title": "Hipótese e Objetivos",
+      "content": [
+        {
+             "type": "highlight-box",
+             "title": "Hipótese",
+             "style": "border-left-color: var(--color-secondary);",
+             "text": "O MgSO₄ em bolus pré-indução potencializa o efeito farmacodinâmico do rocurônio de maneira dose-dependente, com perfil de segurança aceitável."
+        },
+        {
+            "type": "text",
+            "value": "<strong>Objetivo Geral:</strong> Avaliar impacto do MgSO₄ sobre parâmetros clínicos do bloqueio neuromuscular induzido por rocurônio 0,6 mg/kg."
+        },
+        {
+            "type": "text",
+            "value": "<strong>Desfecho Primário:</strong> Tempo até T4/T1 > 25% (Recuperação parcial do BNM)."
+        },
+        {
+          "type": "highlight-box",
+          "title": "Desfechos Secundários",
+          "items": [
+            "Tempo até T4/T1 < 25% (Início de ação)",
+            "Tempo até TOF = 0 (Bloqueio completo)",
+            "Duração com TOF = 0 (Período sem resposta)",
+            "Duração com CPT = 0 (Bloqueio intenso)",
+            "Tempo até TOF ≥ 2 (Recuperação inicial)",
+            "Eventos adversos (Hipotensão e bradicardia)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metodos",
+      "title": "Métodos",
+      "content": [
+        {
+            "type": "grid",
+            "title": "Delineamento PICO",
+            "cards": [
+                { "label": "População", "value": "Adultos 18–65 anos, ASA I–II" },
+                { "label": "Intervenção", "value": "MgSO4 (30 ou 50 mg/kg)" },
+                { "label": "Comparador", "value": "Salina 0.9% (Placebo)" },
+                 { "label": "Desfecho", "value": "Recuperação T4/T1 > 25%" }
+            ]
+        },
+        {
+             "type": "text",
+             "value": "<strong>Critérios de Exclusão:</strong> Doenças neuromusculares, Disfunção renal/hepática, Fármacos que interferem o BNM."
+        },
+        {
+            "type": "text",
+            "value": "<strong>Desenho:</strong> ECR, duplo-cego, placebo-controlado, paralelo 1:1:1. <strong>Local:</strong> Hospital da Restauração. <strong>Período:</strong> Julho a Dezembro de 2025. <strong>Aprovação CEP:</strong> Junho 2025."
+        },
+        {
+             "type": "highlight-box",
+             "title": "Grupos de Estudo",
+             "items": [
+                 "<strong>GC (Controle):</strong> Salina 0.9% 100mL",
+                 "<strong>SF30:</strong> MgSO4 30 mg/kg em 100mL",
+                 "<strong>SF50:</strong> MgSO4 50 mg/kg em 100mL"
+             ]
+        },
+        {
+             "type": "text",
+             "value": "<strong>Amostra:</strong> Planejado n=123, Efetivo n=51. Randomização por envelopes opacos (n=123). Cegamento completo (Participante, Avaliador, Estatístico)."
+        }
+      ]
+    },
+    {
+        "id": "protocolo",
+        "title": "Protocolo e Monitorização",
+        "content": [
+             {
+                 "type": "text",
+                 "value": "<strong>Pré-medicação:</strong> Midazolam 0,03–0,05 mg/kg. <strong>Infusão:</strong> 10 min antes da indução."
+             },
+             {
+                 "type": "text",
+                 "value": "<strong>Indução:</strong> Fentanil + Lidocaína + Propofol + Cetamina + Rocurônio 0,6 mg/kg."
+             },
+             {
+                 "type": "text",
+                 "value": "<strong>Manutenção:</strong> Sevoflurano + Remifentanil."
+             },
+             {
+                 "type": "text",
+                 "value": "<strong>Monitorização (TOFscan):</strong> Aceleromiografia 3D, Nervo ulnar. TOF a cada 15s na indução / 5 min manutenção."
+             }
+        ]
+    },
+    {
+        "id": "resultados-amostra",
+        "title": "Resultados: Amostra",
+        "content": [
+            {
+                "type": "table",
+                "title": "Características Clínicas",
+                "headers": ["Variável", "GC (n=16)", "SF30 (n=17)", "SF50 (n=18)", "p"],
+                "rows": [
+                    ["Idade (anos)", "39.4 ± 15.1", "44.8 ± 16.2", "31.8 ± 13.5", "0.05"],
+                    ["Sexo feminino (%)", "56.3", "58.8", "55.6", "0.98"],
+                    ["IMC (kg/m²)", "26.6 ± 5.2", "26.3 ± 4.6", "24.7 ± 3.9", "0.42"],
+                     ["ASA II (%)", "56.3", "64.7", "33.3", "0.16"]
+                ]
+            },
+            {
+                "type": "text",
+                "value": "Cirurgia predominante: Colecistectomia videolaparoscópica (n=30)."
+            }
+        ]
+    },
+    {
+      "id": "resultados-primario",
+      "title": "Resultados: Desfecho Primário",
+      "content": [
+        {
+          "type": "text",
+          "value": "O uso de MgSO4 prolongou numericamente o tempo de recuperação (T4/T1 > 25%), com maior efeito no grupo SF30, mas sem significância estatística (p=0.439)."
+        },
+        {
+          "type": "chart",
+          "chartId": "recoveryChart",
+          "title": "Tempo de Recuperação T4/T1 > 25% (min)",
+          "config": {
+             "type": "bar",
+             "data": {
+               "labels": ["Controle (GC)", "Sulfato 30 (SF30)", "Sulfato 50 (SF50)"],
+               "datasets": [{
+                 "label": "Tempo (min)",
+                 "data": [59.9, 70.2, 60.8],
+                 "backgroundColor": ["#e0e0e0", "#ff6b00", "#004aad"],
+                 "borderWidth": 1
+               }]
+             },
+             "options": {
+                "scales": { "y": { "beginAtZero": true, "title": { "display": true, "text": "Minutos" } } },
+                "plugins": {
+                   "legend": { "display": false },
+                    "tooltip": { "callbacks": { "footer": "function() { return 'p = 0.439'; }" } }
+                }
+             }
+          }
+        },
+        {
+          "type": "table",
+          "headers": ["Grupo", "Média ± DP (min)"],
+          "rows": [
+            ["GC", "59.9 ± 22.7"],
+            ["SF30", "70.2 ± 28.3"],
+            ["SF50", "60.8 ± 23.0"]
+          ]
+        },
+         {
+               "type": "text",
+               "value": "Comparação GC vs SF30: Δ -10.30 min (IC 95%: -27.64 a +7.04)."
+         }
+      ]
+    },
+    {
+        "id": "resultados-secundarios",
+        "title": "Resultados: Secundários",
+        "content": [
+            {
+                "type": "text",
+                "value": "<strong>Instalação do BNM:</strong> Sem diferença significativa na latência (T4/T1 < 25%) ou tempo para TOF=0."
+            },
+             {
+                "type": "text",
+                "value": "<strong>Duração e Recuperação:</strong> A duração do bloqueio (TOF=0 e CPT=0) foi numericamente maior nos grupos Magnésio, mas sem p < 0.05 global. Porém, para TOF ≥ 2, houve tendência a p=0.079."
+            },
+            {
+              "type": "chart",
+              "chartId": "durationChart",
+              "title": "Duração do Bloqueio Intenso (CPT=0) em min",
+              "config": {
+                 "type": "bar",
+                 "data": {
+                   "labels": ["Controle (GC)", "Sulfato 30 (SF30)", "Sulfato 50 (SF50)"],
+                   "datasets": [{
+                     "label": "Duração CPT=0 (min)",
+                     "data": [6.7, 14.1, 16.1],
+                     "backgroundColor": ["#e0e0e0", "#ff6b00", "#004aad"]
+                   }]
+                 },
+                 "options": {
+                    "scales": { "y": { "beginAtZero": true } },
+                    "plugins": { "legend": { "display": false }, "title": { "display": true, "text": "Duração CPT=0 (p=0.433)" } }
+                 }
+              }
+            },
+             {
+              "type": "chart",
+              "chartId": "tof2Chart",
+              "title": "Duração com TOF ≥ 2 (min)",
+              "config": {
+                 "type": "bar",
+                 "data": {
+                   "labels": ["GC", "SF30", "SF50"],
+                   "datasets": [{
+                     "label": "Tempo (min)",
+                     "data": [48.2, 58.2, 49.4],
+                     "backgroundColor": ["#e0e0e0", "#ff6b00", "#004aad"]
+                   }]
+                 },
+                 "options": {
+                    "scales": { "y": { "beginAtZero": true } },
+                     "plugins": { "legend": { "display": false }, "title": { "display": true, "text": "Tempo até TOF ≥ 2 (p=0.079)" } }
+                 }
+              }
+            }
+        ]
+    },
+    {
+        "id": "seguranca",
+        "title": "Segurança",
+        "content": [
+            {
+                 "type": "grid",
+                 "title": "Eventos Adversos",
+                 "cards": [
+                     { "label": "Bradicardia", "value": "0%" },
+                     { "label": "Hipotensão", "value": "2/51 (3.9%)" },
+                     { "label": "Eventos Graves", "value": "0%" }
+                 ]
+            },
+            {
+                "type": "text",
+                "value": "Perfil de segurança aceitável. Hipotensão correta com etilefrina (1 caso em SF30, 1 em SF50)."
+            }
+        ]
+    },
+    {
+      "id": "discussao",
+      "title": "Discussão e Conclusão",
+      "content": [
+        {
+           "type": "text",
+           "value": "O estudo observou um <strong>prolongamento de ~10 minutos</strong> no grupo SF30, porém estatisticamente inconclusivo devido aos ICs amplos e tamanho amostral limitado."
+        },
+        {
+            "type": "highlight-box",
+            "title": "Relação Dose-Resposta Paradoxal?",
+            "items": [
+                "Grupo SF30 teve recuperação mais lenta que SF50.",
+                "<strong>Confusão Etária:</strong> Grupo SF30 era significativamente mais velho (44.8 anos) que SF50 (31.8 anos).",
+                "Idade avançada reduz clearance de rocurônio, podendo explicar o maior bloqueio no grupo de menor dose de magnésio."
+            ]
+        },
+        {
+             "type": "highlight-box",
+             "title": "Plausibilidade Biológica",
+             "text": "A progressão da duração do bloqueio profundo (CPT=0) foi linear (6.7 -> 14.1 -> 16.1 min), sugerindo que o efeito farmacológico existe, mas foi mascarado no desfecho primário pela variabilidade."
+        },
+        {
+           "type": "text",
+           "value": "<strong>Conclusão:</strong> MgSO4 (30-50 mg/kg) pré-indução mostrou tendência a prolongar o bloqueio, mas os resultados não atingiram significância estatística. Recomenda-se cautela e monitorização (TOF) ao associar."
+        }
+      ]
+    },
+    {
+        "id": "referencias",
+        "title": "Referências",
+        "content": [
+            {
+               "type": "text",
+               "value": "<small>1. Albrecht E, et al. Anaesthesia. 2013.<br>2. Hung KC, et al. Nutrients. 2024.<br>3. Micuci AJ, et al. EJA. 2019.<br>5. Czarnetzki C, et al. BJA. 2010.<br> (Lista completa no slide original)</small>"
+            }
+        ]
+    }
+  ]
+}
